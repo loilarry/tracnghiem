@@ -2,17 +2,17 @@
 
 - Repository: [loilarry/tracnghiem](https://github.com/loilarry/tracnghiem)
 - Website: [https://loilarry.github.io/tracnghiem/](https://loilarry.github.io/tracnghiem/)
-- Release commit: `2490b06`
+- Release commit: `45a5be2` (merge PR #1)
 - Dataset: `2026-08-05.5`, 138 câu verified
 - Review queue: lưu bằng `localStorage`; câu sai xuất hiện ở mục **Câu cần ôn** và biến mất sau khi trả lời đúng
 - Source audit: 21 ảnh JPG giữ trong repo; bundle deploy không chứa ảnh nguồn hoặc URL ngoài
 
 ## Checks
 
-- GitHub Actions run `31061053646`: success
-- Unit: 16/16
+- GitHub Actions run `31061500608`: success
+- Unit: 17/17
 - Benchmark: 3/3
-- Browser E2E: 64/64 trên Chromium, 320x568, 390x844 và 768x1024
+- Browser E2E: 68/68 trên Chromium, 320x568, 390x844 và 768x1024
 - Public smoke: desktop và mobile tải được, reload không 404, hai chế độ và số câu hiển thị đúng
 
 ## Known data boundary

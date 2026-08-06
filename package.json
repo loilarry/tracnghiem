@@ -1,0 +1,44 @@
+{
+  "name": "tracnghiem",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "check:dist": "tsx scripts/check-dist.ts",
+    "preview": "vite preview",
+    "typecheck": "tsc -b --pretty false",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:e2e": "playwright test",
+    "test:benchmark": "vitest run tests/benchmark",
+    "validate:data": "tsx scripts/validate-question-bank.ts",
+    "review:report": "tsx scripts/write-review-summary.ts",
+    "build:manifest": "tsx scripts/build-image-manifest.ts",
+    "parse:ocr": "tsx scripts/parse-ocr.ts",
+    "detect:answers": "python3 scripts/detect-answer-markers.py",
+    "ocr": "swiftc -O scripts/ocr-images.swift -o .tmp-ocr -framework Vision -framework AppKit && ./.tmp-ocr images data/ocr && rm .tmp-ocr",
+    "preprocess:images": "python3 scripts/preprocess-images.py images .tmp-ocr/preprocessed"
+  },
+  "dependencies": {
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.62.1",
+    "@testing-library/jest-dom": "^7.0.0",
+    "@testing-library/react": "^16.3.2",
+    "@types/node": "^26.1.2",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.4",
+    "@vitejs/plugin-react": "^6.0.5",
+    "jsdom": "^30.0.1",
+    "playwright": "^1.62.1",
+    "tsx": "^4.23.7",
+    "typescript": "^7.0.2",
+    "vite": "^8.2.0",
+    "vitest": "^4.1.10"
+  }
+}

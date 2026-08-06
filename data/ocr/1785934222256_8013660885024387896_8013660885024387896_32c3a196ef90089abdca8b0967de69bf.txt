@@ -1,0 +1,50 @@
+17
+D) Chặn
+Câu hỏi: Theo Điều 8 - Luật An ninh mạng năm 2018, hành vi nào sau đây bị nghiêm cầm?
+Sử dụng không gian mạng để thực hiện hành vi xúi giục, lôi kéo, kích động người khác phạm
+B) Sử dụng công nghệ TTP để tạo ra các cuộc gọi tự động với giọng robot thu sẵn
+An toàn thông tin mạng là sự bảo vệ thông tin, hệ thống thông tin trên mạng tránh bị truy
+nhập, sử dụng
+D) An toàn thông tin là an toàn kỹ thuật cho các hoạt động của các cơ sở hạ tầng thông tin
+Câu hỏi: Hình thức, thủ đoạn nào sau đây chiếm đoạt tài khoản mạng xã hội?
+Shishing
+B)
+Kết bạn trên mạng xã hội
+C)
+Chia sẻ bài viết
+D) Xin tương tác
+Câu hỏi: Hình thức, thủ đoạn nào sau đây chiếm đoạt tài khoản mạng xã hội?
+Dò mât khâu
+B) Đăng nhập mật khẩu
+C) Đăng ký theo dõi
+D) Tương tác bài viết
+Câu hỏi: Hình thức, thủ đoạn nào sau đây chiêm đoạt tài khoản mạng xã hội?
+Sử dụng trojan, Keylog
+B) Đăng tải các thông tin bán hàng
+C) Đăng tải thông tin
+D) Sử dụng youtube, facebook
+Câu hỏi: Luật An toàn thông tin mạng gồm bao nhiêu điều?
++) 54 điều
+B) 55 điêu
+156 điêu
+D)
+57 điêu
+Câu hỏi: Luật An ninh mạng ban hành khi nào?
+-) Ngày 12/6/2018
+B) Ngày 12/6/2019
+C) Ngày 12/11/2018
+D) Ngày 01/6/2018
+Câu hỏi: Luật An ninh mạng gồm bao nhiêu chương?
+4) 7 chương
+B) 8 chương
+C 9 chương
+D) 6 chương
+Câu hỏi: Luật An ninh mạng gồm bao nhiêu điều?
+1) 43 điều
+B) 44 điêu
+C) 41 điều
+D)|42 điều
+Câu hỏi: Một trong những biện pháp phòng, chống vi phạm pháp luật trên không gian mạng?
+) Tuyên truyền, phố biến, giáo dục các quy định của pháp luật về quản lý không gian mạng
+B) Luật An ninh mạng nhăm bảo vệ người dùng hợp pháp trên không gian mạng
+C) Tự trau dồi kỹ năng nhận diện âm mưu, thủ đoạn gây nguy cơ mât an ninh mạng

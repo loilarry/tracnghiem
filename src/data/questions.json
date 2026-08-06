@@ -1,0 +1,2056 @@
+[
+  {
+    "id": "q-p04-001",
+    "order": 1,
+    "text": "Một trong những giải pháp phòng chống “Diễn biến hòa bình”, bạo loạn lật đổ ở Việt Nam hiện nay?",
+    "options": [
+      { "id": "A", "text": "Đẩy lùi tệ quan liêu, tham nhũng, tiêu cực trong xã hội, giữ vững định hướng XHCN trên các lĩnh vực, chống nguy cơ tụt hậu về kinh tế" },
+      { "id": "B", "text": "Nâng cao sự nghiệp công nghiệp hóa, hiện đại hóa đất nước và chăm lo nâng cao đời sống vật chất" },
+      { "id": "C", "text": "Làm tốt công tác giáo dục chính trị, tư tưởng cho đội ngũ cán bộ, viên chức Nhà nước và các ngành, các cấp" },
+      { "id": "D", "text": "Chủ động, kiên quyết, khôn khéo xử lý tình huống và giải quyết hậu quả khi có bạo loạn xảy ra" }
+    ],
+    "correctOptionId": "A",
+    "topic": "Diễn biến hòa bình",
+    "source": { "image": "1785934222080_8013660885024387896_8013660885024387896_6a34f61e8b352a2e67179ee00e7ba2d1.jpg", "printedPage": 4, "questionIndexOnPage": 1 },
+    "verification": { "status": "verified", "textConfidence": 0.96, "answerConfidence": 0.98, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-p04-002",
+    "order": 2,
+    "text": "Một trong những giải pháp phòng chống “Diễn biến hòa bình”, bạo loạn lật đổ ở Việt Nam hiện nay?",
+    "options": [
+      { "id": "A", "text": "Phát huy sức mạnh tổng hợp của khối đại đoàn kết dân tộc của cả hệ thống chính trị, dưới sự lãnh đạo của Đảng" },
+      { "id": "B", "text": "Nâng cao nhận thức về âm mưu, thủ đoạn của các thế lực thù địch, nắm chắc mọi diễn biến không để bị động và bất ngờ" },
+      { "id": "C", "text": "Đẩy mạnh hơn nữa sự nghiệp công nghiệp hóa, hiện đại hóa đất nước và nâng cao đời sống vật chất cho nhân dân" },
+      { "id": "D", "text": "Kiên quyết, khôn khéo xử lý tình huống và giải quyết hậu quả khi có bạo loạn xảy ra" }
+    ],
+    "correctOptionId": "B",
+    "topic": "Diễn biến hòa bình",
+    "source": { "image": "1785934222080_8013660885024387896_8013660885024387896_6a34f61e8b352a2e67179ee00e7ba2d1.jpg", "printedPage": 4, "questionIndexOnPage": 2 },
+    "verification": { "status": "verified", "textConfidence": 0.97, "answerConfidence": 0.98, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-p04-003",
+    "order": 3,
+    "text": "Một trong những giải pháp phòng chống “Diễn biến hòa bình”, bạo loạn lật đổ ở Việt Nam hiện nay?",
+    "options": [
+      { "id": "A", "text": "Giữ vững sự ổn định chính trị của đất nước, trật tự xã hội" },
+      { "id": "B", "text": "Chăm lo nâng cao đời sống vật chất, tinh thần cho quân nhân" },
+      { "id": "C", "text": "Xây dựng ý thức bảo vệ Tổ quốc cho toàn dân" },
+      { "id": "D", "text": "Chủ động, kiên quyết, khôn khéo xử lý tình huống và giải quyết hậu quả" }
+    ],
+    "correctOptionId": "C",
+    "topic": "Diễn biến hòa bình",
+    "source": { "image": "1785934222080_8013660885024387896_8013660885024387896_6a34f61e8b352a2e67179ee00e7ba2d1.jpg", "printedPage": 4, "questionIndexOnPage": 3 },
+    "verification": { "status": "verified", "textConfidence": 0.95, "answerConfidence": 0.97, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-p04-004",
+    "order": 4,
+    "text": "Một trong những giải pháp phòng chống “Diễn biến hòa bình”, bạo loạn lật đổ ở Việt Nam hiện nay?",
+    "options": [
+      { "id": "A", "text": "Giữ vững sự lãnh đạo, vai trò cầm quyền của Đảng đối với toàn xã hội" },
+      { "id": "B", "text": "Nâng cao sự nghiệp công nghiệp hóa đất nước, các ngành công nghiệp" },
+      { "id": "C", "text": "Làm tốt công tác giáo dục chính trị, tư tưởng cho đội ngũ cán bộ, viên chức Nhà nước và các ngành, các cấp" },
+      { "id": "D", "text": "Xây dựng cơ sở chính trị - xã hội vững mạnh về mọi mặt" }
+    ],
+    "correctOptionId": "D",
+    "topic": "Diễn biến hòa bình",
+    "source": { "image": "1785934222080_8013660885024387896_8013660885024387896_6a34f61e8b352a2e67179ee00e7ba2d1.jpg", "printedPage": 4, "questionIndexOnPage": 4 },
+    "verification": { "status": "verified", "textConfidence": 0.94, "answerConfidence": 0.97, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-p04-005",
+    "order": 5,
+    "text": "Một trong những giải pháp phòng chống “Diễn biến hòa bình”, bạo loạn lật đổ ở Việt Nam hiện nay?",
+    "options": [
+      { "id": "A", "text": "Giữ vững sự ổn định chính trị của đất nước" },
+      { "id": "B", "text": "Nâng cao sự nghiệp công nghiệp hóa, hiện đại hóa đất nước" },
+      { "id": "C", "text": "Chăm lo xây dựng lực lượng vũ trang ở địa phương vững mạnh" },
+      { "id": "D", "text": "Làm tốt công tác giáo dục chính trị, tư tưởng cho đội ngũ cán bộ, viên chức Nhà nước" }
+    ],
+    "correctOptionId": "C",
+    "topic": "Diễn biến hòa bình",
+    "source": { "image": "1785934222080_8013660885024387896_8013660885024387896_6a34f61e8b352a2e67179ee00e7ba2d1.jpg", "printedPage": 4, "questionIndexOnPage": 5 },
+    "verification": { "status": "verified", "textConfidence": 0.95, "answerConfidence": 0.97, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-p04-006",
+    "order": 6,
+    "text": "Một trong những giải pháp phòng chống “Diễn biến hòa bình”, bạo loạn lật đổ ở Việt Nam hiện nay?",
+    "options": [
+      { "id": "A", "text": "Giữ vững sự ổn định chính trị từ bên trong của đất nước, sự lãnh đạo, vai trò cầm quyền của Đảng đối với toàn xã hội" },
+      { "id": "B", "text": "Đẩy mạnh sự nghiệp công nghiệp hóa, hiện đại hóa đất nước và chăm lo nâng cao đời sống vật chất, tinh thần cho nhân dân lao động" },
+      { "id": "C", "text": "Làm tốt công tác giáo dục chính trị, tư tưởng cho đội ngũ cán bộ, viên chức Nhà nước và các ngành, các cấp" },
+      { "id": "D", "text": "Chủ động, kiên quyết, khôn khéo xử lý tình huống và giải quyết hậu quả khi có bạo loạn xảy ra" }
+    ],
+    "correctOptionId": "B",
+    "topic": "Diễn biến hòa bình",
+    "source": { "image": "1785934222080_8013660885024387896_8013660885024387896_6a34f61e8b352a2e67179ee00e7ba2d1.jpg", "printedPage": 4, "questionIndexOnPage": 6 },
+    "verification": { "status": "verified", "textConfidence": 0.94, "answerConfidence": 0.96, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-007",
+    "order": 6.5,
+    "text": "Chủ nghĩa đế quốc coi chiến lược “Diễn biến hòa bình” là gì?",
+    "options": [
+      { "id": "A", "text": "Là chiến lược chủ yếu" },
+      { "id": "B", "text": "Là chiến lược cơ bản" },
+      { "id": "C", "text": "Là chiến lược lâu dài" },
+      { "id": "D", "text": "Là chiến lược trước mắt" }
+    ],
+    "correctOptionId": "B",
+    "topic": "Diễn biến hòa bình",
+    "source": {
+      "image": "1785934222080_8013660885024387896_8013660885024387896_6a34f61e8b352a2e67179ee00e7ba2d1.jpg",
+      "continuationImage": "1785934222154_8013660885024387896_8013660885024387896_587570189744a3c48eeabf4453c56d0b.jpg",
+      "printedPage": 4,
+      "questionIndexOnPage": 7
+    },
+    "verification": { "status": "verified", "textConfidence": 0.99, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc trang 4→5", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-p16-001",
+    "order": 7,
+    "text": "Luật An toàn thông tin mạng được ban hành năm nào?",
+    "options": [
+      { "id": "A", "text": "2013" },
+      { "id": "B", "text": "2014" },
+      { "id": "C", "text": "2015" },
+      { "id": "D", "text": "2016" }
+    ],
+    "correctOptionId": "C",
+    "topic": "An toàn thông tin",
+    "source": { "image": "1785934222248_8013660885024387896_8013660885024387896_d6bd5c379376fa405a955302ccd42706.jpg", "printedPage": 16, "questionIndexOnPage": 3 },
+    "verification": { "status": "verified", "textConfidence": 0.99, "answerConfidence": 0.98, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-p16-002",
+    "order": 8,
+    "text": "Một trong những yêu cầu đảm bảo an toàn thông tin?",
+    "options": [
+      { "id": "A", "text": "Tính bí mật" },
+      { "id": "B", "text": "Tính bao quát" },
+      { "id": "C", "text": "Tính cơ động" },
+      { "id": "D", "text": "Tính nhanh chóng" }
+    ],
+    "correctOptionId": "A",
+    "topic": "An toàn thông tin",
+    "source": { "image": "1785934222248_8013660885024387896_8013660885024387896_d6bd5c379376fa405a955302ccd42706.jpg", "printedPage": 16, "questionIndexOnPage": 4 },
+    "verification": { "status": "verified", "textConfidence": 0.99, "answerConfidence": 0.96, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-p16-003",
+    "order": 9,
+    "text": "Một trong những yêu cầu đảm bảo an toàn thông tin?",
+    "options": [
+      { "id": "A", "text": "Tính toàn vẹn" },
+      { "id": "B", "text": "Tính lây lan" },
+      { "id": "C", "text": "Tính cơ động" },
+      { "id": "D", "text": "Tính an toàn" }
+    ],
+    "correctOptionId": "A",
+    "topic": "An toàn thông tin",
+    "source": { "image": "1785934222248_8013660885024387896_8013660885024387896_d6bd5c379376fa405a955302ccd42706.jpg", "printedPage": 16, "questionIndexOnPage": 5 },
+    "verification": { "status": "verified", "textConfidence": 0.99, "answerConfidence": 0.96, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-p16-004",
+    "order": 10,
+    "text": "Một trong những yêu cầu đảm bảo an toàn thông tin?",
+    "options": [
+      { "id": "A", "text": "Tính sẵn sàng" },
+      { "id": "B", "text": "Tính bảo mật" },
+      { "id": "C", "text": "Tính kịp thời" },
+      { "id": "D", "text": "Tính tiện lợi" }
+    ],
+    "correctOptionId": "A",
+    "topic": "An toàn thông tin",
+    "source": { "image": "1785934222248_8013660885024387896_8013660885024387896_d6bd5c379376fa405a955302ccd42706.jpg", "printedPage": 16, "questionIndexOnPage": 6 },
+    "verification": { "status": "verified", "textConfidence": 0.99, "answerConfidence": 0.95, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  }
+  ,
+  {
+    "id": "q-p21-001",
+    "order": 13,
+    "text": "Thuật ngữ an ninh phi truyền thống được chính thức đề cập từ Đại hội mấy của Đảng Cộng sản Việt Nam?",
+    "options": [
+      { "id": "A", "text": "Đại hội VIII" },
+      { "id": "B", "text": "Đại hội IX" },
+      { "id": "C", "text": "Đại hội X" },
+      { "id": "D", "text": "Đại hội XI" }
+    ],
+    "correctOptionId": "D",
+    "topic": "An ninh phi truyền thống",
+    "source": { "image": "1785934222298_8013660885024387896_8013660885024387896_bfe5ec33a5fc273b51332e202edf9f37.jpg", "printedPage": 21, "questionIndexOnPage": 1 },
+    "verification": { "status": "verified", "textConfidence": 0.98, "answerConfidence": 0.98, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-p21-002",
+    "order": 14,
+    "text": "Sinh viên có trách nhiệm gì trong đấu tranh phòng, chống các mối đe dọa an ninh phi truyền thống ở Việt Nam hiện nay?",
+    "options": [
+      { "id": "A", "text": "Các đối tượng phản động người Việt tăng cường các hoạt động chống phá." },
+      { "id": "B", "text": "Nhận thức sâu sắc về an ninh phi truyền thống và những tác động của nó đến mọi mặt của đời sống xã hội." },
+      { "id": "C", "text": "Các thế lực thù địch, đối tượng phản động thường lợi dụng các vấn đề tôn giáo để chống phá cách mạng Việt Nam." },
+      { "id": "D", "text": "Việt Nam hiện đang nằm trong nhóm các quốc gia thiếu nước." }
+    ],
+    "correctOptionId": "B",
+    "topic": "An ninh phi truyền thống",
+    "source": { "image": "1785934222298_8013660885024387896_8013660885024387896_bfe5ec33a5fc273b51332e202edf9f37.jpg", "printedPage": 21, "questionIndexOnPage": 2 },
+    "verification": { "status": "verified", "textConfidence": 0.97, "answerConfidence": 0.98, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  }
+  ,
+  {
+    "id": "q-p16-007",
+    "order": 11,
+    "text": "Hành vi nào sau đây vi phạm pháp luật trên không gian mạng?",
+    "options": [
+      { "id": "A", "text": "Spam" },
+      { "id": "B", "text": "Tương tác" },
+      { "id": "C", "text": "Chia sẻ" },
+      { "id": "D", "text": "Tin thiệt" }
+    ],
+    "correctOptionId": "A",
+    "topic": "An toàn thông tin",
+    "source": { "image": "1785934222248_8013660885024387896_8013660885024387896_d6bd5c379376fa405a955302ccd42706.jpg", "printedPage": 16, "questionIndexOnPage": 7 },
+    "verification": { "status": "verified", "textConfidence": 0.98, "answerConfidence": 0.97, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-p16-008",
+    "order": 12,
+    "text": "Hành vi nào sau đây vi phạm pháp luật trên không gian mạng?",
+    "options": [
+      { "id": "A", "text": "Tin giả" },
+      { "id": "B", "text": "Đăng tải các thông tin bán hàng" },
+      { "id": "C", "text": "Đăng tải thông tin" },
+      { "id": "D", "text": "Đăng ký theo dõi" }
+    ],
+    "correctOptionId": "A",
+    "topic": "An toàn thông tin",
+    "source": { "image": "1785934222248_8013660885024387896_8013660885024387896_d6bd5c379376fa405a955302ccd42706.jpg", "printedPage": 16, "questionIndexOnPage": 8 },
+    "verification": { "status": "verified", "textConfidence": 0.98, "answerConfidence": 0.97, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  }
+  ,
+  {
+    "id": "q-p06-002",
+    "order": 15,
+    "text": "Mục đích bạo loạn lật đổ là gì?",
+    "options": [
+      { "id": "A", "text": "Nhằm gây rối loạn an ninh chính trị, trật tự an toàn xã hội hoặc lật đổ chính quyền ở địa phương hay Trung ương" },
+      { "id": "B", "text": "Nhằm xảy ra bạo loạn lật đổ có thể ở nhiều nơi, nhiều vùng của đất nước" },
+      { "id": "C", "text": "Xóa bỏ chế độ xã hội chủ nghĩa ở Việt Nam, chuyển hóa sang chế độ tư bản chủ nghĩa, lệ thuộc phương Tây" },
+      { "id": "D", "text": "Dùng quân sự để răn đe và sẵn sàng can thiệp khi có điều kiện, thời cơ" }
+    ],
+    "correctOptionId": "A",
+    "topic": "Bạo loạn lật đổ",
+    "source": { "image": "1785934222108_8013660885024387896_8013660885024387896_796f54a0b91c076735db6d3bb3780459.jpg", "printedPage": 6, "questionIndexOnPage": 2 },
+    "verification": { "status": "verified", "textConfidence": 0.96, "answerConfidence": 0.98, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-p06-003",
+    "order": 16,
+    "text": "Hình thức bạo loạn lật đổ?",
+    "options": [
+      { "id": "A", "text": "Bạo loạn quân sự, bạo loạn vũ trang hoặc bạo loạn chính trị kết hợp với vũ trang" },
+      { "id": "B", "text": "Bạo loạn vũ trang hoặc bạo loạn chính trị kết hợp với vũ trang" },
+      { "id": "C", "text": "Bạo loạn chính trị, bạo loạn vũ trang, bạo loạn chính trị kết hợp với vũ trang" },
+      { "id": "D", "text": "Bạo loạn vũ lực, bạo loạn vũ trang hoặc bạo loạn chính trị kết hợp với vũ trang" }
+    ],
+    "correctOptionId": "C",
+    "topic": "Bạo loạn lật đổ",
+    "source": { "image": "1785934222108_8013660885024387896_8013660885024387896_796f54a0b91c076735db6d3bb3780459.jpg", "printedPage": 6, "questionIndexOnPage": 3 },
+    "verification": { "status": "verified", "textConfidence": 0.98, "answerConfidence": 0.96, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-p06-004",
+    "order": 17,
+    "text": "Một trong những mục tiêu của chiến lược “Diễn biến hòa bình” chống phá Việt Nam?",
+    "options": [
+      { "id": "A", "text": "Xóa bỏ vai trò, sức mạnh của nhân dân Việt Nam" },
+      { "id": "B", "text": "Xóa bỏ vai trò lãnh đạo của Đảng Cộng sản Việt Nam" },
+      { "id": "C", "text": "Xóa bỏ vai trò tổ chức của Quân đội nhân dân Việt Nam" },
+      { "id": "D", "text": "Xóa bỏ vai trò quản lý của Công an nhân dân Việt Nam" }
+    ],
+    "correctOptionId": "B",
+    "topic": "Diễn biến hòa bình",
+    "source": { "image": "1785934222108_8013660885024387896_8013660885024387896_796f54a0b91c076735db6d3bb3780459.jpg", "printedPage": 6, "questionIndexOnPage": 4 },
+    "verification": { "status": "verified", "textConfidence": 0.98, "answerConfidence": 0.96, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-p06-005",
+    "order": 18,
+    "text": "Một trong những mục tiêu của chiến lược “Diễn biến hòa bình” chống phá Việt Nam?",
+    "options": [
+      { "id": "A", "text": "Chuyển hóa Việt Nam sang chế độ chủ nghĩa đế quốc, lệ thuộc phương Tây" },
+      { "id": "B", "text": "Xóa bỏ chế độ xã hội chủ nghĩa ở Việt Nam, chuyển hóa sang chế độ tư bản chủ nghĩa, lệ thuộc phương Tây" },
+      { "id": "C", "text": "Xóa bỏ chế độ xã hội chủ nghĩa ở Việt Nam, chuyển hóa sang chế độ chủ nghĩa cộng sản" },
+      { "id": "D", "text": "Chuyển hóa Việt Nam sang chế độ phong kiến, lệ thuộc phương Tây" }
+    ],
+    "correctOptionId": "B",
+    "topic": "Diễn biến hòa bình",
+    "source": { "image": "1785934222108_8013660885024387896_8013660885024387896_796f54a0b91c076735db6d3bb3780459.jpg", "printedPage": 6, "questionIndexOnPage": 5 },
+    "verification": { "status": "verified", "textConfidence": 0.96, "answerConfidence": 0.97, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-p06-007",
+    "order": 19,
+    "text": "“Diễn biến hòa bình” của các thế lực thù địch đối với cách mạng Việt Nam?",
+    "options": [
+      { "id": "A", "text": "Xóa bỏ hệ tư tưởng của Nhà nước xã hội chủ nghĩa" },
+      { "id": "B", "text": "Xóa bỏ nền tảng chủ nghĩa Mác - Lênin, tư tưởng Hồ Chí Minh" },
+      { "id": "C", "text": "Xóa bỏ vai trò quản lý điều hành của Nhà nước xã hội chủ nghĩa" },
+      { "id": "D", "text": "Xóa bỏ vai trò lãnh đạo của các tổ chức chính trị - xã hội" }
+    ],
+    "correctOptionId": "B",
+    "topic": "Diễn biến hòa bình",
+    "source": { "image": "1785934222108_8013660885024387896_8013660885024387896_796f54a0b91c076735db6d3bb3780459.jpg", "printedPage": 6, "questionIndexOnPage": 7 },
+    "verification": { "status": "verified", "textConfidence": 0.97, "answerConfidence": 0.97, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  }
+  ,
+  {
+    "id": "q-p05-001",
+    "order": 20,
+    "text": "Một trong những đặc điểm tình hình quan hệ dân tộc trên thế giới?",
+    "options": [
+      { "id": "A", "text": "Toàn cầu hóa và các vấn đề toàn cầu làm cho sự hiểu biết lẫn nhau giữa các dân tộc tăng lên, thúc đẩy xu thế khu vực hóa" },
+      { "id": "B", "text": "Toàn cầu hóa làm cho các dân tộc hiểu biết lẫn nhau tăng lên, thúc đẩy xu thế khu vực hóa" },
+      { "id": "C", "text": "Vấn đề toàn cầu làm cho tác động lẫn nhau giữa các dân tộc tăng lên" },
+      { "id": "D", "text": "Quan hệ dân tộc, sắc tộc vẫn diễn ra giao lưu ở khu vực" }
+    ],
+    "correctOptionId": "A",
+    "topic": "Quan hệ dân tộc",
+    "source": { "image": "1785934222154_8013660885024387896_8013660885024387896_587570189744a3c48eeabf4453c56d0b.jpg", "printedPage": 5, "questionIndexOnPage": 1 },
+    "verification": { "status": "verified", "textConfidence": 0.94, "answerConfidence": 0.95, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-p05-003",
+    "order": 21,
+    "text": "Một trong những quan điểm của chủ nghĩa Mác - Lênin về vấn đề dân tộc?",
+    "options": [
+      { "id": "A", "text": "Vấn đề dân tộc còn tồn tại ở loài người" },
+      { "id": "B", "text": "Vấn đề dân tộc còn tồn tại lâu dài trong xã hội loài người" },
+      { "id": "C", "text": "Vấn đề dân tộc còn tồn tại song song trong xã hội phong kiến" },
+      { "id": "D", "text": "Độc lập dân tộc là quyền thiêng liêng nhất của các dân tộc, không ai có quyền xâm phạm" }
+    ],
+    "correctOptionId": "C",
+    "topic": "Quan hệ dân tộc",
+    "source": { "image": "1785934222154_8013660885024387896_8013660885024387896_587570189744a3c48eeabf4453c56d0b.jpg", "printedPage": 5, "questionIndexOnPage": 3 },
+    "verification": { "status": "verified", "textConfidence": 0.96, "answerConfidence": 0.96, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-p05-004",
+    "order": 22,
+    "text": "Một trong những quan điểm của chủ nghĩa Mác - Lênin về vấn đề dân tộc?",
+    "options": [
+      { "id": "A", "text": "Vấn đề dân tộc là vấn đề chiến lược của cách mạng xã hội chủ nghĩa" },
+      { "id": "B", "text": "Vấn đề dân tộc là vấn đề chiến lược của xã hội tư bản" },
+      { "id": "C", "text": "Vấn đề dân tộc còn tồn tại song song trong xã hội phong kiến" },
+      { "id": "D", "text": "Quan hệ dân tộc, sắc tộc diễn ra hết sức bình thường, nóng bỏng ở khu vực quốc gia và quốc tế" }
+    ],
+    "correctOptionId": "A",
+    "topic": "Quan hệ dân tộc",
+    "source": { "image": "1785934222154_8013660885024387896_8013660885024387896_587570189744a3c48eeabf4453c56d0b.jpg", "printedPage": 5, "questionIndexOnPage": 4 },
+    "verification": { "status": "verified", "textConfidence": 0.97, "answerConfidence": 0.95, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-p05-005",
+    "order": 23,
+    "text": "Giải quyết vấn đề dân tộc theo quan điểm của V.I. Lênin?",
+    "options": [
+      { "id": "A", "text": "Các dân tộc hợp tác, các dân tộc được quyền tự quyết, liên hiệp công nhân tất cả các dân tộc" },
+      { "id": "B", "text": "Các dân tộc hoàn toàn bình đẳng, các dân tộc được quyền tự quyết, liên hiệp công nhân tất cả các dân tộc" },
+      { "id": "C", "text": "Các dân tộc hoàn toàn bình đẳng, các dân tộc được quyền tự chủ, tự lực, tự cường" },
+      { "id": "D", "text": "Các dân tộc hoàn toàn bình đẳng, các dân tộc được quyền tự chủ, tự lực, liên hiệp công nhân tất cả các dân tộc" }
+    ],
+    "correctOptionId": "B",
+    "topic": "Quan hệ dân tộc",
+    "source": { "image": "1785934222154_8013660885024387896_8013660885024387896_587570189744a3c48eeabf4453c56d0b.jpg", "printedPage": 5, "questionIndexOnPage": 5 },
+    "verification": { "status": "verified", "textConfidence": 0.96, "answerConfidence": 0.97, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  }
+  ,
+  {
+    "id": "q-p07-001",
+    "order": 24,
+    "text": "Một trong những nguồn gốc của tôn giáo?",
+    "options": [
+      { "id": "A", "text": "Nguồn gốc tâm linh" },
+      { "id": "B", "text": "Nguồn gốc tâm lý" },
+      { "id": "C", "text": "Nguồn gốc tình cảm" },
+      { "id": "D", "text": "Nguồn gốc ý thức" }
+    ],
+    "correctOptionId": "B",
+    "topic": "Tôn giáo",
+    "source": { "image": "1785934222176_8013660885024387896_8013660885024387896_3e0364a2d7ae88e69e5f976e5a4fc8c3.jpg", "printedPage": 7, "questionIndexOnPage": 1 },
+    "verification": { "status": "verified", "textConfidence": 0.98, "answerConfidence": 0.98, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-p07-002",
+    "order": 25,
+    "text": "Một trong những tính chất của tôn giáo?",
+    "options": [
+      { "id": "A", "text": "Tính cách mạng" },
+      { "id": "B", "text": "Tính lịch sử" },
+      { "id": "C", "text": "Tính xã hội" },
+      { "id": "D", "text": "Tính nhân dân" }
+    ],
+    "correctOptionId": "B",
+    "topic": "Tôn giáo",
+    "source": { "image": "1785934222176_8013660885024387896_8013660885024387896_3e0364a2d7ae88e69e5f976e5a4fc8c3.jpg", "printedPage": 7, "questionIndexOnPage": 2 },
+    "verification": { "status": "verified", "textConfidence": 0.98, "answerConfidence": 0.98, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-p07-003",
+    "order": 26,
+    "text": "Một trong những tính chất của tôn giáo?",
+    "options": [
+      { "id": "A", "text": "Tính dân chủ" },
+      { "id": "B", "text": "Tính quần chúng" },
+      { "id": "C", "text": "Tính tâm lý" },
+      { "id": "D", "text": "Tính tình cảm" }
+    ],
+    "correctOptionId": "B",
+    "topic": "Tôn giáo",
+    "source": { "image": "1785934222176_8013660885024387896_8013660885024387896_3e0364a2d7ae88e69e5f976e5a4fc8c3.jpg", "printedPage": 7, "questionIndexOnPage": 3 },
+    "verification": { "status": "verified", "textConfidence": 0.98, "answerConfidence": 0.98, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-p07-004",
+    "order": 27,
+    "text": "Một trong những tính chất của tôn giáo?",
+    "options": [
+      { "id": "A", "text": "Tính nhân quyền" },
+      { "id": "B", "text": "Tính chính trị" },
+      { "id": "C", "text": "Tính tín ngưỡng" },
+      { "id": "D", "text": "Tính dân chủ" }
+    ],
+    "correctOptionId": "B",
+    "topic": "Tôn giáo",
+    "source": { "image": "1785934222176_8013660885024387896_8013660885024387896_3e0364a2d7ae88e69e5f976e5a4fc8c3.jpg", "printedPage": 7, "questionIndexOnPage": 4 },
+    "verification": { "status": "verified", "textConfidence": 0.98, "answerConfidence": 0.98, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-p07-005",
+    "order": 28,
+    "text": "Quan điểm của chủ nghĩa Mác - Lênin về giải quyết vấn đề tôn giáo trong cách mạng xã hội chủ nghĩa?",
+    "options": [
+      { "id": "A", "text": "Giải quyết vấn đề tôn giáo phải gắn với quá trình cải tạo xã hội cũ, xây dựng xã hội mới" },
+      { "id": "B", "text": "Tôn giáo còn là một tác nhân quan trọng tạo nên những xung đột ở nhiều nơi trên thế giới" },
+      { "id": "C", "text": "Phải kiên quyết giành độc lập dân tộc, giải phóng dân tộc đem lại tự do, hạnh phúc cho nhân dân" },
+      { "id": "D", "text": "Tôn giáo ra đời, phát triển và tồn tại trong những điều kiện kinh tế - xã hội nhất định" }
+    ],
+    "correctOptionId": "A",
+    "topic": "Tôn giáo",
+    "source": { "image": "1785934222176_8013660885024387896_8013660885024387896_3e0364a2d7ae88e69e5f976e5a4fc8c3.jpg", "printedPage": 7, "questionIndexOnPage": 5 },
+    "verification": { "status": "verified", "textConfidence": 0.97, "answerConfidence": 0.98, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-p07-006",
+    "order": 29,
+    "text": "Chính sách tôn giáo của Đảng và Nhà nước ta hiện nay?",
+    "options": [
+      { "id": "A", "text": "Mọi tín đồ đều có quyền tự do hành đạo hợp pháp theo quy định của pháp luật" },
+      { "id": "B", "text": "Xây dựng khối đại đoàn kết dân tộc bằng cách chia rẽ các dân tộc, các tôn giáo với nhau" },
+      { "id": "C", "text": "Tạo dựng các tổ chức phản động trong các dân tộc thiểu số, các tôn giáo để tiếp tục chống phá cách mạng Việt Nam" },
+      { "id": "D", "text": "Hướng dẫn các tôn giáo thực hiện quan hệ đối ngoại phù hợp với đường lối đối ngoại của Đảng và Nhà nước" }
+    ],
+    "correctOptionId": "D",
+    "topic": "Tôn giáo",
+    "source": { "image": "1785934222176_8013660885024387896_8013660885024387896_3e0364a2d7ae88e69e5f976e5a4fc8c3.jpg", "printedPage": 7, "questionIndexOnPage": 6 },
+    "verification": { "status": "verified", "textConfidence": 0.98, "answerConfidence": 0.98, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-p08-001",
+    "order": 30,
+    "text": "Thủ đoạn lợi dụng vấn đề dân tộc, tôn giáo chống phá cách mạng Việt Nam của các thế lực thù địch?",
+    "options": [
+      { "id": "A", "text": "Đấu tranh làm thất bại âm mưu của các thế lực thù địch lợi dụng vấn đề tôn giáo, dân tộc, phá hoại khối đại đoàn kết toàn dân tộc" },
+      { "id": "B", "text": "Kích động tư tưởng dân tộc hẹp hòi, dân tộc cực đoan, li khai; kích động chia rẽ lương – giáo và các tôn giáo" },
+      { "id": "C", "text": "Hướng dẫn các tôn giáo thực hiện quan hệ đối ngoại phù hợp với đường lối đối ngoại của Đảng và Nhà nước" },
+      { "id": "D", "text": "Ra sức tuyên truyền, quán triệt quan điểm, chính sách dân tộc, tôn giáo của Đảng và Nhà nước" }
+    ],
+    "correctOptionId": "B",
+    "topic": "Dân tộc và tôn giáo",
+    "source": { "image": "1785934222186_8013660885024387896_8013660885024387896_c8dcb98f55995dca7bbbf67e49fe7364.jpg", "printedPage": 8, "questionIndexOnPage": 1 },
+    "verification": { "status": "verified", "textConfidence": 0.96, "answerConfidence": 0.98, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-p08-002",
+    "order": 31,
+    "text": "Một trong những giải pháp đấu tranh phòng, chống kẻ thù lợi dụng vấn đề dân tộc, tôn giáo chống phá cách mạng Việt Nam?",
+    "options": [
+      { "id": "A", "text": "Làm thất bại âm mưu của các thế lực thù địch lợi dụng vấn đề tôn giáo, dân tộc, phá hoại khối đại đoàn kết toàn dân tộc" },
+      { "id": "B", "text": "Tăng cường xây dựng, củng cố khối đại đoàn kết toàn dân, giữ vững ổn định chính trị – xã hội" },
+      { "id": "C", "text": "Tôn trọng, giúp đỡ lẫn nhau giữa sinh viên các dân tộc, các tôn giáo" },
+      { "id": "D", "text": "Tham gia và vận động nhân dân thực hiện các phong trào cách mạng ở địa phương" }
+    ],
+    "correctOptionId": "B",
+    "topic": "Dân tộc và tôn giáo",
+    "source": { "image": "1785934222186_8013660885024387896_8013660885024387896_c8dcb98f55995dca7bbbf67e49fe7364.jpg", "printedPage": 8, "questionIndexOnPage": 2 },
+    "verification": { "status": "verified", "textConfidence": 0.95, "answerConfidence": 0.98, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-p08-003",
+    "order": 32,
+    "text": "Một trong những giải pháp đấu tranh phòng, chống kẻ thù lợi dụng vấn đề dân tộc, tôn giáo chống phá cách mạng Việt Nam?",
+    "options": [
+      { "id": "A", "text": "Học tập nắm vững đường lối, chính sách của Đảng và Nhà nước về công tác dân tộc, tôn giáo" },
+      { "id": "B", "text": "Cảnh giác cao, tích cực đấu tranh chống mọi âm mưu, thủ đoạn của mọi đối tượng lợi dụng vấn đề dân tộc, tôn giáo" },
+      { "id": "C", "text": "Chăm lo nâng cao đời sống vật chất, tinh thần của đồng bào các dân tộc, tôn giáo" },
+      { "id": "D", "text": "Đoàn kết, tôn trọng, giúp đỡ lẫn nhau giữa sinh viên các dân tộc, các tôn giáo" }
+    ],
+    "correctOptionId": "C",
+    "topic": "Dân tộc và tôn giáo",
+    "source": { "image": "1785934222186_8013660885024387896_8013660885024387896_c8dcb98f55995dca7bbbf67e49fe7364.jpg", "printedPage": 8, "questionIndexOnPage": 3 },
+    "verification": { "status": "verified", "textConfidence": 0.95, "answerConfidence": 0.98, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-p08-004",
+    "order": 33,
+    "text": "Trách nhiệm của sinh viên trong thực hiện chủ trương, chính sách dân tộc, tôn giáo của Đảng và Nhà nước?",
+    "options": [
+      { "id": "A", "text": "Tăng cường xây dựng, củng cố khối đại đoàn kết toàn dân, giữ vững ổn định chính trị – xã hội" },
+      { "id": "B", "text": "Cảnh giác cao, tích cực đấu tranh chống mọi âm mưu, thủ đoạn của mọi đối tượng lợi dụng vấn đề dân tộc, tôn giáo phá hoại ổn định, an ninh xã hội" },
+      { "id": "C", "text": "Chăm lo nâng cao đời sống vật chất, tinh thần của đồng bào các dân tộc, tôn giáo" },
+      { "id": "D", "text": "Giải quyết vấn đề tôn giáo phải gắn với quá trình cải tạo xã hội cũ, xây dựng xã hội mới" }
+    ],
+    "correctOptionId": "B",
+    "topic": "Dân tộc và tôn giáo",
+    "source": { "image": "1785934222186_8013660885024387896_8013660885024387896_c8dcb98f55995dca7bbbf67e49fe7364.jpg", "printedPage": 8, "questionIndexOnPage": 4 },
+    "verification": { "status": "verified", "textConfidence": 0.96, "answerConfidence": 0.98, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-p08-006",
+    "order": 34,
+    "text": "Một trong những vai trò của pháp luật trong công tác bảo vệ môi trường?",
+    "options": [
+      { "id": "A", "text": "Pháp luật quy định những quy tắc xử sự mà con người phải thực hiện khi khai thác và sử dụng các yếu tố (thành phần) của môi trường" },
+      { "id": "B", "text": "Các cơ quan Nhà nước có thẩm quyền ban hành nhiều chính sách ưu đãi để phát triển kinh tế mà không quan tâm đến bảo vệ môi trường" },
+      { "id": "C", "text": "Tội phạm về môi trường là hành vi nguy hiểm cho xã hội được quy định trong Bộ luật hình sự, do người có năng lực trách nhiệm hình sự" },
+      { "id": "D", "text": "Vi phạm hành chính trong lĩnh vực bảo vệ môi trường là những hành vi vi phạm các quy định quản lý nhà nước về bảo vệ môi trường" }
+    ],
+    "correctOptionId": "A",
+    "topic": "Bảo vệ môi trường",
+    "source": { "image": "1785934222186_8013660885024387896_8013660885024387896_c8dcb98f55995dca7bbbf67e49fe7364.jpg", "printedPage": 8, "questionIndexOnPage": 6 },
+    "verification": { "status": "verified", "textConfidence": 0.94, "answerConfidence": 0.96, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-008",
+    "order": 35,
+    "text": "Lực lượng nào tiến hành bạo loạn lật đổ?",
+    "options": [
+      { "id": "A", "text": "Lực lượng phản động hay lực lượng ly khai, đối lập trong nước hoặc cấu kết với nước ngoài" },
+      { "id": "B", "text": "Chủ nghĩa đế quốc và các thế lực phản động tiến hành" },
+      { "id": "C", "text": "Lực lượng ly khai, đối lập trong nước hoặc cấu kết với nước ngoài hoặc cấu kết với bất mãn" },
+      { "id": "D", "text": "Lực lượng phản động nước ngoài hay lực lượng ly khai, đối lập trong nước hoặc cấu kết với bất mãn" }
+    ],
+    "correctOptionId": "A",
+    "topic": "Bạo loạn lật đổ",
+    "source": { "image": "1785934222108_8013660885024387896_8013660885024387896_796f54a0b91c076735db6d3bb3780459.jpg", "questionIndexOnPage": 1 },
+    "verification": { "status": "verified", "textConfidence": 0.95, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-013",
+    "order": 38,
+    "text": "Một trong những nội dung chủ yếu của chiến lược ‘Diễn biến hòa bình’ chống phá Việt Nam?",
+    "options": [
+      { "id": "A", "text": "Xóa bỏ vai trò quản lý của Quân đội nhân dân Việt Nam" },
+      { "id": "B", "text": "Chia rẽ tình đoàn kết hữu nghị giữa Việt Nam với Lào, Campuchia, Trung Quốc" },
+      { "id": "C", "text": "Phủ nhận vai trò lãnh đạo của Đảng trong lĩnh vực quốc phòng, an ninh và đối với lực lượng vũ trang" },
+      { "id": "D", "text": "Chống phá về chính trị tư tưởng, văn hóa" }
+    ],
+    "correctOptionId": "D",
+    "topic": "Diễn biến hòa bình",
+    "source": { "image": "1785934222108_8013660885024387896_8013660885024387896_796f54a0b91c076735db6d3bb3780459.jpg", "questionIndexOnPage": 6 },
+    "verification": { "status": "verified", "textConfidence": 0.96, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-015",
+    "order": 40,
+    "text": "Một trong những thủ đoạn mới trong chiến lược ‘Diễn biến hòa bình’, bạo loạn lật đổ của các thế lực thù địch chống phá cách mạng Việt Nam hiện nay?",
+    "options": [
+      { "id": "A", "text": "Thành lập nhiều nhóm phản động công khai chống phá chính quyền" },
+      { "id": "B", "text": "Tích cực ‘đầu tư, kích cầu’ trên lĩnh vực giáo dục, đào tạo để ‘chuyển hóa’ thế hệ trẻ Việt Nam" },
+      { "id": "C", "text": "Xóa bỏ vai trò quản lý, điều hành của Nhà nước xã hội chủ nghĩa" },
+      { "id": "D", "text": "Gây ra bạo loạn quân sự, bạo loạn vũ trang hoặc bạo loạn chính trị kết hợp với vũ trang" }
+    ],
+    "correctOptionId": "B",
+    "topic": "Diễn biến hòa bình",
+    "source": { "image": "1785934222126_8013660885024387896_8013660885024387896_0cbc7090f0cddeea79afe8b1de499d91.jpg", "printedPage": 3, "questionIndexOnPage": 1 },
+    "verification": { "status": "verified", "textConfidence": 0.95, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-020",
+    "order": 41,
+    "text": "Một trong những nội dung chống phá trên lĩnh vực tư tưởng, văn hóa trong chiến lược ‘Diễn biến hòa bình’ của các thế lực thù địch đối với cách mạng Việt Nam?",
+    "options": [
+      { "id": "A", "text": "Kích động đòi thực hiện chế độ ‘đa nguyên chính trị, đa Đảng đối lập’" },
+      { "id": "B", "text": "Từng bước làm mất vai trò chủ đạo của thành phần kinh tế nhà nước" },
+      { "id": "C", "text": "Dùng ngoại giao thân thiện để hỗ trợ, hậu thuẫn, thông qua các tổ chức phi chính phủ để tiếp cận" },
+      { "id": "D", "text": "Phủ nhận, thay đổi vai trò lãnh đạo của Đảng trong lĩnh vực quốc phòng, an ninh và đối với lực lượng vũ trang" }
+    ],
+    "correctOptionId": "A",
+    "topic": "Diễn biến hòa bình",
+    "source": { "image": "1785934222142_8013660885024387896_8013660885024387896_ae848f778e58028cc796477304320b59.jpg", "questionIndexOnPage": 1 },
+    "verification": { "status": "verified", "textConfidence": 0.97, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-021",
+    "order": 42,
+    "text": "Một trong những nội dung chống phá trên lĩnh vực quốc phòng, an ninh trong chiến lược ‘Diễn biến hòa bình’ của các thế lực thù địch đối với cách mạng Việt Nam?",
+    "options": [
+      { "id": "A", "text": "Kích động, lôi kéo Quân đội, Công an, mua chuộc quân nhân, sĩ quan" },
+      { "id": "B", "text": "Tìm mọi cách hạ thấp uy tín, vai trò, trách nhiệm của Việt Nam trên trường quốc tế" },
+      { "id": "C", "text": "Tìm mọi cách ‘phi chính trị hóa’, làm cho Quân đội, Công an xa rời mục tiêu chiến đấu" },
+      { "id": "D", "text": "Xóa bỏ nền tảng chủ nghĩa Mác – Lênin, tư tưởng Hồ Chí Minh, đường lối của Đảng" }
+    ],
+    "correctOptionId": "C",
+    "topic": "Diễn biến hòa bình",
+    "source": { "image": "1785934222142_8013660885024387896_8013660885024387896_ae848f778e58028cc796477304320b59.jpg", "questionIndexOnPage": 2 },
+    "verification": { "status": "verified", "textConfidence": 0.96, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-022",
+    "order": 43,
+    "text": "Một trong những nội dung chống phá trên lĩnh vực ngoại giao trong chiến lược ‘Diễn biến hòa bình’ của các thế lực thù địch đối với cách mạng Việt Nam?",
+    "options": [
+      { "id": "A", "text": "Tìm mọi cách hạ thấp uy tín của Việt Nam trên trường quốc tế" },
+      { "id": "B", "text": "Chia rẽ mối đoàn kết với các nước láng giềng, trong khu vực" },
+      { "id": "C", "text": "Thông qua mạng xã hội đẩy mạnh xâm nhập, tác động, phá hoại vai trò, uy tín của Việt Nam" },
+      { "id": "D", "text": "Xóa bỏ vai trò quản lý, điều hành của Nhà nước xã hội chủ nghĩa" }
+    ],
+    "correctOptionId": "A",
+    "topic": "Diễn biến hòa bình",
+    "source": { "image": "1785934222142_8013660885024387896_8013660885024387896_ae848f778e58028cc796477304320b59.jpg", "questionIndexOnPage": 3 },
+    "verification": { "status": "verified", "textConfidence": 0.97, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-023",
+    "order": 44,
+    "text": "Một trong những nội dung chống phá trên lĩnh vực ngoại giao trong chiến lược ‘Diễn biến hòa bình’ của các thế lực thù địch đối với cách mạng Việt Nam?",
+    "options": [
+      { "id": "A", "text": "Chia rẽ tình đoàn kết hữu nghị giữa Việt Nam với Lào, Campuchia, Trung Quốc và các nước xã hội chủ nghĩa" },
+      { "id": "B", "text": "Làm mất uy tín, vai trò Việt Nam ở trong khu vực, quốc tế, trong các tổ chức, ngoài xã hội, trên internet" },
+      { "id": "C", "text": "Thông qua Internet, mạng xã hội đẩy mạnh xâm nhập, tác động, phá hoại vai trò, trách nhiệm, uy tín của Việt Nam" },
+      { "id": "D", "text": "Tiến hành hạ thấp uy tín, vai trò, trách nhiệm của Việt Nam trên trường quốc tế" }
+    ],
+    "correctOptionId": "B",
+    "topic": "Diễn biến hòa bình",
+    "source": { "image": "1785934222142_8013660885024387896_8013660885024387896_ae848f778e58028cc796477304320b59.jpg", "questionIndexOnPage": 4 },
+    "verification": { "status": "verified", "textConfidence": 0.96, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-024",
+    "order": 45,
+    "text": "Một trong những thủ đoạn mới trong chiến lược ‘Diễn biến hòa bình’, bạo loạn lật đổ của các thế lực thù địch chống phá cách mạng Việt Nam hiện nay?",
+    "options": [
+      { "id": "A", "text": "Thâm nhập, cài cắm gián điệp vào bộ máy chính quyền" },
+      { "id": "B", "text": "Dùng lực lượng phản động bên trong, bên ngoài can thiệp quân sự" },
+      { "id": "C", "text": "Điều chỉnh chính sách đối ngoại theo hướng tăng cường hợp tác nhiều mặt để thâm nhập, thúc đẩy quá trình ‘tự diễn biến’, ‘tự chuyển hóa’" },
+      { "id": "D", "text": "Công khai đập phá trụ sở các cơ quan Nhà nước" }
+    ],
+    "correctOptionId": "C",
+    "topic": "Diễn biến hòa bình",
+    "source": { "image": "1785934222142_8013660885024387896_8013660885024387896_ae848f778e58028cc796477304320b59.jpg", "questionIndexOnPage": 5 },
+    "verification": { "status": "verified", "textConfidence": 0.96, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-025",
+    "order": 46,
+    "text": "Một trong những thủ đoạn mới trong chiến lược ‘Diễn biến hòa bình’, bạo loạn lật đổ của các thế lực thù địch chống phá cách mạng Việt Nam hiện nay?",
+    "options": [
+      { "id": "A", "text": "Tiến hành hạ thấp uy tín, vai trò, trách nhiệm của Việt Nam trên trường quốc tế, trong khu vực" },
+      { "id": "B", "text": "Dùng tiền bạc mua chuộc, lôi kéo sinh viên" },
+      { "id": "C", "text": "Tăng cường thúc đẩy hoạt động ‘xã hội dân sự’ tại Việt Nam để tạo ‘kênh phản biện’ công khai chống lại các chủ trương, chính sách của Đảng, Nhà nước" },
+      { "id": "D", "text": "Chống phá về chính trị tư tưởng, văn hóa làm khâu đột phá, then chốt quyết định" }
+    ],
+    "correctOptionId": "C",
+    "topic": "Diễn biến hòa bình",
+    "source": { "image": "1785934222142_8013660885024387896_8013660885024387896_ae848f778e58028cc796477304320b59.jpg", "questionIndexOnPage": 6 },
+    "verification": { "status": "verified", "textConfidence": 0.96, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-028",
+    "order": 47,
+    "text": "Một trong những đặc điểm tình hình quan hệ dân tộc trên thế giới?",
+    "options": [
+      { "id": "A", "text": "Toàn cầu hóa và các vấn đề toàn cầu làm cho sự hiểu biết lẫn nhau giữa các dân tộc tăng lên, thúc đẩy xu thế khu vực hóa" },
+      { "id": "B", "text": "Toàn cầu hóa làm cho các dân tộc hiểu biết lẫn nhau gia tăng, thúc đẩy xu thế khu vực hóa" },
+      { "id": "C", "text": "Vấn đề toàn cầu làm cho tác động lẫn nhau giữa các dân tộc tăng lên" },
+      { "id": "D", "text": "Quan hệ dân tộc, sắc tộc vẫn diễn ra giao lưu ở khu vực" }
+    ],
+    "correctOptionId": "D",
+    "topic": "Quan hệ dân tộc",
+    "source": { "image": "1785934222154_8013660885024387896_8013660885024387896_587570189744a3c48eeabf4453c56d0b.jpg", "printedPage": 5, "questionIndexOnPage": 2 },
+    "verification": { "status": "verified", "textConfidence": 0.97, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-033",
+    "order": 48,
+    "text": "Một trong những đặc điểm các dân tộc Việt Nam?",
+    "options": [
+      { "id": "A", "text": "Các dân tộc ở Việt Nam có tinh thần đoàn kết chống giặc ngoại xâm, xây dựng đất nước" },
+      { "id": "B", "text": "Các dân tộc Việt Nam có tinh thần đoàn kết gắn bó xây dựng quốc gia dân tộc thống nhất" },
+      { "id": "C", "text": "Củng cố mối quan hệ tốt đẹp giữa dân tộc Việt Nam với các dân tộc trên thế giới" },
+      { "id": "D", "text": "Các dân tộc ở Việt Nam có quy mô dân số, kinh tế – xã hội đều nhau" }
+    ],
+    "correctOptionId": "B",
+    "topic": "Dân tộc Việt Nam",
+    "source": { "image": "1785934222166_8013660885024387896_8013660885024387896_b05c8eb1b23c710995f046ee4cd02c1a.jpg", "printedPage": 6, "questionIndexOnPage": 1 },
+    "verification": { "status": "verified", "textConfidence": 0.96, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-034",
+    "order": 49,
+    "text": "Một trong những đặc điểm các dân tộc Việt Nam?",
+    "options": [
+      { "id": "A", "text": "Các dân tộc ở Việt Nam được quyền tự quyết, chung sống hòa bình, hữu nghị" },
+      { "id": "B", "text": "Mỗi dân tộc ở Việt Nam đều có sắc thái văn hóa riêng, góp phần làm nên sự đa dạng, phong phú, thống nhất của văn hóa Việt Nam" },
+      { "id": "C", "text": "Vấn đề dân tộc là vấn đề cần giải quyết giữa các dân tộc diễn ra trên mọi lĩnh vực của đời sống xã hội" },
+      { "id": "D", "text": "Các dân tộc có tinh thần tương thân, tương ái, đoàn kết chống giặc ngoại xâm, xây dựng đất nước" }
+    ],
+    "correctOptionId": "B",
+    "topic": "Dân tộc Việt Nam",
+    "source": { "image": "1785934222166_8013660885024387896_8013660885024387896_b05c8eb1b23c710995f046ee4cd02c1a.jpg", "printedPage": 6, "questionIndexOnPage": 2 },
+    "verification": { "status": "verified", "textConfidence": 0.96, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-035",
+    "order": 50,
+    "text": "Một trong những quan điểm giải quyết vấn đề dân tộc của Đảng, Nhà nước ta hiện nay?",
+    "options": [
+      { "id": "A", "text": "Củng cố mối quan hệ tốt đẹp giữa dân tộc Việt Nam với các dân tộc trên thế giới" },
+      { "id": "B", "text": "Các dân tộc ở Việt Nam được quyền tự quyết, chung sống hòa bình, hữu nghị" },
+      { "id": "C", "text": "Vấn đề dân tộc và đoàn kết các dân tộc có vị trí chiến lược lâu dài trong sự nghiệp cách mạng nước ta hiện nay" },
+      { "id": "D", "text": "Các dân tộc Việt Nam có tinh thần đoàn kết gắn bó xây dựng quốc gia dân tộc thống nhất" }
+    ],
+    "correctOptionId": "D",
+    "topic": "Dân tộc Việt Nam",
+    "source": { "image": "1785934222166_8013660885024387896_8013660885024387896_b05c8eb1b23c710995f046ee4cd02c1a.jpg", "printedPage": 6, "questionIndexOnPage": 3 },
+    "verification": { "status": "verified", "textConfidence": 0.96, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-036",
+    "order": 51,
+    "text": "Một trong những đặc điểm giải quyết vấn đề dân tộc của Đảng, Nhà nước ta hiện nay?",
+    "options": [
+      { "id": "A", "text": "Củng cố mối quan hệ tốt đẹp giữa dân tộc Việt Nam với các dân tộc trên thế giới" },
+      { "id": "B", "text": "Vấn đề dân tộc là vấn đề cần giải quyết giữa các dân tộc diễn ra trên mọi lĩnh vực của đời sống xã hội" },
+      { "id": "C", "text": "Phát triển toàn diện chính trị, kinh tế, văn hóa, xã hội, an ninh – quốc phòng trên địa bàn dân tộc và miền núi" },
+      { "id": "D", "text": "Các dân tộc Việt Nam có tinh thần đoàn kết gắn bó xây dựng quốc gia dân tộc thống nhất" }
+    ],
+    "correctOptionId": "C",
+    "topic": "Dân tộc Việt Nam",
+    "source": { "image": "1785934222166_8013660885024387896_8013660885024387896_b05c8eb1b23c710995f046ee4cd02c1a.jpg", "printedPage": 6, "questionIndexOnPage": 4 },
+    "verification": { "status": "verified", "textConfidence": 0.95, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-037",
+    "order": 52,
+    "text": "Tôn giáo là gì?",
+    "options": [
+      { "id": "A", "text": "Là một hình thái ý thức xã hội, phản ánh hiện thực khách quan theo quan niệm hoang đường, ảo tưởng phù hợp với tâm lý, hành vi của con người" },
+      { "id": "B", "text": "Là một trạng thái nhận thức xã hội, phản ánh hiện thực khách quan theo quan niệm hoang đường, ảo tưởng phù hợp với tâm lý của con người" },
+      { "id": "C", "text": "Là hiện tượng xã hội tiêu cực, phải kiên quyết bài trừ, nhằm lành mạnh hóa đời sống tinh thần xã hội" },
+      { "id": "D", "text": "Là nhận thức con người còn hạn hẹp, mơ hồ về tự nhiên, xã hội, đồng thời là quá trình nhận thức" }
+    ],
+    "correctOptionId": "A",
+    "topic": "Tôn giáo",
+    "source": { "image": "1785934222166_8013660885024387896_8013660885024387896_b05c8eb1b23c710995f046ee4cd02c1a.jpg", "printedPage": 6, "questionIndexOnPage": 5 },
+    "verification": { "status": "verified", "textConfidence": 0.96, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-038",
+    "order": 53,
+    "text": "Một trong những nguồn gốc của tôn giáo?",
+    "options": [
+      { "id": "A", "text": "Nguồn gốc xã hội" },
+      { "id": "B", "text": "Nguồn gốc kinh tế – xã hội" },
+      { "id": "C", "text": "Nguồn gốc tình cảm" },
+      { "id": "D", "text": "Nguồn gốc nhân dân" }
+    ],
+    "correctOptionId": "B",
+    "topic": "Tôn giáo",
+    "source": { "image": "1785934222166_8013660885024387896_8013660885024387896_b05c8eb1b23c710995f046ee4cd02c1a.jpg", "printedPage": 6, "questionIndexOnPage": 6 },
+    "verification": { "status": "verified", "textConfidence": 0.97, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-046",
+    "order": 54,
+    "text": "Một trong những âm mưu lợi dụng vấn đề dân tộc, tôn giáo chống phá cách mạng Việt Nam của các thế lực thù địch?",
+    "options": [
+      { "id": "A", "text": "Trực tiếp phá hoại làm suy yếu khối đại đoàn kết dân tộc bằng cách chia rẽ các dân tộc, các tôn giáo với nhau, giữa đồng bào tôn giáo và đồng bào không tôn giáo" },
+      { "id": "B", "text": "Đẩy mạnh phong trào thi đua yêu nước, xây dựng cuộc sống tốt đời, đẹp đạo trong quần chúng, tín đồ, chức sắc, nhà tu hành ở cơ sở" },
+      { "id": "C", "text": "Tăng cường thông tin tuyên truyền về chính sách tôn giáo của Đảng và Nhà nước" },
+      { "id": "D", "text": "Các tôn giáo thực hiện quan hệ đối ngoại phù hợp với đường lối đối ngoại của Đảng và Nhà nước" }
+    ],
+    "correctOptionId": "A",
+    "topic": "Dân tộc và tôn giáo",
+    "source": { "image": "1785934222176_8013660885024387896_8013660885024387896_3e0364a2d7ae88e69e5f976e5a4fc8c3.jpg", "printedPage": 7, "questionIndexOnPage": 7 },
+    "verification": { "status": "verified", "textConfidence": 0.96, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-051",
+    "order": 55,
+    "text": "Pháp luật trong công tác bảo vệ môi trường có mấy vai trò?",
+    "options": [
+      { "id": "A", "text": "3" },
+      { "id": "B", "text": "4" },
+      { "id": "C", "text": "5" },
+      { "id": "D", "text": "6" }
+    ],
+    "correctOptionId": "C",
+    "topic": "Bảo vệ môi trường",
+    "source": { "image": "1785934222186_8013660885024387896_8013660885024387896_c8dcb98f55995dca7bbbf67e49fe7364.jpg", "printedPage": 8, "questionIndexOnPage": 5 },
+    "verification": { "status": "verified", "textConfidence": 0.98, "answerConfidence": 0.98, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-053",
+    "order": 56,
+    "text": "Hành vi nào sau đây là vi phạm hành chính trong lĩnh vực bảo vệ môi trường?",
+    "options": [
+      { "id": "A", "text": "Hành vi vi phạm các quy định về quản lý chất thải" },
+      { "id": "B", "text": "Hành vi hủy hoại rừng là ngoài hai hành vi đốt rừng và phá rừng trái phép" },
+      { "id": "C", "text": "Chủ thể tiến hành phòng, chống vi phạm pháp luật về bảo vệ môi trường rất đa dạng" },
+      { "id": "D", "text": "Tham gia tích cực trong các phong trào về bảo vệ môi trường" }
+    ],
+    "correctOptionId": "A",
+    "topic": "Bảo vệ môi trường",
+    "source": { "image": "1785934222195_8013660885024387896_8013660885024387896_381181602352a8f6beaa53fd3dfa2408.jpg", "printedPage": 10, "questionIndexOnPage": 1 },
+    "verification": { "status": "verified", "textConfidence": 0.95, "answerConfidence": 0.96, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-054",
+    "order": 57,
+    "text": "Hành vi nào sau đây là vi phạm hành chính trong lĩnh vực bảo vệ môi trường?",
+    "options": [
+      { "id": "A", "text": "Hành vi gây ô nhiễm môi trường" },
+      { "id": "B", "text": "Nuôi trồng, khai thác thủy sản" },
+      { "id": "C", "text": "Lấy phòng ngừa kết hợp với xử lý ô nhiễm, cải thiện môi trường" },
+      { "id": "D", "text": "Xây dựng các phong trào bảo vệ môi trường" }
+    ],
+    "correctOptionId": "A",
+    "topic": "Bảo vệ môi trường",
+    "source": { "image": "1785934222195_8013660885024387896_8013660885024387896_381181602352a8f6beaa53fd3dfa2408.jpg", "printedPage": 10, "questionIndexOnPage": 2 },
+    "verification": { "status": "verified", "textConfidence": 0.97, "answerConfidence": 0.96, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-055",
+    "order": 58,
+    "text": "Phòng, chống vi phạm pháp luật về bảo vệ môi trường có mấy đặc điểm?",
+    "options": [
+      { "id": "A", "text": "3" }, { "id": "B", "text": "4" }, { "id": "C", "text": "5" }, { "id": "D", "text": "6" }
+    ],
+    "correctOptionId": "B",
+    "topic": "Bảo vệ môi trường",
+    "source": { "image": "1785934222195_8013660885024387896_8013660885024387896_381181602352a8f6beaa53fd3dfa2408.jpg", "printedPage": 10, "questionIndexOnPage": 3 },
+    "verification": { "status": "verified", "textConfidence": 0.98, "answerConfidence": 0.98, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-056",
+    "order": 59,
+    "text": "Phòng, chống vi phạm pháp luật về bảo vệ môi trường gồm mấy nội dung?",
+    "options": [
+      { "id": "A", "text": "5" }, { "id": "B", "text": "6" }, { "id": "C", "text": "7" }, { "id": "D", "text": "8" }
+    ],
+    "correctOptionId": "A",
+    "topic": "Bảo vệ môi trường",
+    "source": { "image": "1785934222195_8013660885024387896_8013660885024387896_381181602352a8f6beaa53fd3dfa2408.jpg", "printedPage": 10, "questionIndexOnPage": 4 },
+    "verification": { "status": "verified", "textConfidence": 0.98, "answerConfidence": 0.98, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-057",
+    "order": 60,
+    "text": "Có mấy biện pháp phòng, chống vi phạm pháp luật về bảo vệ môi trường?",
+    "options": [
+      { "id": "A", "text": "4" }, { "id": "B", "text": "5" }, { "id": "C", "text": "6" }, { "id": "D", "text": "7" }
+    ],
+    "correctOptionId": "B",
+    "topic": "Bảo vệ môi trường",
+    "source": { "image": "1785934222195_8013660885024387896_8013660885024387896_381181602352a8f6beaa53fd3dfa2408.jpg", "printedPage": 10, "questionIndexOnPage": 5 },
+    "verification": { "status": "verified", "textConfidence": 0.98, "answerConfidence": 0.98, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-058",
+    "order": 61,
+    "text": "Một trong những nội dung phòng, chống vi phạm pháp luật về bảo vệ môi trường?",
+    "options": [
+      { "id": "A", "text": "Xác định và làm rõ các nguyên nhân, điều kiện của vi phạm pháp luật về bảo vệ môi trường" },
+      { "id": "B", "text": "Nghiên cứu làm rõ những vấn đề có tính quy luật trong hoạt động vi phạm pháp luật của các đối tượng" },
+      { "id": "C", "text": "Dùng các lợi ích vật chất để kích thích chủ thể thực hiện những hoạt động có lợi cho môi trường" },
+      { "id": "D", "text": "Tham mưu về nội dung của công tác phòng, chống vi phạm pháp luật về bảo vệ môi trường" }
+    ],
+    "correctOptionId": "A",
+    "topic": "Bảo vệ môi trường",
+    "source": { "image": "1785934222195_8013660885024387896_8013660885024387896_381181602352a8f6beaa53fd3dfa2408.jpg", "printedPage": 10, "questionIndexOnPage": 6 },
+    "verification": { "status": "verified", "textConfidence": 0.96, "answerConfidence": 0.98, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-059",
+    "order": 62,
+    "text": "Một trong những nội dung phòng, chống vi phạm pháp luật về bảo vệ môi trường?",
+    "options": [
+      { "id": "A", "text": "Tiến hành các hoạt động điều tra, xử lý vi phạm pháp luật về bảo vệ môi trường" },
+      { "id": "B", "text": "Xác định rõ các nguyên nhân và điều kiện thuộc ngành nào, lĩnh vực nào cụ thể" },
+      { "id": "C", "text": "Các loại vi phạm pháp luật về bảo vệ môi trường xảy ra phổ biến" },
+      { "id": "D", "text": "Nâng cao nhận thức cho quần chúng nhân dân về ý thức trách nhiệm trong công tác bảo vệ môi trường" }
+    ],
+    "correctOptionId": "A",
+    "topic": "Bảo vệ môi trường",
+    "source": { "image": "1785934222195_8013660885024387896_8013660885024387896_381181602352a8f6beaa53fd3dfa2408.jpg", "printedPage": 10, "questionIndexOnPage": 7 },
+    "verification": { "status": "verified", "textConfidence": 0.96, "answerConfidence": 0.98, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-060",
+    "order": 63,
+    "text": "Một trong những biện pháp phòng, chống vi phạm pháp luật về bảo vệ môi trường?",
+    "options": [
+      { "id": "A", "text": "Biện pháp tổ chức – hành chính" },
+      { "id": "B", "text": "Biện pháp hình sự" },
+      { "id": "C", "text": "Biện pháp vận động nhân dân" },
+      { "id": "D", "text": "Biện pháp văn hóa – xã hội" }
+    ],
+    "correctOptionId": "A",
+    "topic": "Bảo vệ môi trường",
+    "source": { "image": "1785934222205_8013660885024387896_8013660885024387896_3809c39816c132b4d0ece5d8cb182a23.jpg", "printedPage": 11, "questionIndexOnPage": 1 },
+    "verification": { "status": "verified", "textConfidence": 0.98, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-061",
+    "order": 64,
+    "text": "Một trong những biện pháp phòng, chống vi phạm pháp luật về bảo vệ môi trường?",
+    "options": [
+      { "id": "A", "text": "Biện pháp kinh tế" }, { "id": "B", "text": "Biện pháp tài chính" }, { "id": "C", "text": "Biện pháp động viên" }, { "id": "D", "text": "Biện pháp xã hội" }
+    ],
+    "correctOptionId": "A",
+    "topic": "Bảo vệ môi trường",
+    "source": { "image": "1785934222205_8013660885024387896_8013660885024387896_3809c39816c132b4d0ece5d8cb182a23.jpg", "printedPage": 11, "questionIndexOnPage": 2 },
+    "verification": { "status": "verified", "textConfidence": 0.98, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-062",
+    "order": 65,
+    "text": "Một trong những biện pháp phòng, chống vi phạm pháp luật về bảo vệ môi trường?",
+    "options": [
+      { "id": "A", "text": "Biện pháp khoa học – công nghệ" }, { "id": "B", "text": "Biện pháp công nghiệp" }, { "id": "C", "text": "Biện pháp quần chúng" }, { "id": "D", "text": "Biện pháp xã hội" }
+    ],
+    "correctOptionId": "A",
+    "topic": "Bảo vệ môi trường",
+    "source": { "image": "1785934222205_8013660885024387896_8013660885024387896_3809c39816c132b4d0ece5d8cb182a23.jpg", "printedPage": 11, "questionIndexOnPage": 3 },
+    "verification": { "status": "verified", "textConfidence": 0.98, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-063",
+    "order": 66,
+    "text": "Một trong những biện pháp phòng, chống vi phạm pháp luật về bảo vệ môi trường?",
+    "options": [
+      { "id": "A", "text": "Biện pháp tuyên truyền, giáo dục" }, { "id": "B", "text": "Biện pháp vận động" }, { "id": "C", "text": "Biện pháp vận động quần chúng" }, { "id": "D", "text": "Biện pháp xã hội" }
+    ],
+    "correctOptionId": "A",
+    "topic": "Bảo vệ môi trường",
+    "source": { "image": "1785934222205_8013660885024387896_8013660885024387896_3809c39816c132b4d0ece5d8cb182a23.jpg", "printedPage": 11, "questionIndexOnPage": 4 },
+    "verification": { "status": "verified", "textConfidence": 0.98, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-064",
+    "order": 67,
+    "text": "Đâu là nguyên nhân, điều kiện khách quan của vi phạm pháp luật về môi trường?",
+    "options": [
+      { "id": "A", "text": "Công tác quản lý nhà nước về môi trường còn hạn chế" },
+      { "id": "B", "text": "Lực lượng trực tiếp phòng, chống vi phạm pháp luật về bảo vệ môi trường còn hạn chế" },
+      { "id": "C", "text": "Vi phạm pháp luật về môi trường đều có động cơ, mục đích tư lợi cá nhân" },
+      { "id": "D", "text": "Công tác phối hợp giữa các lực lượng trong phòng, chống tội phạm về môi trường còn chưa tốt" }
+    ],
+    "correctOptionId": "A",
+    "topic": "Bảo vệ môi trường",
+    "source": { "image": "1785934222205_8013660885024387896_8013660885024387896_3809c39816c132b4d0ece5d8cb182a23.jpg", "printedPage": 11, "questionIndexOnPage": 5 },
+    "verification": { "status": "verified", "textConfidence": 0.97, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-065",
+    "order": 68,
+    "text": "Pháp luật về bảo đảm trật tự, an toàn giao thông có vai trò như thế nào?",
+    "options": [
+      { "id": "A", "text": "Là ý chí của Nhà nước để chỉ đạo và tổ chức thực hiện bảo đảm trật tự, an toàn giao thông" },
+      { "id": "B", "text": "Là ý chí của toàn dân để chỉ đạo và tổ chức thực hiện bảo đảm trật tự, an toàn giao thông" },
+      { "id": "C", "text": "Là ý chí của Bộ Công an để chỉ đạo và tổ chức thực hiện bảo đảm trật tự, an toàn giao thông" },
+      { "id": "D", "text": "Là ý chí của Đảng để chỉ đạo và tổ chức thực hiện bảo đảm trật tự, an toàn giao thông" }
+    ],
+    "correctOptionId": "A",
+    "topic": "An toàn giao thông",
+    "source": { "image": "1785934222205_8013660885024387896_8013660885024387896_3809c39816c132b4d0ece5d8cb182a23.jpg", "printedPage": 11, "questionIndexOnPage": 6 },
+    "verification": { "status": "verified", "textConfidence": 0.97, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-066",
+    "order": 69,
+    "text": "Luật Giao thông đường bộ số 23/2008/QH12 ban hành khi nào?",
+    "options": [
+      { "id": "A", "text": "Ngày 13/11/2008" }, { "id": "B", "text": "Ngày 13/11/2009" }, { "id": "C", "text": "Ngày 13/12/2008" }, { "id": "D", "text": "Ngày 12/11/2008" }
+    ],
+    "correctOptionId": "A",
+    "topic": "An toàn giao thông",
+    "source": { "image": "1785934222205_8013660885024387896_8013660885024387896_3809c39816c132b4d0ece5d8cb182a23.jpg", "printedPage": 11, "questionIndexOnPage": 7 },
+    "verification": { "status": "verified", "textConfidence": 0.99, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-067",
+    "order": 70,
+    "text": "Luật Giao thông đường thủy nội địa số 23/2004/QH11 ban hành khi nào?",
+    "options": [
+      { "id": "A", "text": "Ngày 15/6/2004" }, { "id": "B", "text": "Ngày 16/6/2004" }, { "id": "C", "text": "Ngày 16/5/2004" }, { "id": "D", "text": "Ngày 15/6/2005" }
+    ],
+    "correctOptionId": "A",
+    "topic": "An toàn giao thông",
+    "source": { "image": "1785934222205_8013660885024387896_8013660885024387896_3809c39816c132b4d0ece5d8cb182a23.jpg", "printedPage": 11, "questionIndexOnPage": 8 },
+    "verification": { "status": "verified", "textConfidence": 0.99, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-069",
+    "order": 71,
+    "text": "Một trong các dấu hiệu cơ bản của vi phạm hành chính xảy ra trong bảo đảm trật tự, an toàn giao thông?",
+    "options": [
+      { "id": "A", "text": "Tính trái pháp luật về bảo đảm trật tự, an toàn giao thông" },
+      { "id": "B", "text": "Tính mất an toàn" },
+      { "id": "C", "text": "Tính sai phạm" },
+      { "id": "D", "text": "Tính tội phạm" }
+    ],
+    "correctOptionId": "A",
+    "topic": "An toàn giao thông",
+    "source": { "image": "1785934222214_8013660885024387896_8013660885024387896_01986394fdbfe8474191e650b7b28132.jpg", "printedPage": 12, "questionIndexOnPage": 1 },
+    "verification": { "status": "verified", "textConfidence": 0.98, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-070",
+    "order": 72,
+    "text": "Một trong các dấu hiệu cơ bản của vi phạm hành chính xảy ra trong bảo đảm trật tự, an toàn giao thông?",
+    "options": [
+      { "id": "A", "text": "Tính có lỗi" },
+      { "id": "B", "text": "Tính mất an toàn cho mọi người" },
+      { "id": "C", "text": "Tính phạm lỗi" },
+      { "id": "D", "text": "Tính vi phạm hành chính" }
+    ],
+    "correctOptionId": "A",
+    "topic": "An toàn giao thông",
+    "source": { "image": "1785934222214_8013660885024387896_8013660885024387896_01986394fdbfe8474191e650b7b28132.jpg", "printedPage": 12, "questionIndexOnPage": 2 },
+    "verification": { "status": "verified", "textConfidence": 0.98, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-071",
+    "order": 73,
+    "text": "Một trong những nguyên nhân, điều kiện của tình hình vi phạm pháp luật về bảo đảm trật tự, an toàn giao thông?",
+    "options": [
+      { "id": "A", "text": "Quản lý nhà nước về hoạt động giao thông còn nhiều yếu kém, hạn chế" },
+      { "id": "B", "text": "Nhận thức của quần chúng nhân dân về bảo đảm trật tự, an toàn giao thông còn hạn chế" },
+      { "id": "C", "text": "Tác động tiêu cực của tự nhiên, môi trường đối với người tham gia giao thông" },
+      { "id": "D", "text": "Vi phạm hành chính xảy ra trong bảo đảm trật tự, an toàn giao thông là hành vi bị xử phạt hành chính" }
+    ],
+    "correctOptionId": "A",
+    "topic": "An toàn giao thông",
+    "source": { "image": "1785934222214_8013660885024387896_8013660885024387896_01986394fdbfe8474191e650b7b28132.jpg", "printedPage": 12, "questionIndexOnPage": 3 },
+    "verification": { "status": "verified", "textConfidence": 0.97, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-072",
+    "order": 74,
+    "text": "Một trong những nguyên nhân, điều kiện của tình hình vi phạm pháp luật về bảo đảm trật tự, an toàn giao thông?",
+    "options": [
+      { "id": "A", "text": "Sự không tương thích giữa các yếu tố cơ bản cấu thành hoạt động giao thông vận tải quốc gia" },
+      { "id": "B", "text": "Quản lý hành chính về hoạt động giao thông còn nhiều yếu kém, hạn chế" },
+      { "id": "C", "text": "Cán bộ thực thi pháp luật về bảo đảm trật tự, an toàn giao thông có lúc, có nơi chưa thực sự trong sạch" },
+      { "id": "D", "text": "Tác động tiêu cực của địa hình, môi trường đối với người tham gia giao thông" }
+    ],
+    "correctOptionId": "A",
+    "topic": "An toàn giao thông",
+    "source": { "image": "1785934222214_8013660885024387896_8013660885024387896_01986394fdbfe8474191e650b7b28132.jpg", "printedPage": 12, "questionIndexOnPage": 4 },
+    "verification": { "status": "verified", "textConfidence": 0.96, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-073",
+    "order": 75,
+    "text": "Một trong những nguyên nhân, điều kiện của tình hình vi phạm pháp luật về bảo đảm trật tự, an toàn giao thông?",
+    "options": [
+      { "id": "A", "text": "Tác động tiêu cực của các yếu tố thiên nhiên, môi trường đối với người tham gia giao thông" },
+      { "id": "B", "text": "Quản lý về hoạt động giao thông còn nhiều yếu kém" },
+      { "id": "C", "text": "Cán bộ thi hành pháp luật về bảo đảm trật tự, an toàn giao thông có lúc, có nơi chưa thực sự trong sạch" },
+      { "id": "D", "text": "Tác động tiêu cực của hạ tầng đối với người tham gia giao thông" }
+    ],
+    "correctOptionId": "A",
+    "topic": "An toàn giao thông",
+    "source": { "image": "1785934222214_8013660885024387896_8013660885024387896_01986394fdbfe8474191e650b7b28132.jpg", "printedPage": 12, "questionIndexOnPage": 5 },
+    "verification": { "status": "verified", "textConfidence": 0.96, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-074",
+    "order": 76,
+    "text": "Một trong những nguyên nhân, điều kiện của tình hình vi phạm pháp luật về bảo đảm trật tự, an toàn giao thông?",
+    "options": [
+      { "id": "A", "text": "Các cơ quan thực thi pháp luật về bảo đảm trật tự, an toàn giao thông có lúc, có nơi chưa thực sự trong sạch" },
+      { "id": "B", "text": "Tương thích giữa các yếu tố cơ bản cấu thành hoạt động giao thông vận tải quốc gia" },
+      { "id": "C", "text": "Mặt khách quan của các tội phạm xâm phạm an toàn giao thông" },
+      { "id": "D", "text": "Tác động tiêu cực của hạ tầng đối với người tham gia giao thông" }
+    ],
+    "correctOptionId": "A",
+    "topic": "An toàn giao thông",
+    "source": { "image": "1785934222214_8013660885024387896_8013660885024387896_01986394fdbfe8474191e650b7b28132.jpg", "printedPage": 12, "questionIndexOnPage": 6 },
+    "verification": { "status": "verified", "textConfidence": 0.96, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-075",
+    "order": 77,
+    "text": "Một trong những nguyên nhân, điều kiện của tình hình vi phạm pháp luật về bảo đảm trật tự, an toàn giao thông?",
+    "options": [
+      { "id": "A", "text": "Nhận thức của một bộ phận quần chúng nhân dân về bảo đảm trật tự, an toàn giao thông còn hạn chế" },
+      { "id": "B", "text": "Tương thích giữa các yếu tố cơ bản cấu thành hoạt động giao thông" },
+      { "id": "C", "text": "Vi phạm hành chính xảy ra trong bảo đảm trật tự, an toàn giao thông là hành vi bị xử phạt hành chính" },
+      { "id": "D", "text": "Các tội phạm xâm phạm an toàn giao thông là những hành vi nguy hiểm cho xã hội được quy định trong Bộ luật hình sự" }
+    ],
+    "correctOptionId": "A",
+    "topic": "An toàn giao thông",
+    "source": { "image": "1785934222214_8013660885024387896_8013660885024387896_01986394fdbfe8474191e650b7b28132.jpg", "printedPage": 12, "questionIndexOnPage": 7 },
+    "verification": { "status": "verified", "textConfidence": 0.96, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-076",
+    "order": 78,
+    "text": "Đấu tranh chống vi phạm pháp luật về bảo đảm trật tự, an toàn giao thông là hoạt động của tổ chức nào sau đây?",
+    "options": [
+      { "id": "A", "text": "Hoạt động của lực lượng vũ trang có thẩm quyền" },
+      { "id": "B", "text": "Hoạt động toàn xã hội" },
+      { "id": "C", "text": "Hoạt động của các cơ quan quản lý nhà nước có thẩm quyền" },
+      { "id": "D", "text": "Hoạt động của các cơ quan chức năng có thẩm quyền theo quy định" }
+    ],
+    "correctOptionId": "C",
+    "topic": "An toàn giao thông",
+    "source": { "image": "1785934222223_8013660885024387896_8013660885024387896_f9ebd150d44f72b9eb0fca058a2305b2.jpg", "printedPage": 13, "questionIndexOnPage": 1 },
+    "verification": { "status": "verified", "textConfidence": 0.97, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-077",
+    "order": 79,
+    "text": "Tổ chức nào sau đây là chủ thể trong thực hiện phòng, chống vi phạm pháp luật về bảo đảm trật tự, an toàn giao thông?",
+    "options": [
+      { "id": "A", "text": "Đảng Cộng sản Việt Nam" },
+      { "id": "B", "text": "Quân đội nhân dân Việt Nam" },
+      { "id": "C", "text": "Công an nhân dân Việt Nam" },
+      { "id": "D", "text": "Cảnh sát nhân dân Việt Nam" }
+    ],
+    "correctOptionId": "A",
+    "topic": "An toàn giao thông",
+    "source": { "image": "1785934222223_8013660885024387896_8013660885024387896_f9ebd150d44f72b9eb0fca058a2305b2.jpg", "printedPage": 13, "questionIndexOnPage": 2 },
+    "verification": { "status": "verified", "textConfidence": 0.99, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-078",
+    "order": 80,
+    "text": "Tổ chức nào sau đây là chủ thể trong thực hiện phòng, chống vi phạm pháp luật về bảo đảm trật tự, an toàn giao thông?",
+    "options": [
+      { "id": "A", "text": "Các tổ chức xã hội và tổ chức quần chúng tự quản" },
+      { "id": "B", "text": "Các tổ chức chính trị và tổ chức quần chúng tự quản" },
+      { "id": "C", "text": "Các cơ quan quản lý văn hóa, giáo dục, giao thông, dịch vụ, du lịch" },
+      { "id": "D", "text": "Chính phủ và Hội đồng nhân dân các cấp" }
+    ],
+    "correctOptionId": "A",
+    "topic": "An toàn giao thông",
+    "source": { "image": "1785934222223_8013660885024387896_8013660885024387896_f9ebd150d44f72b9eb0fca058a2305b2.jpg", "printedPage": 13, "questionIndexOnPage": 3 },
+    "verification": { "status": "verified", "textConfidence": 0.97, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-079",
+    "order": 81,
+    "text": "Tổ chức nào sau đây là chủ thể trong thực hiện phòng, chống vi phạm pháp luật về bảo đảm trật tự, an toàn giao thông?",
+    "options": [
+      { "id": "A", "text": "Công dân" },
+      { "id": "B", "text": "Nhân dân" },
+      { "id": "C", "text": "Nông dân" },
+      { "id": "D", "text": "Công nhân" }
+    ],
+    "correctOptionId": "A",
+    "topic": "An toàn giao thông",
+    "source": { "image": "1785934222223_8013660885024387896_8013660885024387896_f9ebd150d44f72b9eb0fca058a2305b2.jpg", "printedPage": 13, "questionIndexOnPage": 4 },
+    "verification": { "status": "verified", "textConfidence": 0.99, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-080",
+    "order": 82,
+    "text": "Tội nào sau đây là thuộc nhóm tội phạm xâm hại danh dự, nhân phẩm của người khác?",
+    "options": [
+      { "id": "A", "text": "Tội làm nhục người khác" },
+      { "id": "B", "text": "Tội phá rối an ninh" },
+      { "id": "C", "text": "Tội giết người" },
+      { "id": "D", "text": "Tội giết hoặc vứt bỏ con mới đẻ" }
+    ],
+    "correctOptionId": "A",
+    "topic": "Tội phạm xâm hại danh dự, nhân phẩm",
+    "source": { "image": "1785934222223_8013660885024387896_8013660885024387896_f9ebd150d44f72b9eb0fca058a2305b2.jpg", "printedPage": 13, "questionIndexOnPage": 5 },
+    "verification": { "status": "verified", "textConfidence": 0.99, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-081",
+    "order": 83,
+    "text": "Tội nào sau đây là thuộc nhóm tội phạm xâm hại danh dự, nhân phẩm của người khác?",
+    "options": [
+      { "id": "A", "text": "Tội vu khống" },
+      { "id": "B", "text": "Tội vô ý làm chết người" },
+      { "id": "C", "text": "Tội xúi giục hoặc giúp người khác tự sát" },
+      { "id": "D", "text": "Tội bức tử" }
+    ],
+    "correctOptionId": "A",
+    "topic": "Tội phạm xâm hại danh dự, nhân phẩm",
+    "source": { "image": "1785934222223_8013660885024387896_8013660885024387896_f9ebd150d44f72b9eb0fca058a2305b2.jpg", "printedPage": 13, "questionIndexOnPage": 6 },
+    "verification": { "status": "verified", "textConfidence": 0.98, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-082",
+    "order": 84,
+    "text": "Tội nào sau đây là thuộc nhóm tội phạm xâm hại danh dự, nhân phẩm của người khác?",
+    "options": [
+      { "id": "A", "text": "Tội cưỡng dâm" },
+      { "id": "B", "text": "Tội phá rối an ninh" },
+      { "id": "C", "text": "Tội xâm phạm chỗ ở của người khác" },
+      { "id": "D", "text": "Tội xâm phạm quyền khiếu nại, tố cáo" }
+    ],
+    "correctOptionId": "A",
+    "topic": "Tội phạm xâm hại danh dự, nhân phẩm",
+    "source": { "image": "1785934222231_8013660885024387896_8013660885024387896_29303c346500199b5b2b19c66120430b.jpg", "printedPage": 14, "questionIndexOnPage": 1 },
+    "verification": { "status": "verified", "textConfidence": 0.99, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-083",
+    "order": 85,
+    "text": "Tội nào sau đây là thuộc nhóm tội phạm xâm hại danh dự, nhân phẩm của người khác?",
+    "options": [
+      { "id": "A", "text": "Tội dâm ô đối với người dưới 16 tuổi" },
+      { "id": "B", "text": "Tội đe dọa giết người" },
+      { "id": "C", "text": "Tội bức tử" },
+      { "id": "D", "text": "Tội xâm phạm quyền hội họp, lập hội của công dân" }
+    ],
+    "correctOptionId": "A",
+    "topic": "Tội phạm xâm hại danh dự, nhân phẩm",
+    "source": { "image": "1785934222231_8013660885024387896_8013660885024387896_29303c346500199b5b2b19c66120430b.jpg", "printedPage": 14, "questionIndexOnPage": 2 },
+    "verification": { "status": "verified", "textConfidence": 0.99, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-084",
+    "order": 86,
+    "text": "Tội nào sau đây là thuộc nhóm tội phạm xâm hại danh dự, nhân phẩm của người khác?",
+    "options": [
+      { "id": "A", "text": "Tội mua bán người" },
+      { "id": "B", "text": "Tội bức tử" },
+      { "id": "C", "text": "Tội bắt, giữ hoặc giam người trái pháp luật" },
+      { "id": "D", "text": "Tội cướp tài sản" }
+    ],
+    "correctOptionId": "A",
+    "topic": "Tội phạm xâm hại danh dự, nhân phẩm",
+    "source": { "image": "1785934222231_8013660885024387896_8013660885024387896_29303c346500199b5b2b19c66120430b.jpg", "printedPage": 14, "questionIndexOnPage": 3 },
+    "verification": { "status": "verified", "textConfidence": 0.99, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-085",
+    "order": 87,
+    "text": "Tội nào sau đây là thuộc nhóm tội phạm xâm hại danh dự, nhân phẩm của người khác?",
+    "options": [
+      { "id": "A", "text": "Tội hành hạ người khác" },
+      { "id": "B", "text": "Tội đe dọa giết người" },
+      { "id": "C", "text": "Tội bắt, giữ hoặc giam người trái pháp luật" },
+      { "id": "D", "text": "Tội bắt cóc nhằm chiếm đoạt tài sản" }
+    ],
+    "correctOptionId": "A",
+    "topic": "Tội phạm xâm hại danh dự, nhân phẩm",
+    "source": { "image": "1785934222231_8013660885024387896_8013660885024387896_29303c346500199b5b2b19c66120430b.jpg", "printedPage": 14, "questionIndexOnPage": 4 },
+    "verification": { "status": "verified", "textConfidence": 0.99, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-086",
+    "order": 88,
+    "text": "Tội nào sau đây là thuộc nhóm tội phạm xâm hại danh dự, nhân phẩm của người khác?",
+    "options": [
+      { "id": "A", "text": "Tội sử dụng người dưới 16 tuổi vào mục đích khiêu dâm" },
+      { "id": "B", "text": "Tội sử dụng người dưới 15 tuổi vào mục đích khiêu dâm" },
+      { "id": "C", "text": "Tội sử dụng người dưới 17 tuổi vào mục đích khiêu dâm" },
+      { "id": "D", "text": "Tội sử dụng người dưới 18 tuổi vào mục đích khiêu dâm" }
+    ],
+    "correctOptionId": "A",
+    "topic": "Tội phạm xâm hại danh dự, nhân phẩm",
+    "source": { "image": "1785934222231_8013660885024387896_8013660885024387896_29303c346500199b5b2b19c66120430b.jpg", "printedPage": 14, "questionIndexOnPage": 5 },
+    "verification": { "status": "verified", "textConfidence": 0.99, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-087",
+    "order": 89,
+    "text": "Tội nào sau đây là thuộc nhóm tội phạm xâm hại danh dự, nhân phẩm của người khác?",
+    "options": [
+      { "id": "A", "text": "Tội cố ý truyền HIV cho người khác" },
+      { "id": "B", "text": "Tội trốn đi nước ngoài hoặc trốn ở lại nước ngoài nhằm chống chính quyền nhân dân" },
+      { "id": "C", "text": "Tội xâm phạm an ninh lãnh thổ" },
+      { "id": "D", "text": "Tội cản trở hoặc gây rối loạn hoạt động của mạng máy tính" }
+    ],
+    "correctOptionId": "A",
+    "topic": "Tội phạm xâm hại danh dự, nhân phẩm",
+    "source": { "image": "1785934222231_8013660885024387896_8013660885024387896_29303c346500199b5b2b19c66120430b.jpg", "printedPage": 14, "questionIndexOnPage": 6 },
+    "verification": { "status": "verified", "textConfidence": 0.98, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-088",
+    "order": 90,
+    "text": "Tội nào sau đây là thuộc nhóm tội phạm xâm hại danh dự, nhân phẩm của người khác?",
+    "options": [
+      { "id": "A", "text": "Tội đưa hoặc sử dụng trái phép thông tin mạng máy tính, mạng viễn thông" },
+      { "id": "B", "text": "Tội xâm nhập trái phép vào mạng máy tính, mạng viễn thông" },
+      { "id": "C", "text": "Tội giao cấu hoặc thực hiện hành vi quan hệ tình dục khác với người từ đủ 13 tuổi đến dưới 16 tuổi" },
+      { "id": "D", "text": "Tội bắt, giữ hoặc giam người trái pháp luật" }
+    ],
+    "correctOptionId": "C",
+    "topic": "Tội phạm xâm hại danh dự, nhân phẩm",
+    "source": { "image": "1785934222231_8013660885024387896_8013660885024387896_29303c346500199b5b2b19c66120430b.jpg", "printedPage": 14, "questionIndexOnPage": 7 },
+    "verification": { "status": "verified", "textConfidence": 0.96, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-089",
+    "order": 91,
+    "text": "Một trong những nguyên nhân, điều kiện của tình trạng phạm tội danh dự, nhân phẩm?",
+    "options": [
+      { "id": "A", "text": "Sự tác động của mặt trái nền kinh tế thị trường" },
+      { "id": "B", "text": "Những hạn chế, yếu kém trong sản xuất kinh doanh, dịch vụ" },
+      { "id": "C", "text": "Việc thực thi pháp luật còn chưa hiệu quả, kỷ cương phép nước chưa nghiêm" },
+      { "id": "D", "text": "Trình độ nghiệp vụ, pháp luật của một bộ phận cán bộ chưa đáp ứng yêu cầu thực tiễn" }
+    ],
+    "correctOptionId": "A",
+    "topic": "Tội phạm xâm hại danh dự, nhân phẩm",
+    "source": { "image": "1785934222240_8013660885024387896_8013660885024387896_156264b132a4dfbbe65d2bb930f20ae6.jpg", "printedPage": 15, "questionIndexOnPage": 1 },
+    "verification": { "status": "verified", "textConfidence": 0.98, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-090",
+    "order": 92,
+    "text": "Một trong những nguyên nhân, điều kiện của tình trạng phạm tội danh dự, nhân phẩm?",
+    "options": [
+      { "id": "A", "text": "Sự tác động của những hiện tượng xã hội tiêu cực do tàn dư chế độ cũ để lại" },
+      { "id": "B", "text": "Số vụ phát hiện, điều tra ít hơn so với thực tế tội phạm xảy ra, tội phạm ẩn còn nhiều" },
+      { "id": "C", "text": "Chỉ chú trọng xử lý tội phạm mà coi nhẹ công tác phòng ngừa" },
+      { "id": "D", "text": "Tư tưởng trọng nam, coi thường phụ nữ; những tác động tiêu cực" }
+    ],
+    "correctOptionId": "A",
+    "topic": "Tội phạm xâm hại danh dự, nhân phẩm",
+    "source": { "image": "1785934222240_8013660885024387896_8013660885024387896_156264b132a4dfbbe65d2bb930f20ae6.jpg", "printedPage": 15, "questionIndexOnPage": 2 },
+    "verification": { "status": "verified", "textConfidence": 0.96, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-091",
+    "order": 93,
+    "text": "Một trong những nguyên nhân, điều kiện của tình trạng phạm tội danh dự, nhân phẩm?",
+    "options": [
+      { "id": "A", "text": "Sự xâm nhập, ảnh hưởng của các loại tội phạm, tệ nạn xã hội của các quốc gia khác" },
+      { "id": "B", "text": "Sự sơ hở, thiếu sót trong quản lý con người, quản lý nhân khẩu, hộ khẩu" },
+      { "id": "C", "text": "Việc thực thi pháp luật còn chưa hiệu quả, kỷ cương phép nước chưa nghiêm" },
+      { "id": "D", "text": "Kinh tế thị trường còn thúc đẩy nhanh sự phân tầng xã hội, tạo ra sự phân hóa giàu nghèo sâu sắc" }
+    ],
+    "correctOptionId": "A",
+    "topic": "Tội phạm xâm hại danh dự, nhân phẩm",
+    "source": { "image": "1785934222240_8013660885024387896_8013660885024387896_156264b132a4dfbbe65d2bb930f20ae6.jpg", "printedPage": 15, "questionIndexOnPage": 3 },
+    "verification": { "status": "verified", "textConfidence": 0.96, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-092",
+    "order": 94,
+    "text": "Một trong những nguyên nhân, điều kiện của tình trạng phạm tội danh dự, nhân phẩm?",
+    "options": [
+      { "id": "A", "text": "Những thiếu sót trong giáo dục đạo đức, lối sống, nâng cao trình độ văn hóa của người dân" },
+      { "id": "B", "text": "Sự thiếu sót trong quản lý con người, quản lý hộ khẩu, quản lý cư trú, quản lý xuất nhập cảnh" },
+      { "id": "C", "text": "Nội dung, hình thức giáo dục còn nhiều bất cập, đặc biệt ở vùng sâu, vùng xa, vùng đồng bào dân tộc" },
+      { "id": "D", "text": "Kinh tế thị trường cũng làm xuống cấp về đạo đức, văn hóa" }
+    ],
+    "correctOptionId": "A",
+    "topic": "Tội phạm xâm hại danh dự, nhân phẩm",
+    "source": { "image": "1785934222240_8013660885024387896_8013660885024387896_156264b132a4dfbbe65d2bb930f20ae6.jpg", "printedPage": 15, "questionIndexOnPage": 4 },
+    "verification": { "status": "verified", "textConfidence": 0.96, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-093",
+    "order": 95,
+    "text": "Một trong những nội dung hoạt động phòng, chống tội phạm xâm phạm danh dự, nhân phẩm?",
+    "options": [
+      { "id": "A", "text": "Tổ chức tiến hành các hoạt động phòng ngừa tội phạm" },
+      { "id": "B", "text": "Nghiên cứu đổi mới các chính sách xã hội liên quan đến phòng, chống tội phạm" },
+      { "id": "C", "text": "Đổi mới về nội dung, hình thức, biện pháp xây dựng phong trào toàn dân bảo vệ an ninh Tổ quốc" },
+      { "id": "D", "text": "Hoàn thiện chế độ, chính sách đặc thù đối với các cán bộ" }
+    ],
+    "correctOptionId": "A",
+    "topic": "Tội phạm xâm hại danh dự, nhân phẩm",
+    "source": { "image": "1785934222240_8013660885024387896_8013660885024387896_156264b132a4dfbbe65d2bb930f20ae6.jpg", "printedPage": 15, "questionIndexOnPage": 5 },
+    "verification": { "status": "verified", "textConfidence": 0.96, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-094",
+    "order": 96,
+    "text": "Một trong những nội dung tổ chức tiến hành các hoạt động phòng ngừa tội phạm xâm phạm danh dự, nhân phẩm?",
+    "options": [
+      { "id": "A", "text": "Nâng cao chất lượng, hiệu quả phong trào toàn dân bảo vệ an ninh Tổ quốc" },
+      { "id": "B", "text": "Xây dựng, triển khai các kế hoạch chuyên đề đấu tranh với các loại tội phạm" },
+      { "id": "C", "text": "Mở các đợt cao điểm tấn công trấn áp tội phạm" },
+      { "id": "D", "text": "Nâng cao chất lượng công tác điều tra, truy tố, xét xử tội phạm" }
+    ],
+    "correctOptionId": "A",
+    "topic": "Tội phạm xâm hại danh dự, nhân phẩm",
+    "source": { "image": "1785934222240_8013660885024387896_8013660885024387896_156264b132a4dfbbe65d2bb930f20ae6.jpg", "printedPage": 15, "questionIndexOnPage": 6 },
+    "verification": { "status": "verified", "textConfidence": 0.95, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-095",
+    "order": 97,
+    "text": "Một trong những nội dung tổ chức tiến hành các hoạt động phòng ngừa tội phạm xâm phạm danh dự, nhân phẩm?",
+    "options": [
+      { "id": "A", "text": "Tăng cường hiệu lực công tác quản lý nhà nước về trật tự xã hội" },
+      { "id": "B", "text": "Xây dựng, triển khai các chương trình, kế hoạch chuyên đề đấu tranh với các loại tội phạm" },
+      { "id": "C", "text": "Nâng cao chất lượng công tác điều tra, truy tố, xét xử tội phạm" },
+      { "id": "D", "text": "Điều tra, xử lý các vụ án về kinh tế, chức vụ và tham nhũng" }
+    ],
+    "correctOptionId": "C",
+    "topic": "Tội phạm xâm hại danh dự, nhân phẩm",
+    "source": { "image": "1785934222248_8013660885024387896_8013660885024387896_d6bd5c379376fa405a955302ccd42706.jpg", "printedPage": 16, "questionIndexOnPage": 1 },
+    "verification": { "status": "verified", "textConfidence": 0.96, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-096",
+    "order": 98,
+    "text": "Một trong những nội dung tổ chức tiến hành các hoạt động phòng ngừa tội phạm xâm phạm danh dự, nhân phẩm?",
+    "options": [
+      { "id": "A", "text": "Đẩy mạnh hoạt động phòng ngừa nghiệp vụ" },
+      { "id": "B", "text": "Mở các đợt cao điểm tấn công trấn áp tội phạm" },
+      { "id": "C", "text": "Tăng cường xét xử lưu động để răn đe tội phạm" },
+      { "id": "D", "text": "Điều tra, truy tố, xét xử có hiệu quả nhất, nhằm tránh hư hao, thất thoát" }
+    ],
+    "correctOptionId": "B",
+    "topic": "Tội phạm xâm hại danh dự, nhân phẩm",
+    "source": { "image": "1785934222248_8013660885024387896_8013660885024387896_d6bd5c379376fa405a955302ccd42706.jpg", "printedPage": 16, "questionIndexOnPage": 2 },
+    "verification": { "status": "verified", "textConfidence": 0.96, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-103",
+    "order": 99,
+    "text": "Hành vi nào sau đây vi phạm pháp luật trên không gian mạng?",
+    "options": [
+      { "id": "A", "text": "Đăng tải các thông tin độc hại vi phạm an ninh quốc gia" },
+      { "id": "B", "text": "Đăng ký" },
+      { "id": "C", "text": "Không thích" },
+      { "id": "D", "text": "Chặn" }
+    ],
+    "correctOptionId": "A",
+    "topic": "An ninh mạng",
+    "source": { "image": "1785934222248_8013660885024387896_8013660885024387896_d6bd5c379376fa405a955302ccd42706.jpg", "printedPage": 16, "questionIndexOnPage": 9 },
+    "verification": { "status": "verified", "textConfidence": 0.96, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-104",
+    "order": 100,
+    "text": "Theo Điều 8 - Luật An ninh mạng năm 2018, hành vi nào sau đây bị nghiêm cấm?",
+    "options": [
+      { "id": "A", "text": "Sử dụng không gian mạng để thực hiện hành vi xúi giục, lôi kéo, kích động người khác phạm tội" },
+      { "id": "B", "text": "Sử dụng công nghệ TTP để tạo ra các cuộc gọi tự động với giọng robot thu sẵn" },
+      { "id": "C", "text": "An toàn thông tin mạng là sự bảo vệ thông tin, hệ thống thông tin trên mạng tránh bị truy nhập, sử dụng" },
+      { "id": "D", "text": "An toàn thông tin là an toàn kỹ thuật cho các hoạt động của các cơ sở hạ tầng thông tin" }
+    ],
+    "correctOptionId": "A",
+    "topic": "An ninh mạng",
+    "source": { "image": "1785934222256_8013660885024387896_8013660885024387896_32c3a196ef90089abdca8b0967de69bf.jpg", "printedPage": 17, "questionIndexOnPage": 1 },
+    "verification": { "status": "verified", "textConfidence": 0.98, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-105",
+    "order": 101,
+    "text": "Hình thức, thủ đoạn nào sau đây chiếm đoạt tài khoản mạng xã hội?",
+    "options": [
+      { "id": "A", "text": "Shishing" },
+      { "id": "B", "text": "Kết bạn trên mạng xã hội" },
+      { "id": "C", "text": "Chia sẻ bài viết" },
+      { "id": "D", "text": "Xin tương tác" }
+    ],
+    "correctOptionId": "A",
+    "topic": "An ninh mạng",
+    "source": { "image": "1785934222256_8013660885024387896_8013660885024387896_32c3a196ef90089abdca8b0967de69bf.jpg", "printedPage": 17, "questionIndexOnPage": 2 },
+    "verification": { "status": "verified", "textConfidence": 0.99, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-106",
+    "order": 102,
+    "text": "Hình thức, thủ đoạn nào sau đây chiếm đoạt tài khoản mạng xã hội?",
+    "options": [
+      { "id": "A", "text": "Dò mật khẩu" },
+      { "id": "B", "text": "Đăng nhập mật khẩu" },
+      { "id": "C", "text": "Đăng ký theo dõi" },
+      { "id": "D", "text": "Tương tác bài viết" }
+    ],
+    "correctOptionId": "A",
+    "topic": "An ninh mạng",
+    "source": { "image": "1785934222256_8013660885024387896_8013660885024387896_32c3a196ef90089abdca8b0967de69bf.jpg", "printedPage": 17, "questionIndexOnPage": 3 },
+    "verification": { "status": "verified", "textConfidence": 0.99, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-107",
+    "order": 103,
+    "text": "Hình thức, thủ đoạn nào sau đây chiếm đoạt tài khoản mạng xã hội?",
+    "options": [
+      { "id": "A", "text": "Sử dụng trojan, Keylog" },
+      { "id": "B", "text": "Đăng tải các thông tin bán hàng" },
+      { "id": "C", "text": "Đăng tải thông tin" },
+      { "id": "D", "text": "Sử dụng YouTube, Facebook" }
+    ],
+    "correctOptionId": "A",
+    "topic": "An ninh mạng",
+    "source": { "image": "1785934222256_8013660885024387896_8013660885024387896_32c3a196ef90089abdca8b0967de69bf.jpg", "printedPage": 17, "questionIndexOnPage": 4 },
+    "verification": { "status": "verified", "textConfidence": 0.99, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-108",
+    "order": 104,
+    "text": "Luật An toàn thông tin mạng gồm bao nhiêu điều?",
+    "options": [
+      { "id": "A", "text": "54 điều" },
+      { "id": "B", "text": "55 điều" },
+      { "id": "C", "text": "56 điều" },
+      { "id": "D", "text": "57 điều" }
+    ],
+    "correctOptionId": "A",
+    "topic": "An ninh mạng",
+    "source": { "image": "1785934222256_8013660885024387896_8013660885024387896_32c3a196ef90089abdca8b0967de69bf.jpg", "printedPage": 17, "questionIndexOnPage": 5 },
+    "verification": { "status": "verified", "textConfidence": 0.99, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-109",
+    "order": 105,
+    "text": "Luật An ninh mạng ban hành khi nào?",
+    "options": [
+      { "id": "A", "text": "Ngày 12/6/2018" },
+      { "id": "B", "text": "Ngày 12/6/2019" },
+      { "id": "C", "text": "Ngày 12/11/2018" },
+      { "id": "D", "text": "Ngày 01/6/2018" }
+    ],
+    "correctOptionId": "A",
+    "topic": "An ninh mạng",
+    "source": { "image": "1785934222256_8013660885024387896_8013660885024387896_32c3a196ef90089abdca8b0967de69bf.jpg", "printedPage": 17, "questionIndexOnPage": 6 },
+    "verification": { "status": "verified", "textConfidence": 0.99, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-110",
+    "order": 106,
+    "text": "Luật An ninh mạng gồm bao nhiêu chương?",
+    "options": [
+      { "id": "A", "text": "7 chương" },
+      { "id": "B", "text": "8 chương" },
+      { "id": "C", "text": "9 chương" },
+      { "id": "D", "text": "6 chương" }
+    ],
+    "correctOptionId": "A",
+    "topic": "An ninh mạng",
+    "source": { "image": "1785934222256_8013660885024387896_8013660885024387896_32c3a196ef90089abdca8b0967de69bf.jpg", "printedPage": 17, "questionIndexOnPage": 7 },
+    "verification": { "status": "verified", "textConfidence": 0.99, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-111",
+    "order": 107,
+    "text": "Luật An ninh mạng gồm bao nhiêu điều?",
+    "options": [
+      { "id": "A", "text": "43 điều" },
+      { "id": "B", "text": "44 điều" },
+      { "id": "C", "text": "41 điều" },
+      { "id": "D", "text": "42 điều" }
+    ],
+    "correctOptionId": "A",
+    "topic": "An ninh mạng",
+    "source": { "image": "1785934222256_8013660885024387896_8013660885024387896_32c3a196ef90089abdca8b0967de69bf.jpg", "printedPage": 17, "questionIndexOnPage": 8 },
+    "verification": { "status": "verified", "textConfidence": 0.99, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-112",
+    "order": 108,
+    "text": "Một trong những biện pháp phòng, chống vi phạm pháp luật trên không gian mạng?",
+    "options": [
+      { "id": "A", "text": "Tuyên truyền, phổ biến, giáo dục các quy định của pháp luật về quản lý không gian mạng" },
+      { "id": "B", "text": "Luật An ninh mạng nhằm bảo vệ người dùng hợp pháp trên không gian mạng" },
+      { "id": "C", "text": "Tự trau dồi kỹ năng nhận diện âm mưu, thủ đoạn gây nguy cơ mất an ninh mạng" },
+      { "id": "D", "text": "Phòng ngừa, ngăn chặn, ứng phó, khắc phục hậu quả của các đợt tấn công mạng, khủng bố mạng" }
+    ],
+    "correctOptionId": "A",
+    "topic": "An ninh mạng",
+    "source": { "image": "1785934222256_8013660885024387896_8013660885024387896_32c3a196ef90089abdca8b0967de69bf.jpg", "printedPage": 17, "questionIndexOnPage": 9 },
+    "verification": { "status": "verified", "textConfidence": 0.97, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-113",
+    "order": 109,
+    "text": "Một trong những biện pháp phòng, chống vi phạm pháp luật trên không gian mạng?",
+    "options": [
+      { "id": "A", "text": "Bồi dưỡng kỹ năng nhận diện các âm mưu, thủ đoạn tấn công mạng và các hình thái phát sinh trên không gian mạng" },
+      { "id": "B", "text": "Mỗi người cần nắm chắc các thủ đoạn tấn công mạng như đánh sập các website" },
+      { "id": "C", "text": "Nâng cao ý thức phòng tránh, tự vệ khi tham gia mạng xã hội" },
+      { "id": "D", "text": "Tự trau dồi kỹ năng nhận diện âm mưu, thủ đoạn gây nguy cơ mất an ninh mạng" }
+    ],
+    "correctOptionId": "A",
+    "topic": "An ninh mạng",
+    "source": { "image": "1785934222265_8013660885024387896_8013660885024387896_1b25f945cf7f621ec7391da1b29d9291.jpg", "printedPage": 18, "questionIndexOnPage": 1 },
+    "verification": { "status": "verified", "textConfidence": 0.98, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-114",
+    "order": 110,
+    "text": "Bộ luật Hình sự năm 2015, sửa đổi bổ sung năm 2017 quy định tội phạm trong lĩnh vực công nghệ thông tin, mạng viễn thông tại chương mấy?",
+    "options": [
+      { "id": "A", "text": "Chương XX" },
+      { "id": "B", "text": "Chương XXI" },
+      { "id": "C", "text": "Chương XXII" },
+      { "id": "D", "text": "Chương XXIII" }
+    ],
+    "correctOptionId": "B",
+    "topic": "An ninh mạng",
+    "source": { "image": "1785934222265_8013660885024387896_8013660885024387896_1b25f945cf7f621ec7391da1b29d9291.jpg", "printedPage": 18, "questionIndexOnPage": 2 },
+    "verification": { "status": "verified", "textConfidence": 0.98, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-115",
+    "order": 111,
+    "text": "Nội dung của chương III - Luật An ninh mạng năm 2018 là gì?",
+    "options": [
+      { "id": "A", "text": "Phòng ngừa, xử lý hành vi xâm phạm an ninh mạng" },
+      { "id": "B", "text": "Phòng chống, ngăn ngừa hành vi xâm phạm an ninh mạng" },
+      { "id": "C", "text": "Bảo vệ an ninh mạng đối với hệ thống thông tin quan trọng về an ninh quốc gia" },
+      { "id": "D", "text": "Bảo đảm an toàn thông tin mạng" }
+    ],
+    "correctOptionId": "A",
+    "topic": "An ninh mạng",
+    "source": { "image": "1785934222265_8013660885024387896_8013660885024387896_1b25f945cf7f621ec7391da1b29d9291.jpg", "printedPage": 18, "questionIndexOnPage": 3 },
+    "verification": { "status": "verified", "textConfidence": 0.99, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-116",
+    "order": 112,
+    "text": "Nội dung của chương II - Luật An ninh mạng năm 2018 là gì?",
+    "options": [
+      { "id": "A", "text": "Quản lý nhà nước về an toàn thông tin mạng" },
+      { "id": "B", "text": "Phòng chống, ngăn ngừa hành vi xâm phạm an ninh mạng" },
+      { "id": "C", "text": "Bảo vệ an ninh mạng đối với hệ thống thông tin quan trọng về an ninh quốc gia" },
+      { "id": "D", "text": "Tiêu chuẩn, quy chuẩn kỹ thuật an toàn thông tin mạng" }
+    ],
+    "correctOptionId": "C",
+    "topic": "An ninh mạng",
+    "source": { "image": "1785934222265_8013660885024387896_8013660885024387896_1b25f945cf7f621ec7391da1b29d9291.jpg", "printedPage": 18, "questionIndexOnPage": 4 },
+    "verification": { "status": "verified", "textConfidence": 0.99, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-117",
+    "order": 113,
+    "text": "Nội dung của chương V - Luật An ninh mạng năm 2018 là gì?",
+    "options": [
+      { "id": "A", "text": "Phòng ngừa, xử lý hành vi xâm phạm an ninh mạng" },
+      { "id": "B", "text": "Bảo đảm hoạt động bảo vệ an ninh mạng" },
+      { "id": "C", "text": "Bảo vệ an ninh mạng, hệ thống thông tin quan trọng về an ninh quốc gia" },
+      { "id": "D", "text": "Phát triển nguồn nhân lực an toàn thông tin mạng" }
+    ],
+    "correctOptionId": "B",
+    "topic": "An ninh mạng",
+    "source": { "image": "1785934222265_8013660885024387896_8013660885024387896_1b25f945cf7f621ec7391da1b29d9291.jpg", "printedPage": 18, "questionIndexOnPage": 5 },
+    "verification": { "status": "verified", "textConfidence": 0.98, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-118",
+    "order": 114,
+    "text": "Đâu là một trong những đặc điểm của an ninh phi truyền thống (ANPTT)?",
+    "options": [
+      { "id": "A", "text": "Các mối đe dọa ANPTT gồm hai loại là có bạo lực và phi bạo lực" },
+      { "id": "B", "text": "Nhắc đến ANPTT không thể không nhắc đến mối đe dọa ANPTT" },
+      { "id": "C", "text": "Phạm vi tác động, ảnh hưởng mang tính xuyên quốc gia" },
+      { "id": "D", "text": "Mối đe dọa ANPTT có sự gắn kết với an ninh phi truyền thống, là các yếu tố xâm hại" }
+    ],
+    "correctOptionId": "A",
+    "topic": "An ninh phi truyền thống",
+    "source": { "image": "1785934222265_8013660885024387896_8013660885024387896_1b25f945cf7f621ec7391da1b29d9291.jpg", "printedPage": 18, "questionIndexOnPage": 6 },
+    "verification": { "status": "verified", "textConfidence": 0.96, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-119",
+    "order": 115,
+    "text": "Đâu là một trong những đặc điểm của an ninh phi truyền thống (ANPTT)?",
+    "options": [
+      { "id": "A", "text": "ANPTT không đối lập với an ninh truyền thống mà là mở rộng nội hàm của khái niệm an ninh truyền thống" },
+      { "id": "B", "text": "Các mối đe dọa ANPTT đe dọa an ninh khu vực, an ninh quốc tế" },
+      { "id": "C", "text": "Sự phụ thuộc và tác động qua lại lẫn nhau của các nước trên các lĩnh vực như kinh tế, tài chính, tiền tệ" },
+      { "id": "D", "text": "Tội phạm có tổ chức xuyên quốc gia hoạt động phức tạp, khó đấu tranh, đặc biệt là tội phạm ma túy" }
+    ],
+    "correctOptionId": "B",
+    "topic": "An ninh phi truyền thống",
+    "source": { "image": "1785934222265_8013660885024387896_8013660885024387896_1b25f945cf7f621ec7391da1b29d9291.jpg", "printedPage": 18, "questionIndexOnPage": 7 },
+    "verification": { "status": "verified", "textConfidence": 0.96, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-120",
+    "order": 116,
+    "text": "Đâu là một trong những đặc điểm của an ninh phi truyền thống (ANPTT)?",
+    "options": [
+      { "id": "A", "text": "Sự phụ thuộc và tác động qua lại lẫn nhau của các nước trên các lĩnh vực như kinh tế, tài chính, tiền tệ, mậu dịch, đầu tư, thông tin" },
+      { "id": "B", "text": "Các mối đe dọa ANPTT đa dạng về nguồn gốc, có quá trình tích lũy tiềm tàng" }
+    ],
+    "correctOptionId": "B",
+    "topic": "An ninh phi truyền thống",
+    "source": { "image": "1785934222265_8013660885024387896_8013660885024387896_1b25f945cf7f621ec7391da1b29d9291.jpg", "printedPage": 18, "questionIndexOnPage": 8 },
+    "verification": { "status": "verified", "textConfidence": 0.94, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-129",
+    "order": 117,
+    "text": "Một trong những nội dung an ninh phi truyền thống?",
+    "options": [
+      { "id": "A", "text": "An ninh kế toán" },
+      { "id": "B", "text": "Biến đổi thời tiết" },
+      { "id": "C", "text": "An ninh tài chính tiền tệ" },
+      { "id": "D", "text": "Biến đổi môi trường" }
+    ],
+    "correctOptionId": "C",
+    "topic": "An ninh phi truyền thống",
+    "source": { "image": "1785934222281_8013660885024387896_8013660885024387896_48e330b9782bc5e7bac4fc1ee838b713.jpg", "printedPage": 20, "questionIndexOnPage": 1 },
+    "verification": { "status": "verified", "textConfidence": 0.98, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-130",
+    "order": 118,
+    "text": "Một trong những nội dung an ninh phi truyền thống?",
+    "options": [
+      { "id": "A", "text": "An ninh năng lượng" },
+      { "id": "B", "text": "Biến đổi thời tiết" },
+      { "id": "C", "text": "Biến đổi địa hình" },
+      { "id": "D", "text": "Biến đổi môi trường" }
+    ],
+    "correctOptionId": "A",
+    "topic": "An ninh phi truyền thống",
+    "source": { "image": "1785934222281_8013660885024387896_8013660885024387896_48e330b9782bc5e7bac4fc1ee838b713.jpg", "printedPage": 20, "questionIndexOnPage": 2 },
+    "verification": { "status": "verified", "textConfidence": 0.98, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-131",
+    "order": 119,
+    "text": "Một trong những nội dung an ninh phi truyền thống?",
+    "options": [
+      { "id": "A", "text": "Biến đổi địa hình" },
+      { "id": "B", "text": "Biến đổi thời tiết" },
+      { "id": "C", "text": "An ninh môi trường" },
+      { "id": "D", "text": "Biến đổi môi trường" }
+    ],
+    "correctOptionId": "C",
+    "topic": "An ninh phi truyền thống",
+    "source": { "image": "1785934222281_8013660885024387896_8013660885024387896_48e330b9782bc5e7bac4fc1ee838b713.jpg", "printedPage": 20, "questionIndexOnPage": 3 },
+    "verification": { "status": "verified", "textConfidence": 0.98, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-132",
+    "order": 120,
+    "text": "Một trong những nội dung an ninh phi truyền thống?",
+    "options": [
+      { "id": "A", "text": "An ninh thủy điện" },
+      { "id": "B", "text": "Biến đổi thời tiết" },
+      { "id": "C", "text": "An ninh đập nước" },
+      { "id": "D", "text": "An ninh nguồn nước" }
+    ],
+    "correctOptionId": "D",
+    "topic": "An ninh phi truyền thống",
+    "source": { "image": "1785934222281_8013660885024387896_8013660885024387896_48e330b9782bc5e7bac4fc1ee838b713.jpg", "printedPage": 20, "questionIndexOnPage": 4 },
+    "verification": { "status": "verified", "textConfidence": 0.98, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-133",
+    "order": 121,
+    "text": "Một trong những nội dung an ninh phi truyền thống?",
+    "options": [
+      { "id": "A", "text": "Biến đổi địa hình" },
+      { "id": "B", "text": "An ninh thông tin" },
+      { "id": "C", "text": "An ninh kế toán" },
+      { "id": "D", "text": "An ninh thủy điện" }
+    ],
+    "correctOptionId": "B",
+    "topic": "An ninh phi truyền thống",
+    "source": { "image": "1785934222281_8013660885024387896_8013660885024387896_48e330b9782bc5e7bac4fc1ee838b713.jpg", "printedPage": 20, "questionIndexOnPage": 5 },
+    "verification": { "status": "verified", "textConfidence": 0.98, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-134",
+    "order": 122,
+    "text": "Một trong những nội dung an ninh phi truyền thống?",
+    "options": [
+      { "id": "A", "text": "Vấn đề tôn giáo" },
+      { "id": "B", "text": "An ninh thủy điện" },
+      { "id": "C", "text": "An ninh tin tức" },
+      { "id": "D", "text": "An ninh kế toán" }
+    ],
+    "correctOptionId": "D",
+    "topic": "An ninh phi truyền thống",
+    "source": { "image": "1785934222281_8013660885024387896_8013660885024387896_48e330b9782bc5e7bac4fc1ee838b713.jpg", "printedPage": 20, "questionIndexOnPage": 6 },
+    "verification": { "status": "verified", "textConfidence": 0.98, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-135",
+    "order": 123,
+    "text": "Một trong những nội dung an ninh phi truyền thống?",
+    "options": [
+      { "id": "A", "text": "An ninh tin tức" },
+      { "id": "B", "text": "Chủ nghĩa cực đoan" },
+      { "id": "C", "text": "An ninh mạng" },
+      { "id": "D", "text": "Vấn đề dân tộc" }
+    ],
+    "correctOptionId": "D",
+    "topic": "An ninh phi truyền thống",
+    "source": { "image": "1785934222281_8013660885024387896_8013660885024387896_48e330b9782bc5e7bac4fc1ee838b713.jpg", "printedPage": 20, "questionIndexOnPage": 7 },
+    "verification": { "status": "verified", "textConfidence": 0.98, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-136",
+    "order": 124,
+    "text": "Một trong những nội dung an ninh phi truyền thống?",
+    "options": [
+      { "id": "A", "text": "Chủ nghĩa khủng bố" },
+      { "id": "B", "text": "Biến đổi thời tiết" },
+      { "id": "C", "text": "An ninh kế toán" },
+      { "id": "D", "text": "An ninh mạng" }
+    ],
+    "correctOptionId": "A",
+    "topic": "An ninh phi truyền thống",
+    "source": { "image": "1785934222281_8013660885024387896_8013660885024387896_48e330b9782bc5e7bac4fc1ee838b713.jpg", "printedPage": 20, "questionIndexOnPage": 8 },
+    "verification": { "status": "verified", "textConfidence": 0.98, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-137",
+    "order": 125,
+    "text": "Có mấy giải pháp để đấu tranh phòng chống các mối đe dọa an ninh phi truyền thống ở Việt Nam?",
+    "options": [
+      { "id": "A", "text": "4" },
+      { "id": "B", "text": "5" },
+      { "id": "C", "text": "6" },
+      { "id": "D", "text": "7" }
+    ],
+    "correctOptionId": "B",
+    "topic": "An ninh phi truyền thống",
+    "source": { "image": "1785934222281_8013660885024387896_8013660885024387896_48e330b9782bc5e7bac4fc1ee838b713.jpg", "printedPage": 20, "questionIndexOnPage": 9 },
+    "verification": { "status": "verified", "textConfidence": 0.98, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-138",
+    "order": 126,
+    "text": "Đâu là bối cảnh làm nảy sinh an ninh phi truyền thống (ANPTT)?",
+    "options": [
+      { "id": "A", "text": "Sự biến đổi cục diện quốc tế sau chiến tranh lạnh" },
+      { "id": "B", "text": "Mối đe dọa ANPTT đe dọa an ninh khu vực, an ninh quốc tế" },
+      { "id": "C", "text": "Nhắc đến ANPTT không thể không nhắc đến mối đe dọa ANPTT" },
+      { "id": "D", "text": "Các mối đe dọa ANPTT đa dạng về nguồn gốc, có quá trình tích lũy tiềm tàng" }
+    ],
+    "correctOptionId": "A",
+    "topic": "An ninh phi truyền thống",
+    "source": { "image": "1785934222290_8013660885024387896_8013660885024387896_270809bf1096385b406205549085ff9e.jpg", "printedPage": 19, "questionIndexOnPage": 1 },
+    "verification": { "status": "verified", "textConfidence": 0.98, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-139",
+    "order": 127,
+    "text": "Đâu là bối cảnh làm nảy sinh an ninh phi truyền thống (ANPTT)?",
+    "options": [
+      { "id": "A", "text": "Các mối đe dọa ANPTT đa dạng về nguồn gốc, tích lũy tiềm tàng" },
+      { "id": "B", "text": "Các mối đe dọa ANPTT có quan hệ, tác động, ảnh hưởng lẫn nhau và với các mối đe dọa an ninh truyền thống" },
+      { "id": "C", "text": "Quá trình toàn cầu hóa diễn ra trên phạm vi rộng, tốc độ nhanh" },
+      { "id": "D", "text": "Mối đe dọa ANPTT đe dọa an ninh khu vực, an ninh quốc tế" }
+    ],
+    "correctOptionId": "C",
+    "topic": "An ninh phi truyền thống",
+    "source": { "image": "1785934222290_8013660885024387896_8013660885024387896_270809bf1096385b406205549085ff9e.jpg", "printedPage": 19, "questionIndexOnPage": 2 },
+    "verification": { "status": "verified", "textConfidence": 0.96, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-140",
+    "order": 128,
+    "text": "Đâu là bối cảnh làm nảy sinh an ninh phi truyền thống (ANPTT)?",
+    "options": [
+      { "id": "A", "text": "Các mối đe dọa ANPTT có quan hệ, tác động, ảnh hưởng lẫn nhau và với các mối đe dọa an ninh truyền thống" },
+      { "id": "B", "text": "Các mối đe dọa ANPTT có quan hệ, tác động, ảnh hưởng lẫn nhau" },
+      { "id": "C", "text": "Các mối đe dọa ANPTT đa dạng về nguồn gốc" },
+      { "id": "D", "text": "Khoa học và công nghệ phát triển" }
+    ],
+    "correctOptionId": "D",
+    "topic": "An ninh phi truyền thống",
+    "source": { "image": "1785934222290_8013660885024387896_8013660885024387896_270809bf1096385b406205549085ff9e.jpg", "printedPage": 19, "questionIndexOnPage": 3 },
+    "verification": { "status": "verified", "textConfidence": 0.97, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-141",
+    "order": 129,
+    "text": "Đâu là bối cảnh làm nảy sinh an ninh phi truyền thống (ANPTT)?",
+    "options": [
+      { "id": "A", "text": "Các quốc gia tập trung nguồn lực phát triển kinh tế - xã hội và khoa học - công nghệ phát triển" },
+      { "id": "B", "text": "Các mối đe dọa ANPTT có quan hệ, tác động, ảnh hưởng lẫn nhau và với các mối đe dọa an ninh truyền thống" },
+      { "id": "C", "text": "Các mối đe dọa ANPTT đa dạng về nguồn gốc, có quá trình tích lũy tiềm tàng" },
+      { "id": "D", "text": "Các quốc gia tăng cường đầu tư phát triển khoa học công nghệ, hình thành các lực lượng tác chiến mới" }
+    ],
+    "correctOptionId": "A",
+    "topic": "An ninh phi truyền thống",
+    "source": { "image": "1785934222290_8013660885024387896_8013660885024387896_270809bf1096385b406205549085ff9e.jpg", "printedPage": 19, "questionIndexOnPage": 4 },
+    "verification": { "status": "verified", "textConfidence": 0.97, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-142",
+    "order": 130,
+    "text": "An ninh phi truyền thống có mấy đặc điểm?",
+    "options": [
+      { "id": "A", "text": "4" },
+      { "id": "B", "text": "5" },
+      { "id": "C", "text": "6" },
+      { "id": "D", "text": "7" }
+    ],
+    "correctOptionId": "B",
+    "topic": "An ninh phi truyền thống",
+    "source": { "image": "1785934222290_8013660885024387896_8013660885024387896_270809bf1096385b406205549085ff9e.jpg", "printedPage": 19, "questionIndexOnPage": 5 },
+    "verification": { "status": "verified", "textConfidence": 0.99, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-143",
+    "order": 131,
+    "text": "Có mấy bối cảnh làm nảy sinh an ninh phi truyền thống?",
+    "options": [
+      { "id": "A", "text": "4" },
+      { "id": "B", "text": "5" },
+      { "id": "C", "text": "6" },
+      { "id": "D", "text": "7" }
+    ],
+    "correctOptionId": "A",
+    "topic": "An ninh phi truyền thống",
+    "source": { "image": "1785934222290_8013660885024387896_8013660885024387896_270809bf1096385b406205549085ff9e.jpg", "printedPage": 19, "questionIndexOnPage": 6 },
+    "verification": { "status": "verified", "textConfidence": 0.99, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-144",
+    "order": 132,
+    "text": "An ninh phi truyền thống bao gồm mấy nội dung cơ bản?",
+    "options": [
+      { "id": "A", "text": "7" },
+      { "id": "B", "text": "8" },
+      { "id": "C", "text": "9" },
+      { "id": "D", "text": "10" }
+    ],
+    "correctOptionId": "C",
+    "topic": "An ninh phi truyền thống",
+    "source": { "image": "1785934222290_8013660885024387896_8013660885024387896_270809bf1096385b406205549085ff9e.jpg", "printedPage": 19, "questionIndexOnPage": 7 },
+    "verification": { "status": "verified", "textConfidence": 0.99, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-145",
+    "order": 133,
+    "text": "Một trong những nội dung an ninh phi truyền thống?",
+    "options": [
+      { "id": "A", "text": "Biến đổi khí hậu" },
+      { "id": "B", "text": "Biến đổi thời tiết" },
+      { "id": "C", "text": "Biến đổi địa hình" },
+      { "id": "D", "text": "Biến đổi môi trường" }
+    ],
+    "correctOptionId": "A",
+    "topic": "An ninh phi truyền thống",
+    "source": { "image": "1785934222290_8013660885024387896_8013660885024387896_270809bf1096385b406205549085ff9e.jpg", "printedPage": 19, "questionIndexOnPage": 8 },
+    "verification": { "status": "verified", "textConfidence": 0.98, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-016",
+    "order": 134,
+    "text": "Một trong những quan điểm chỉ đạo của Đảng, Nhà nước về phòng chống “Diễn biến hòa bình”, bạo loạn lật đổ?",
+    "options": [
+      { "id": "A", "text": "Giữ vững sự ổn định chính trị của đất nước, sự lãnh đạo, vai trò cầm quyền của Đảng đối với toàn xã hội" },
+      { "id": "B", "text": "Làm tốt công tác giáo dục chính trị, tư tưởng cho đội ngũ cán bộ, viên chức Nhà nước và các ngành, các cấp" },
+      { "id": "C", "text": "Chống “DBHB” là cấp bách, hàng đầu trong các nhiệm vụ quốc phòng - an ninh hiện nay để bảo vệ vững chắc Tổ quốc XHCN" },
+      { "id": "D", "text": "Nâng cao nhận thức về âm mưu, thủ đoạn của các thế lực thù địch, nắm chắc mọi diễn biến không để bị động và bất ngờ" }
+    ],
+    "correctOptionId": "C",
+    "topic": "Diễn biến hòa bình",
+    "source": { "image": "1785934222126_8013660885024387896_8013660885024387896_0cbc7090f0cddeea79afe8b1de499d91.jpg", "printedPage": 3, "questionIndexOnPage": 2 },
+    "verification": { "status": "verified", "textConfidence": 0.97, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-017",
+    "order": 135,
+    "text": "Một trong những quan điểm chỉ đạo của Đảng, Nhà nước về phòng chống “Diễn biến hòa bình”, bạo loạn lật đổ?",
+    "options": [
+      { "id": "A", "text": "Giữ vững sự lãnh đạo, vai trò cầm quyền của Đảng đối với toàn xã hội, đối với quân đội" },
+      { "id": "B", "text": "Phát huy sức mạnh tổng hợp của khối đại đoàn kết dân tộc của cả hệ thống chính trị, dưới sự lãnh đạo của Đảng trong đấu tranh chống “DBHB”" },
+      { "id": "C", "text": "Hoàn thiện hệ thống pháp luật, cơ chế chính sách, sàng lọc, lựa chọn người có đủ phẩm chất và năng lực đáp ứng yêu cầu" },
+      { "id": "D", "text": "Chủ động, khôn khéo xử lý tình huống và giải quyết hậu quả khi có bạo loạn xảy ra" }
+    ],
+    "correctOptionId": "B",
+    "topic": "Diễn biến hòa bình",
+    "source": { "image": "1785934222126_8013660885024387896_8013660885024387896_0cbc7090f0cddeea79afe8b1de499d91.jpg", "printedPage": 3, "questionIndexOnPage": 3 },
+    "verification": { "status": "verified", "textConfidence": 0.97, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-018",
+    "order": 136,
+    "text": "Một trong những phương châm tiến hành phòng chống “Diễn biến hòa bình”, bạo loạn lật đổ?",
+    "options": [
+      { "id": "A", "text": "Giữ vững ổn định từ bên trong, chủ động phòng ngừa" },
+      { "id": "B", "text": "Làm tốt công tác giáo dục chính trị, tư tưởng cho đội ngũ cán bộ, viên chức Nhà nước" },
+      { "id": "C", "text": "Tranh thủ sự ủng hộ của nhân dân thế giới, kịp thời làm thất bại âm mưu, thủ đoạn chống phá của kẻ thù đối với Việt Nam" },
+      { "id": "D", "text": "Phát huy sức mạnh tổng hợp của khối đại đoàn kết dân tộc của cả hệ thống chính trị" }
+    ],
+    "correctOptionId": "A",
+    "topic": "Diễn biến hòa bình",
+    "source": { "image": "1785934222126_8013660885024387896_8013660885024387896_0cbc7090f0cddeea79afe8b1de499d91.jpg", "printedPage": 3, "questionIndexOnPage": 4 },
+    "verification": { "status": "verified", "textConfidence": 0.97, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-019",
+    "order": 137,
+    "text": "Một trong những phương châm tiến hành phòng chống “Diễn biến hòa bình”, bạo loạn lật đổ?",
+    "options": [
+      { "id": "A", "text": "Xây dựng tiềm lực vững mạnh của đất nước, tranh thủ sự ủng hộ của nhân dân trong nước và quốc tế, kịp thời làm thất bại âm mưu, thủ đoạn chống phá của kẻ thù đối với Việt Nam" },
+      { "id": "B", "text": "Giữ vững từ bên trong là giữ vững sự ổn định chính trị của đất nước" },
+      { "id": "C", "text": "Chú trọng làm tốt công tác nghiên cứu, dự báo chiến lược, nhất là những nghiên cứu mang tính tổng thể, dài hơi trong quan hệ với các nước lớn" },
+      { "id": "D", "text": "Đẩy lùi tệ quan liêu, tham nhũng, tiêu cực trong xã hội, giữ vững định hướng XHCN trên các lĩnh vực" }
+    ],
+    "correctOptionId": "B",
+    "topic": "Diễn biến hòa bình",
+    "source": { "image": "1785934222126_8013660885024387896_8013660885024387896_0cbc7090f0cddeea79afe8b1de499d91.jpg", "printedPage": 3, "questionIndexOnPage": 5 },
+    "verification": { "status": "verified", "textConfidence": 0.96, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-032",
+    "order": 138,
+    "text": "Giải quyết vấn đề dân tộc trong tư tưởng Hồ Chí Minh?",
+    "options": [
+      { "id": "A", "text": "Các dân tộc ở Việt Nam có quy mô dân số và trình độ phát triển kinh tế - xã hội không đều nhau" },
+      { "id": "B", "text": "Không ai có quyền xâm phạm, thể hiện quyền làm chủ của nhân dân đối với đất nước" },
+      { "id": "C", "text": "Phải kiên quyết giành độc lập dân tộc, giải phóng dân tộc đem lại tự do, hạnh phúc cho nhân dân" },
+      { "id": "D", "text": "Cách mạng Việt Nam là một bộ phận của cách mạng thế giới" }
+    ],
+    "correctOptionId": "B",
+    "topic": "Vấn đề dân tộc",
+    "source": { "image": "1785934222154_8013660885024387896_8013660885024387896_587570189744a3c48eeabf4453c56d0b.jpg", "printedPage": 5, "questionIndexOnPage": 6 },
+    "verification": { "status": "verified", "textConfidence": 0.94, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-039",
+    "order": 139,
+    "text": "Một trong những nguồn gốc của tôn giáo?",
+    "options": [
+      { "id": "A", "text": "Nguồn gốc mê tín" },
+      { "id": "B", "text": "Nguồn gốc nhận thức" },
+      { "id": "C", "text": "Nguồn gốc xã hội" },
+      { "id": "D", "text": "Nguồn gốc văn hóa" }
+    ],
+    "correctOptionId": "B",
+    "topic": "Tôn giáo",
+    "source": { "image": "1785934222166_8013660885024387896_8013660885024387896_b05c8eb1b23c710995f046ee4cd02c1a.jpg", "printedPage": 6, "questionIndexOnPage": 7 },
+    "verification": { "status": "verified", "textConfidence": 0.98, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  },
+  {
+    "id": "q-068",
+    "order": 140,
+    "text": "Một trong các dấu hiệu cơ bản của vi phạm hành chính xảy ra trong bảo đảm trật tự, an toàn giao thông?",
+    "options": [
+      { "id": "A", "text": "Tính nguy hiểm cho xã hội" },
+      { "id": "B", "text": "Tính mất an toàn cho xã hội" },
+      { "id": "C", "text": "Tính vi phạm" },
+      { "id": "D", "text": "Tính phạm tội" }
+    ],
+    "correctOptionId": "A",
+    "topic": "An toàn giao thông",
+    "source": { "image": "1785934222205_8013660885024387896_8013660885024387896_3809c39816c132b4d0ece5d8cb182a23.jpg", "printedPage": 11, "questionIndexOnPage": 9 },
+    "verification": { "status": "verified", "textConfidence": 0.98, "answerConfidence": 0.99, "verifiedBy": "Codex + ảnh gốc", "verifiedAt": "2026-08-05" }
+  }
+]

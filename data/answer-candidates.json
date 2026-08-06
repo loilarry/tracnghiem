@@ -1,0 +1,2819 @@
+[
+  {
+    "questionId": "q-001",
+    "source": {
+      "image": "1785934222080_8013660885024387896_8013660885024387896_6a34f61e8b352a2e67179ee00e7ba2d1.jpg",
+      "printedPage": 4,
+      "questionIndexOnPage": 1
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "blue-highlight",
+    "confidence": 0.94,
+    "groupCount": 4,
+    "circleCountOnPage": 6,
+    "blueScores": [
+      94.0,
+      2.1,
+      0.0,
+      1.0
+    ]
+  },
+  {
+    "questionId": "q-002",
+    "source": {
+      "image": "1785934222080_8013660885024387896_8013660885024387896_6a34f61e8b352a2e67179ee00e7ba2d1.jpg",
+      "printedPage": 4,
+      "questionIndexOnPage": 2
+    },
+    "predictedOptionIndex": 1,
+    "predictedOptionId": "B",
+    "markerType": "selection-circle",
+    "confidence": 0.81,
+    "groupCount": 4,
+    "circleCountOnPage": 6,
+    "blueScores": [
+      22.4,
+      14.2,
+      0.0,
+      0.4
+    ]
+  },
+  {
+    "questionId": "q-003",
+    "source": {
+      "image": "1785934222080_8013660885024387896_8013660885024387896_6a34f61e8b352a2e67179ee00e7ba2d1.jpg",
+      "printedPage": 4,
+      "questionIndexOnPage": 3
+    },
+    "predictedOptionIndex": 2,
+    "predictedOptionId": "C",
+    "markerType": "blue-highlight",
+    "confidence": 0.632,
+    "groupCount": 4,
+    "circleCountOnPage": 6,
+    "blueScores": [
+      1.7,
+      32.0,
+      63.2,
+      8.3
+    ]
+  },
+  {
+    "questionId": "q-004",
+    "source": {
+      "image": "1785934222080_8013660885024387896_8013660885024387896_6a34f61e8b352a2e67179ee00e7ba2d1.jpg",
+      "printedPage": 4,
+      "questionIndexOnPage": 4
+    },
+    "predictedOptionIndex": 3,
+    "predictedOptionId": "D",
+    "markerType": "blue-highlight",
+    "confidence": 0.55,
+    "groupCount": 4,
+    "circleCountOnPage": 6,
+    "blueScores": [
+      4.4,
+      11.4,
+      29.1,
+      50.5
+    ]
+  },
+  {
+    "questionId": "q-005",
+    "source": {
+      "image": "1785934222080_8013660885024387896_8013660885024387896_6a34f61e8b352a2e67179ee00e7ba2d1.jpg",
+      "printedPage": 4,
+      "questionIndexOnPage": 5
+    },
+    "predictedOptionIndex": 3,
+    "predictedOptionId": "D",
+    "markerType": "blue-highlight",
+    "confidence": 0.55,
+    "groupCount": 4,
+    "circleCountOnPage": 6,
+    "blueScores": [
+      18.3,
+      15.5,
+      36.1,
+      50.8
+    ]
+  },
+  {
+    "questionId": "q-006",
+    "source": {
+      "image": "1785934222080_8013660885024387896_8013660885024387896_6a34f61e8b352a2e67179ee00e7ba2d1.jpg",
+      "printedPage": 4,
+      "questionIndexOnPage": 6
+    },
+    "predictedOptionIndex": 1,
+    "predictedOptionId": "B",
+    "markerType": "blue-highlight",
+    "confidence": 0.55,
+    "groupCount": 4,
+    "circleCountOnPage": 6,
+    "blueScores": [
+      15.2,
+      48.4,
+      22.3,
+      21.0
+    ]
+  },
+  {
+    "questionId": "q-007",
+    "source": {
+      "image": "1785934222080_8013660885024387896_8013660885024387896_6a34f61e8b352a2e67179ee00e7ba2d1.jpg",
+      "printedPage": 4,
+      "questionIndexOnPage": 7
+    },
+    "predictedOptionIndex": null,
+    "predictedOptionId": null,
+    "markerType": "none",
+    "confidence": 0.0,
+    "groupCount": 0,
+    "circleCountOnPage": 6,
+    "blueScores": []
+  },
+  {
+    "questionId": "q-008",
+    "source": {
+      "image": "1785934222108_8013660885024387896_8013660885024387896_796f54a0b91c076735db6d3bb3780459.jpg",
+      "printedPage": null,
+      "questionIndexOnPage": 1
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "blue-highlight",
+    "confidence": 0.621,
+    "groupCount": 3,
+    "circleCountOnPage": 0,
+    "blueScores": [
+      62.1,
+      5.3,
+      2.3
+    ]
+  },
+  {
+    "questionId": "q-009",
+    "source": {
+      "image": "1785934222108_8013660885024387896_8013660885024387896_796f54a0b91c076735db6d3bb3780459.jpg",
+      "printedPage": null,
+      "questionIndexOnPage": 2
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "blue-highlight",
+    "confidence": 0.905,
+    "groupCount": 4,
+    "circleCountOnPage": 0,
+    "blueScores": [
+      90.5,
+      11.0,
+      0.5,
+      0.9
+    ]
+  },
+  {
+    "questionId": "q-010",
+    "source": {
+      "image": "1785934222108_8013660885024387896_8013660885024387896_796f54a0b91c076735db6d3bb3780459.jpg",
+      "printedPage": null,
+      "questionIndexOnPage": 3
+    },
+    "predictedOptionIndex": 2,
+    "predictedOptionId": "C",
+    "markerType": "blue-highlight",
+    "confidence": 0.55,
+    "groupCount": 4,
+    "circleCountOnPage": 0,
+    "blueScores": [
+      1.2,
+      19.0,
+      44.0,
+      8.7
+    ]
+  },
+  {
+    "questionId": "q-011",
+    "source": {
+      "image": "1785934222108_8013660885024387896_8013660885024387896_796f54a0b91c076735db6d3bb3780459.jpg",
+      "printedPage": null,
+      "questionIndexOnPage": 4
+    },
+    "predictedOptionIndex": 1,
+    "predictedOptionId": "B",
+    "markerType": "blue-highlight",
+    "confidence": 0.55,
+    "groupCount": 4,
+    "circleCountOnPage": 0,
+    "blueScores": [
+      15.5,
+      37.2,
+      2.7,
+      1.4
+    ]
+  },
+  {
+    "questionId": "q-012",
+    "source": {
+      "image": "1785934222108_8013660885024387896_8013660885024387896_796f54a0b91c076735db6d3bb3780459.jpg",
+      "printedPage": null,
+      "questionIndexOnPage": 5
+    },
+    "predictedOptionIndex": 1,
+    "predictedOptionId": "B",
+    "markerType": "blue-highlight",
+    "confidence": 0.897,
+    "groupCount": 4,
+    "circleCountOnPage": 0,
+    "blueScores": [
+      77.5,
+      89.7,
+      3.0,
+      1.4
+    ]
+  },
+  {
+    "questionId": "q-013",
+    "source": {
+      "image": "1785934222108_8013660885024387896_8013660885024387896_796f54a0b91c076735db6d3bb3780459.jpg",
+      "printedPage": null,
+      "questionIndexOnPage": 6
+    },
+    "predictedOptionIndex": 3,
+    "predictedOptionId": "D",
+    "markerType": "blue-highlight",
+    "confidence": 0.828,
+    "groupCount": 4,
+    "circleCountOnPage": 0,
+    "blueScores": [
+      1.6,
+      1.5,
+      9.3,
+      82.8
+    ]
+  },
+  {
+    "questionId": "q-014",
+    "source": {
+      "image": "1785934222108_8013660885024387896_8013660885024387896_796f54a0b91c076735db6d3bb3780459.jpg",
+      "printedPage": null,
+      "questionIndexOnPage": 7
+    },
+    "predictedOptionIndex": 1,
+    "predictedOptionId": "B",
+    "markerType": "blue-highlight",
+    "confidence": 0.794,
+    "groupCount": 4,
+    "circleCountOnPage": 0,
+    "blueScores": [
+      19.5,
+      79.4,
+      6.2,
+      8.6
+    ]
+  },
+  {
+    "questionId": "q-015",
+    "source": {
+      "image": "1785934222126_8013660885024387896_8013660885024387896_0cbc7090f0cddeea79afe8b1de499d91.jpg",
+      "printedPage": 3,
+      "questionIndexOnPage": 1
+    },
+    "predictedOptionIndex": 1,
+    "predictedOptionId": "B",
+    "markerType": "blue-highlight",
+    "confidence": 0.99,
+    "groupCount": 4,
+    "circleCountOnPage": 0,
+    "blueScores": [
+      11.9,
+      99.8,
+      0.8,
+      1.5
+    ]
+  },
+  {
+    "questionId": "q-016",
+    "source": {
+      "image": "1785934222126_8013660885024387896_8013660885024387896_0cbc7090f0cddeea79afe8b1de499d91.jpg",
+      "printedPage": 3,
+      "questionIndexOnPage": 2
+    },
+    "predictedOptionIndex": null,
+    "predictedOptionId": null,
+    "markerType": "none",
+    "confidence": 0.0,
+    "groupCount": 4,
+    "circleCountOnPage": 0,
+    "blueScores": [
+      0.3,
+      4.7,
+      24.2,
+      1.8
+    ]
+  },
+  {
+    "questionId": "q-017",
+    "source": {
+      "image": "1785934222126_8013660885024387896_8013660885024387896_0cbc7090f0cddeea79afe8b1de499d91.jpg",
+      "printedPage": 3,
+      "questionIndexOnPage": 3
+    },
+    "predictedOptionIndex": null,
+    "predictedOptionId": null,
+    "markerType": "none",
+    "confidence": 0.0,
+    "groupCount": 4,
+    "circleCountOnPage": 0,
+    "blueScores": [
+      11.8,
+      19.7,
+      2.2,
+      1.7
+    ]
+  },
+  {
+    "questionId": "q-018",
+    "source": {
+      "image": "1785934222126_8013660885024387896_8013660885024387896_0cbc7090f0cddeea79afe8b1de499d91.jpg",
+      "printedPage": 3,
+      "questionIndexOnPage": 4
+    },
+    "predictedOptionIndex": null,
+    "predictedOptionId": null,
+    "markerType": "none",
+    "confidence": 0.0,
+    "groupCount": 4,
+    "circleCountOnPage": 0,
+    "blueScores": [
+      25.2,
+      2.4,
+      2.8,
+      2.2
+    ]
+  },
+  {
+    "questionId": "q-019",
+    "source": {
+      "image": "1785934222126_8013660885024387896_8013660885024387896_0cbc7090f0cddeea79afe8b1de499d91.jpg",
+      "printedPage": 3,
+      "questionIndexOnPage": 5
+    },
+    "predictedOptionIndex": null,
+    "predictedOptionId": null,
+    "markerType": "none",
+    "confidence": 0.0,
+    "groupCount": 4,
+    "circleCountOnPage": 0,
+    "blueScores": [
+      13.1,
+      18.8,
+      10.0,
+      7.7
+    ]
+  },
+  {
+    "questionId": "q-020",
+    "source": {
+      "image": "1785934222142_8013660885024387896_8013660885024387896_ae848f778e58028cc796477304320b59.jpg",
+      "printedPage": null,
+      "questionIndexOnPage": 1
+    },
+    "predictedOptionIndex": null,
+    "predictedOptionId": null,
+    "markerType": "none",
+    "confidence": 0.0,
+    "groupCount": 4,
+    "circleCountOnPage": 0,
+    "blueScores": [
+      23.4,
+      3.2,
+      0.0,
+      0.1
+    ]
+  },
+  {
+    "questionId": "q-021",
+    "source": {
+      "image": "1785934222142_8013660885024387896_8013660885024387896_ae848f778e58028cc796477304320b59.jpg",
+      "printedPage": null,
+      "questionIndexOnPage": 2
+    },
+    "predictedOptionIndex": 2,
+    "predictedOptionId": "C",
+    "markerType": "blue-highlight",
+    "confidence": 0.55,
+    "groupCount": 4,
+    "circleCountOnPage": 0,
+    "blueScores": [
+      0.6,
+      6.2,
+      51.1,
+      0.3
+    ]
+  },
+  {
+    "questionId": "q-022",
+    "source": {
+      "image": "1785934222142_8013660885024387896_8013660885024387896_ae848f778e58028cc796477304320b59.jpg",
+      "printedPage": null,
+      "questionIndexOnPage": 3
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "blue-highlight",
+    "confidence": 0.632,
+    "groupCount": 4,
+    "circleCountOnPage": 0,
+    "blueScores": [
+      63.2,
+      0.9,
+      0.2,
+      0.8
+    ]
+  },
+  {
+    "questionId": "q-023",
+    "source": {
+      "image": "1785934222142_8013660885024387896_8013660885024387896_ae848f778e58028cc796477304320b59.jpg",
+      "printedPage": null,
+      "questionIndexOnPage": 4
+    },
+    "predictedOptionIndex": 1,
+    "predictedOptionId": "B",
+    "markerType": "blue-highlight",
+    "confidence": 0.99,
+    "groupCount": 3,
+    "circleCountOnPage": 0,
+    "blueScores": [
+      16.3,
+      100.5,
+      2.0
+    ]
+  },
+  {
+    "questionId": "q-024",
+    "source": {
+      "image": "1785934222142_8013660885024387896_8013660885024387896_ae848f778e58028cc796477304320b59.jpg",
+      "printedPage": null,
+      "questionIndexOnPage": 5
+    },
+    "predictedOptionIndex": 2,
+    "predictedOptionId": "C",
+    "markerType": "blue-highlight",
+    "confidence": 0.55,
+    "groupCount": 4,
+    "circleCountOnPage": 0,
+    "blueScores": [
+      3.7,
+      26.0,
+      48.6,
+      19.7
+    ]
+  },
+  {
+    "questionId": "q-025",
+    "source": {
+      "image": "1785934222142_8013660885024387896_8013660885024387896_ae848f778e58028cc796477304320b59.jpg",
+      "printedPage": null,
+      "questionIndexOnPage": 6
+    },
+    "predictedOptionIndex": 2,
+    "predictedOptionId": "C",
+    "markerType": "blue-highlight",
+    "confidence": 0.608,
+    "groupCount": 4,
+    "circleCountOnPage": 0,
+    "blueScores": [
+      9.5,
+      41.3,
+      60.8,
+      14.0
+    ]
+  },
+  {
+    "questionId": "q-026",
+    "source": {
+      "image": "1785934222142_8013660885024387896_8013660885024387896_ae848f778e58028cc796477304320b59.jpg",
+      "printedPage": null,
+      "questionIndexOnPage": 7
+    },
+    "predictedOptionIndex": null,
+    "predictedOptionId": null,
+    "markerType": "none",
+    "confidence": 0.0,
+    "groupCount": 0,
+    "circleCountOnPage": 0,
+    "blueScores": []
+  },
+  {
+    "questionId": "q-027",
+    "source": {
+      "image": "1785934222154_8013660885024387896_8013660885024387896_587570189744a3c48eeabf4453c56d0b.jpg",
+      "printedPage": 5,
+      "questionIndexOnPage": 1
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.619,
+    "groupCount": 3,
+    "circleCountOnPage": 5,
+    "blueScores": [
+      23.6,
+      1.0,
+      0.6
+    ]
+  },
+  {
+    "questionId": "q-028",
+    "source": {
+      "image": "1785934222154_8013660885024387896_8013660885024387896_587570189744a3c48eeabf4453c56d0b.jpg",
+      "printedPage": 5,
+      "questionIndexOnPage": 2
+    },
+    "predictedOptionIndex": 1,
+    "predictedOptionId": "B",
+    "markerType": "blue-highlight",
+    "confidence": 0.803,
+    "groupCount": 3,
+    "circleCountOnPage": 5,
+    "blueScores": [
+      39.2,
+      80.3,
+      1.2
+    ]
+  },
+  {
+    "questionId": "q-029",
+    "source": {
+      "image": "1785934222154_8013660885024387896_8013660885024387896_587570189744a3c48eeabf4453c56d0b.jpg",
+      "printedPage": 5,
+      "questionIndexOnPage": 3
+    },
+    "predictedOptionIndex": 1,
+    "predictedOptionId": "B",
+    "markerType": "blue-highlight",
+    "confidence": 0.55,
+    "groupCount": 4,
+    "circleCountOnPage": 5,
+    "blueScores": [
+      7.5,
+      41.1,
+      7.1,
+      1.5
+    ]
+  },
+  {
+    "questionId": "q-030",
+    "source": {
+      "image": "1785934222154_8013660885024387896_8013660885024387896_587570189744a3c48eeabf4453c56d0b.jpg",
+      "printedPage": 5,
+      "questionIndexOnPage": 4
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.775,
+    "groupCount": 4,
+    "circleCountOnPage": 5,
+    "blueScores": [
+      2.1,
+      8.3,
+      2.1,
+      3.0
+    ]
+  },
+  {
+    "questionId": "q-031",
+    "source": {
+      "image": "1785934222154_8013660885024387896_8013660885024387896_587570189744a3c48eeabf4453c56d0b.jpg",
+      "printedPage": 5,
+      "questionIndexOnPage": 5
+    },
+    "predictedOptionIndex": 1,
+    "predictedOptionId": "B",
+    "markerType": "selection-circle",
+    "confidence": 0.846,
+    "groupCount": 4,
+    "circleCountOnPage": 5,
+    "blueScores": [
+      2.3,
+      7.5,
+      10.7,
+      3.9
+    ]
+  },
+  {
+    "questionId": "q-032",
+    "source": {
+      "image": "1785934222154_8013660885024387896_8013660885024387896_587570189744a3c48eeabf4453c56d0b.jpg",
+      "printedPage": 5,
+      "questionIndexOnPage": 6
+    },
+    "predictedOptionIndex": null,
+    "predictedOptionId": null,
+    "markerType": "none",
+    "confidence": 0.0,
+    "groupCount": 3,
+    "circleCountOnPage": 5,
+    "blueScores": [
+      19.2,
+      7.1,
+      21.8
+    ]
+  },
+  {
+    "questionId": "q-033",
+    "source": {
+      "image": "1785934222166_8013660885024387896_8013660885024387896_b05c8eb1b23c710995f046ee4cd02c1a.jpg",
+      "printedPage": 3,
+      "questionIndexOnPage": 1
+    },
+    "predictedOptionIndex": 1,
+    "predictedOptionId": "B",
+    "markerType": "selection-circle",
+    "confidence": 0.882,
+    "groupCount": 4,
+    "circleCountOnPage": 8,
+    "blueScores": [
+      1.9,
+      8.2,
+      0.3,
+      0.4
+    ]
+  },
+  {
+    "questionId": "q-034",
+    "source": {
+      "image": "1785934222166_8013660885024387896_8013660885024387896_b05c8eb1b23c710995f046ee4cd02c1a.jpg",
+      "printedPage": 3,
+      "questionIndexOnPage": 2
+    },
+    "predictedOptionIndex": 1,
+    "predictedOptionId": "B",
+    "markerType": "selection-circle",
+    "confidence": 0.894,
+    "groupCount": 4,
+    "circleCountOnPage": 8,
+    "blueScores": [
+      5.7,
+      0.0,
+      14.8,
+      0.9
+    ]
+  },
+  {
+    "questionId": "q-035",
+    "source": {
+      "image": "1785934222166_8013660885024387896_8013660885024387896_b05c8eb1b23c710995f046ee4cd02c1a.jpg",
+      "printedPage": 3,
+      "questionIndexOnPage": 3
+    },
+    "predictedOptionIndex": 3,
+    "predictedOptionId": "D",
+    "markerType": "selection-circle",
+    "confidence": 0.842,
+    "groupCount": 4,
+    "circleCountOnPage": 8,
+    "blueScores": [
+      0.9,
+      1.2,
+      0.8,
+      7.3
+    ]
+  },
+  {
+    "questionId": "q-036",
+    "source": {
+      "image": "1785934222166_8013660885024387896_8013660885024387896_b05c8eb1b23c710995f046ee4cd02c1a.jpg",
+      "printedPage": 3,
+      "questionIndexOnPage": 4
+    },
+    "predictedOptionIndex": 3,
+    "predictedOptionId": "D",
+    "markerType": "selection-circle",
+    "confidence": 0.912,
+    "groupCount": 4,
+    "circleCountOnPage": 8,
+    "blueScores": [
+      2.2,
+      1.8,
+      12.4,
+      18.3
+    ]
+  },
+  {
+    "questionId": "q-037",
+    "source": {
+      "image": "1785934222166_8013660885024387896_8013660885024387896_b05c8eb1b23c710995f046ee4cd02c1a.jpg",
+      "printedPage": 3,
+      "questionIndexOnPage": 5
+    },
+    "predictedOptionIndex": 1,
+    "predictedOptionId": "B",
+    "markerType": "selection-circle",
+    "confidence": 0.918,
+    "groupCount": 4,
+    "circleCountOnPage": 8,
+    "blueScores": [
+      13.6,
+      28.6,
+      12.3,
+      23.1
+    ]
+  },
+  {
+    "questionId": "q-038",
+    "source": {
+      "image": "1785934222166_8013660885024387896_8013660885024387896_b05c8eb1b23c710995f046ee4cd02c1a.jpg",
+      "printedPage": 3,
+      "questionIndexOnPage": 6
+    },
+    "predictedOptionIndex": 1,
+    "predictedOptionId": "B",
+    "markerType": "blue-highlight",
+    "confidence": 0.63,
+    "groupCount": 4,
+    "circleCountOnPage": 8,
+    "blueScores": [
+      24.1,
+      63.0,
+      24.5,
+      25.5
+    ]
+  },
+  {
+    "questionId": "q-039",
+    "source": {
+      "image": "1785934222166_8013660885024387896_8013660885024387896_b05c8eb1b23c710995f046ee4cd02c1a.jpg",
+      "printedPage": 3,
+      "questionIndexOnPage": 7
+    },
+    "predictedOptionIndex": null,
+    "predictedOptionId": null,
+    "markerType": "none",
+    "confidence": 0.0,
+    "groupCount": 0,
+    "circleCountOnPage": 8,
+    "blueScores": []
+  },
+  {
+    "questionId": "q-040",
+    "source": {
+      "image": "1785934222176_8013660885024387896_8013660885024387896_3e0364a2d7ae88e69e5f976e5a4fc8c3.jpg",
+      "printedPage": 7,
+      "questionIndexOnPage": 1
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.887,
+    "groupCount": 2,
+    "circleCountOnPage": 7,
+    "blueScores": [
+      15.6,
+      0.0
+    ]
+  },
+  {
+    "questionId": "q-041",
+    "source": {
+      "image": "1785934222176_8013660885024387896_8013660885024387896_3e0364a2d7ae88e69e5f976e5a4fc8c3.jpg",
+      "printedPage": 7,
+      "questionIndexOnPage": 2
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.883,
+    "groupCount": 2,
+    "circleCountOnPage": 7,
+    "blueScores": [
+      25.3,
+      0.1
+    ]
+  },
+  {
+    "questionId": "q-042",
+    "source": {
+      "image": "1785934222176_8013660885024387896_8013660885024387896_3e0364a2d7ae88e69e5f976e5a4fc8c3.jpg",
+      "printedPage": 7,
+      "questionIndexOnPage": 3
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "blue-highlight",
+    "confidence": 0.55,
+    "groupCount": 3,
+    "circleCountOnPage": 7,
+    "blueScores": [
+      46.0,
+      0.3,
+      0.1
+    ]
+  },
+  {
+    "questionId": "q-043",
+    "source": {
+      "image": "1785934222176_8013660885024387896_8013660885024387896_3e0364a2d7ae88e69e5f976e5a4fc8c3.jpg",
+      "printedPage": 7,
+      "questionIndexOnPage": 4
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "blue-highlight",
+    "confidence": 0.55,
+    "groupCount": 3,
+    "circleCountOnPage": 7,
+    "blueScores": [
+      49.3,
+      1.3,
+      0.5
+    ]
+  },
+  {
+    "questionId": "q-044",
+    "source": {
+      "image": "1785934222176_8013660885024387896_8013660885024387896_3e0364a2d7ae88e69e5f976e5a4fc8c3.jpg",
+      "printedPage": 7,
+      "questionIndexOnPage": 5
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.85,
+    "groupCount": 3,
+    "circleCountOnPage": 7,
+    "blueScores": [
+      11.1,
+      2.4,
+      1.7
+    ]
+  },
+  {
+    "questionId": "q-045",
+    "source": {
+      "image": "1785934222176_8013660885024387896_8013660885024387896_3e0364a2d7ae88e69e5f976e5a4fc8c3.jpg",
+      "printedPage": 7,
+      "questionIndexOnPage": 6
+    },
+    "predictedOptionIndex": 3,
+    "predictedOptionId": "D",
+    "markerType": "blue-highlight",
+    "confidence": 0.899,
+    "groupCount": 4,
+    "circleCountOnPage": 7,
+    "blueScores": [
+      2.2,
+      2.2,
+      5.8,
+      89.9
+    ]
+  },
+  {
+    "questionId": "q-046",
+    "source": {
+      "image": "1785934222176_8013660885024387896_8013660885024387896_3e0364a2d7ae88e69e5f976e5a4fc8c3.jpg",
+      "printedPage": 7,
+      "questionIndexOnPage": 7
+    },
+    "predictedOptionIndex": null,
+    "predictedOptionId": null,
+    "markerType": "none",
+    "confidence": 0.0,
+    "groupCount": 3,
+    "circleCountOnPage": 7,
+    "blueScores": [
+      11.8,
+      14.0,
+      12.4
+    ]
+  },
+  {
+    "questionId": "q-047",
+    "source": {
+      "image": "1785934222186_8013660885024387896_8013660885024387896_c8dcb98f55995dca7bbbf67e49fe7364.jpg",
+      "printedPage": 8,
+      "questionIndexOnPage": 1
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.811,
+    "groupCount": 3,
+    "circleCountOnPage": 6,
+    "blueScores": [
+      1.8,
+      0.3,
+      0.3
+    ]
+  },
+  {
+    "questionId": "q-048",
+    "source": {
+      "image": "1785934222186_8013660885024387896_8013660885024387896_c8dcb98f55995dca7bbbf67e49fe7364.jpg",
+      "printedPage": 8,
+      "questionIndexOnPage": 2
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.882,
+    "groupCount": 2,
+    "circleCountOnPage": 6,
+    "blueScores": [
+      0.3,
+      0.3
+    ]
+  },
+  {
+    "questionId": "q-049",
+    "source": {
+      "image": "1785934222186_8013660885024387896_8013660885024387896_c8dcb98f55995dca7bbbf67e49fe7364.jpg",
+      "printedPage": 8,
+      "questionIndexOnPage": 3
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.889,
+    "groupCount": 2,
+    "circleCountOnPage": 6,
+    "blueScores": [
+      1.7,
+      1.7
+    ]
+  },
+  {
+    "questionId": "q-050",
+    "source": {
+      "image": "1785934222186_8013660885024387896_8013660885024387896_c8dcb98f55995dca7bbbf67e49fe7364.jpg",
+      "printedPage": 8,
+      "questionIndexOnPage": 4
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.918,
+    "groupCount": 3,
+    "circleCountOnPage": 6,
+    "blueScores": [
+      1.9,
+      3.8,
+      2.8
+    ]
+  },
+  {
+    "questionId": "q-051",
+    "source": {
+      "image": "1785934222186_8013660885024387896_8013660885024387896_c8dcb98f55995dca7bbbf67e49fe7364.jpg",
+      "printedPage": 8,
+      "questionIndexOnPage": 5
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.825,
+    "groupCount": 2,
+    "circleCountOnPage": 6,
+    "blueScores": [
+      6.0,
+      4.5
+    ]
+  },
+  {
+    "questionId": "q-052",
+    "source": {
+      "image": "1785934222186_8013660885024387896_8013660885024387896_c8dcb98f55995dca7bbbf67e49fe7364.jpg",
+      "printedPage": 8,
+      "questionIndexOnPage": 6
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.454,
+    "groupCount": 4,
+    "circleCountOnPage": 6,
+    "blueScores": [
+      17.8,
+      6.8,
+      10.6,
+      11.3
+    ]
+  },
+  {
+    "questionId": "q-053",
+    "source": {
+      "image": "1785934222195_8013660885024387896_8013660885024387896_381181602352a8f6beaa53fd3dfa2408.jpg",
+      "printedPage": 10,
+      "questionIndexOnPage": 1
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.493,
+    "groupCount": 1,
+    "circleCountOnPage": 5,
+    "blueScores": [
+      1.3
+    ]
+  },
+  {
+    "questionId": "q-054",
+    "source": {
+      "image": "1785934222195_8013660885024387896_8013660885024387896_381181602352a8f6beaa53fd3dfa2408.jpg",
+      "printedPage": 10,
+      "questionIndexOnPage": 2
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.723,
+    "groupCount": 3,
+    "circleCountOnPage": 5,
+    "blueScores": [
+      2.1,
+      1.2,
+      1.6
+    ]
+  },
+  {
+    "questionId": "q-055",
+    "source": {
+      "image": "1785934222195_8013660885024387896_8013660885024387896_381181602352a8f6beaa53fd3dfa2408.jpg",
+      "printedPage": 10,
+      "questionIndexOnPage": 3
+    },
+    "predictedOptionIndex": null,
+    "predictedOptionId": null,
+    "markerType": "none",
+    "confidence": 0.0,
+    "groupCount": 3,
+    "circleCountOnPage": 5,
+    "blueScores": [
+      3.4,
+      4.0,
+      2.0
+    ]
+  },
+  {
+    "questionId": "q-056",
+    "source": {
+      "image": "1785934222195_8013660885024387896_8013660885024387896_381181602352a8f6beaa53fd3dfa2408.jpg",
+      "printedPage": 10,
+      "questionIndexOnPage": 4
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.754,
+    "groupCount": 3,
+    "circleCountOnPage": 5,
+    "blueScores": [
+      1.1,
+      1.5,
+      1.6
+    ]
+  },
+  {
+    "questionId": "q-057",
+    "source": {
+      "image": "1785934222195_8013660885024387896_8013660885024387896_381181602352a8f6beaa53fd3dfa2408.jpg",
+      "printedPage": 10,
+      "questionIndexOnPage": 5
+    },
+    "predictedOptionIndex": 1,
+    "predictedOptionId": "B",
+    "markerType": "selection-circle",
+    "confidence": 0.899,
+    "groupCount": 4,
+    "circleCountOnPage": 5,
+    "blueScores": [
+      1.3,
+      1.2,
+      0.8,
+      0.6
+    ]
+  },
+  {
+    "questionId": "q-058",
+    "source": {
+      "image": "1785934222195_8013660885024387896_8013660885024387896_381181602352a8f6beaa53fd3dfa2408.jpg",
+      "printedPage": 10,
+      "questionIndexOnPage": 6
+    },
+    "predictedOptionIndex": null,
+    "predictedOptionId": null,
+    "markerType": "none",
+    "confidence": 0.0,
+    "groupCount": 4,
+    "circleCountOnPage": 5,
+    "blueScores": [
+      2.8,
+      1.6,
+      2.7,
+      1.5
+    ]
+  },
+  {
+    "questionId": "q-059",
+    "source": {
+      "image": "1785934222195_8013660885024387896_8013660885024387896_381181602352a8f6beaa53fd3dfa2408.jpg",
+      "printedPage": 10,
+      "questionIndexOnPage": 7
+    },
+    "predictedOptionIndex": null,
+    "predictedOptionId": null,
+    "markerType": "none",
+    "confidence": 0.0,
+    "groupCount": 4,
+    "circleCountOnPage": 5,
+    "blueScores": [
+      3.9,
+      4.7,
+      4.4,
+      10.5
+    ]
+  },
+  {
+    "questionId": "q-060",
+    "source": {
+      "image": "1785934222205_8013660885024387896_8013660885024387896_3809c39816c132b4d0ece5d8cb182a23.jpg",
+      "printedPage": 11,
+      "questionIndexOnPage": 1
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.742,
+    "groupCount": 3,
+    "circleCountOnPage": 8,
+    "blueScores": [
+      0.6,
+      0.3,
+      0.2
+    ]
+  },
+  {
+    "questionId": "q-061",
+    "source": {
+      "image": "1785934222205_8013660885024387896_8013660885024387896_3809c39816c132b4d0ece5d8cb182a23.jpg",
+      "printedPage": 11,
+      "questionIndexOnPage": 2
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.802,
+    "groupCount": 3,
+    "circleCountOnPage": 8,
+    "blueScores": [
+      0.1,
+      0.8,
+      0.5
+    ]
+  },
+  {
+    "questionId": "q-062",
+    "source": {
+      "image": "1785934222205_8013660885024387896_8013660885024387896_3809c39816c132b4d0ece5d8cb182a23.jpg",
+      "printedPage": 11,
+      "questionIndexOnPage": 3
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.76,
+    "groupCount": 3,
+    "circleCountOnPage": 8,
+    "blueScores": [
+      1.3,
+      1.5,
+      2.4
+    ]
+  },
+  {
+    "questionId": "q-063",
+    "source": {
+      "image": "1785934222205_8013660885024387896_8013660885024387896_3809c39816c132b4d0ece5d8cb182a23.jpg",
+      "printedPage": 11,
+      "questionIndexOnPage": 4
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.787,
+    "groupCount": 3,
+    "circleCountOnPage": 8,
+    "blueScores": [
+      2.3,
+      2.3,
+      2.9
+    ]
+  },
+  {
+    "questionId": "q-064",
+    "source": {
+      "image": "1785934222205_8013660885024387896_8013660885024387896_3809c39816c132b4d0ece5d8cb182a23.jpg",
+      "printedPage": 11,
+      "questionIndexOnPage": 5
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.898,
+    "groupCount": 4,
+    "circleCountOnPage": 8,
+    "blueScores": [
+      2.9,
+      2.5,
+      2.9,
+      12.5
+    ]
+  },
+  {
+    "questionId": "q-065",
+    "source": {
+      "image": "1785934222205_8013660885024387896_8013660885024387896_3809c39816c132b4d0ece5d8cb182a23.jpg",
+      "printedPage": 11,
+      "questionIndexOnPage": 6
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.918,
+    "groupCount": 4,
+    "circleCountOnPage": 8,
+    "blueScores": [
+      5.7,
+      4.2,
+      3.1,
+      3.3
+    ]
+  },
+  {
+    "questionId": "q-066",
+    "source": {
+      "image": "1785934222205_8013660885024387896_8013660885024387896_3809c39816c132b4d0ece5d8cb182a23.jpg",
+      "printedPage": 11,
+      "questionIndexOnPage": 7
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.807,
+    "groupCount": 3,
+    "circleCountOnPage": 8,
+    "blueScores": [
+      7.0,
+      7.5,
+      9.7
+    ]
+  },
+  {
+    "questionId": "q-067",
+    "source": {
+      "image": "1785934222205_8013660885024387896_8013660885024387896_3809c39816c132b4d0ece5d8cb182a23.jpg",
+      "printedPage": 11,
+      "questionIndexOnPage": 8
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.798,
+    "groupCount": 3,
+    "circleCountOnPage": 8,
+    "blueScores": [
+      15.5,
+      17.1,
+      16.9
+    ]
+  },
+  {
+    "questionId": "q-068",
+    "source": {
+      "image": "1785934222205_8013660885024387896_8013660885024387896_3809c39816c132b4d0ece5d8cb182a23.jpg",
+      "printedPage": 11,
+      "questionIndexOnPage": 9
+    },
+    "predictedOptionIndex": null,
+    "predictedOptionId": null,
+    "markerType": "none",
+    "confidence": 0.0,
+    "groupCount": 0,
+    "circleCountOnPage": 8,
+    "blueScores": []
+  },
+  {
+    "questionId": "q-069",
+    "source": {
+      "image": "1785934222214_8013660885024387896_8013660885024387896_01986394fdbfe8474191e650b7b28132.jpg",
+      "printedPage": 12,
+      "questionIndexOnPage": 1
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.92,
+    "groupCount": 4,
+    "circleCountOnPage": 7,
+    "blueScores": [
+      0.9,
+      2.3,
+      2.1,
+      4.0
+    ]
+  },
+  {
+    "questionId": "q-070",
+    "source": {
+      "image": "1785934222214_8013660885024387896_8013660885024387896_01986394fdbfe8474191e650b7b28132.jpg",
+      "printedPage": 12,
+      "questionIndexOnPage": 2
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.892,
+    "groupCount": 4,
+    "circleCountOnPage": 7,
+    "blueScores": [
+      3.0,
+      1.7,
+      2.4,
+      2.1
+    ]
+  },
+  {
+    "questionId": "q-071",
+    "source": {
+      "image": "1785934222214_8013660885024387896_8013660885024387896_01986394fdbfe8474191e650b7b28132.jpg",
+      "printedPage": 12,
+      "questionIndexOnPage": 3
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.886,
+    "groupCount": 3,
+    "circleCountOnPage": 7,
+    "blueScores": [
+      2.5,
+      2.7,
+      4.1
+    ]
+  },
+  {
+    "questionId": "q-072",
+    "source": {
+      "image": "1785934222214_8013660885024387896_8013660885024387896_01986394fdbfe8474191e650b7b28132.jpg",
+      "printedPage": 12,
+      "questionIndexOnPage": 4
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.838,
+    "groupCount": 3,
+    "circleCountOnPage": 7,
+    "blueScores": [
+      1.5,
+      4.2,
+      3.7
+    ]
+  },
+  {
+    "questionId": "q-073",
+    "source": {
+      "image": "1785934222214_8013660885024387896_8013660885024387896_01986394fdbfe8474191e650b7b28132.jpg",
+      "printedPage": 12,
+      "questionIndexOnPage": 5
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.845,
+    "groupCount": 4,
+    "circleCountOnPage": 7,
+    "blueScores": [
+      2.7,
+      3.4,
+      4.2,
+      3.9
+    ]
+  },
+  {
+    "questionId": "q-074",
+    "source": {
+      "image": "1785934222214_8013660885024387896_8013660885024387896_01986394fdbfe8474191e650b7b28132.jpg",
+      "printedPage": 12,
+      "questionIndexOnPage": 6
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.824,
+    "groupCount": 4,
+    "circleCountOnPage": 7,
+    "blueScores": [
+      9.9,
+      4.3,
+      6.1,
+      7.4
+    ]
+  },
+  {
+    "questionId": "q-075",
+    "source": {
+      "image": "1785934222214_8013660885024387896_8013660885024387896_01986394fdbfe8474191e650b7b28132.jpg",
+      "printedPage": 12,
+      "questionIndexOnPage": 7
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.436,
+    "groupCount": 1,
+    "circleCountOnPage": 7,
+    "blueScores": [
+      6.9
+    ]
+  },
+  {
+    "questionId": "q-076",
+    "source": {
+      "image": "1785934222223_8013660885024387896_8013660885024387896_f9ebd150d44f72b9eb0fca058a2305b2.jpg",
+      "printedPage": 13,
+      "questionIndexOnPage": 1
+    },
+    "predictedOptionIndex": 1,
+    "predictedOptionId": "B",
+    "markerType": "selection-circle",
+    "confidence": 0.83,
+    "groupCount": 3,
+    "circleCountOnPage": 8,
+    "blueScores": [
+      0.8,
+      1.9,
+      1.5
+    ]
+  },
+  {
+    "questionId": "q-077",
+    "source": {
+      "image": "1785934222223_8013660885024387896_8013660885024387896_f9ebd150d44f72b9eb0fca058a2305b2.jpg",
+      "printedPage": 13,
+      "questionIndexOnPage": 2
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.907,
+    "groupCount": 4,
+    "circleCountOnPage": 8,
+    "blueScores": [
+      1.0,
+      1.7,
+      1.7,
+      2.2
+    ]
+  },
+  {
+    "questionId": "q-078",
+    "source": {
+      "image": "1785934222223_8013660885024387896_8013660885024387896_f9ebd150d44f72b9eb0fca058a2305b2.jpg",
+      "printedPage": 13,
+      "questionIndexOnPage": 3
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.909,
+    "groupCount": 4,
+    "circleCountOnPage": 8,
+    "blueScores": [
+      1.9,
+      2.0,
+      2.5,
+      1.8
+    ]
+  },
+  {
+    "questionId": "q-079",
+    "source": {
+      "image": "1785934222223_8013660885024387896_8013660885024387896_f9ebd150d44f72b9eb0fca058a2305b2.jpg",
+      "printedPage": 13,
+      "questionIndexOnPage": 4
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.902,
+    "groupCount": 4,
+    "circleCountOnPage": 8,
+    "blueScores": [
+      2.8,
+      2.6,
+      2.8,
+      2.6
+    ]
+  },
+  {
+    "questionId": "q-080",
+    "source": {
+      "image": "1785934222223_8013660885024387896_8013660885024387896_f9ebd150d44f72b9eb0fca058a2305b2.jpg",
+      "printedPage": 13,
+      "questionIndexOnPage": 5
+    },
+    "predictedOptionIndex": 3,
+    "predictedOptionId": "D",
+    "markerType": "selection-circle",
+    "confidence": 0.763,
+    "groupCount": 4,
+    "circleCountOnPage": 8,
+    "blueScores": [
+      3.6,
+      4.8,
+      4.1,
+      3.1
+    ]
+  },
+  {
+    "questionId": "q-081",
+    "source": {
+      "image": "1785934222223_8013660885024387896_8013660885024387896_f9ebd150d44f72b9eb0fca058a2305b2.jpg",
+      "printedPage": 13,
+      "questionIndexOnPage": 6
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.729,
+    "groupCount": 2,
+    "circleCountOnPage": 8,
+    "blueScores": [
+      16.9,
+      19.5
+    ]
+  },
+  {
+    "questionId": "q-082",
+    "source": {
+      "image": "1785934222231_8013660885024387896_8013660885024387896_29303c346500199b5b2b19c66120430b.jpg",
+      "printedPage": 14,
+      "questionIndexOnPage": 1
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.781,
+    "groupCount": 3,
+    "circleCountOnPage": 9,
+    "blueScores": [
+      1.0,
+      1.5,
+      1.4
+    ]
+  },
+  {
+    "questionId": "q-083",
+    "source": {
+      "image": "1785934222231_8013660885024387896_8013660885024387896_29303c346500199b5b2b19c66120430b.jpg",
+      "printedPage": 14,
+      "questionIndexOnPage": 2
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.772,
+    "groupCount": 3,
+    "circleCountOnPage": 9,
+    "blueScores": [
+      2.1,
+      1.8,
+      2.3
+    ]
+  },
+  {
+    "questionId": "q-084",
+    "source": {
+      "image": "1785934222231_8013660885024387896_8013660885024387896_29303c346500199b5b2b19c66120430b.jpg",
+      "printedPage": 14,
+      "questionIndexOnPage": 3
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.772,
+    "groupCount": 3,
+    "circleCountOnPage": 9,
+    "blueScores": [
+      2.6,
+      2.5,
+      3.2
+    ]
+  },
+  {
+    "questionId": "q-085",
+    "source": {
+      "image": "1785934222231_8013660885024387896_8013660885024387896_29303c346500199b5b2b19c66120430b.jpg",
+      "printedPage": 14,
+      "questionIndexOnPage": 4
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.746,
+    "groupCount": 3,
+    "circleCountOnPage": 9,
+    "blueScores": [
+      3.5,
+      3.3,
+      3.1
+    ]
+  },
+  {
+    "questionId": "q-086",
+    "source": {
+      "image": "1785934222231_8013660885024387896_8013660885024387896_29303c346500199b5b2b19c66120430b.jpg",
+      "printedPage": 14,
+      "questionIndexOnPage": 5
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.691,
+    "groupCount": 3,
+    "circleCountOnPage": 9,
+    "blueScores": [
+      2.6,
+      4.4,
+      5.5
+    ]
+  },
+  {
+    "questionId": "q-087",
+    "source": {
+      "image": "1785934222231_8013660885024387896_8013660885024387896_29303c346500199b5b2b19c66120430b.jpg",
+      "printedPage": 14,
+      "questionIndexOnPage": 6
+    },
+    "predictedOptionIndex": 3,
+    "predictedOptionId": "D",
+    "markerType": "selection-circle",
+    "confidence": 0.88,
+    "groupCount": 4,
+    "circleCountOnPage": 9,
+    "blueScores": [
+      5.6,
+      6.9,
+      13.2,
+      5.0
+    ]
+  },
+  {
+    "questionId": "q-088",
+    "source": {
+      "image": "1785934222231_8013660885024387896_8013660885024387896_29303c346500199b5b2b19c66120430b.jpg",
+      "printedPage": 14,
+      "questionIndexOnPage": 7
+    },
+    "predictedOptionIndex": 1,
+    "predictedOptionId": "B",
+    "markerType": "selection-circle",
+    "confidence": 0.907,
+    "groupCount": 2,
+    "circleCountOnPage": 9,
+    "blueScores": [
+      18.5,
+      16.0
+    ]
+  },
+  {
+    "questionId": "q-089",
+    "source": {
+      "image": "1785934222240_8013660885024387896_8013660885024387896_156264b132a4dfbbe65d2bb930f20ae6.jpg",
+      "printedPage": 15,
+      "questionIndexOnPage": 1
+    },
+    "predictedOptionIndex": 2,
+    "predictedOptionId": "C",
+    "markerType": "selection-circle",
+    "confidence": 0.912,
+    "groupCount": 4,
+    "circleCountOnPage": 5,
+    "blueScores": [
+      1.7,
+      2.3,
+      2.6,
+      1.6
+    ]
+  },
+  {
+    "questionId": "q-090",
+    "source": {
+      "image": "1785934222240_8013660885024387896_8013660885024387896_156264b132a4dfbbe65d2bb930f20ae6.jpg",
+      "printedPage": 15,
+      "questionIndexOnPage": 2
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.706,
+    "groupCount": 2,
+    "circleCountOnPage": 5,
+    "blueScores": [
+      1.8,
+      1.5
+    ]
+  },
+  {
+    "questionId": "q-091",
+    "source": {
+      "image": "1785934222240_8013660885024387896_8013660885024387896_156264b132a4dfbbe65d2bb930f20ae6.jpg",
+      "printedPage": 15,
+      "questionIndexOnPage": 3
+    },
+    "predictedOptionIndex": null,
+    "predictedOptionId": null,
+    "markerType": "none",
+    "confidence": 0.0,
+    "groupCount": 4,
+    "circleCountOnPage": 5,
+    "blueScores": [
+      0.9,
+      2.9,
+      2.5,
+      2.9
+    ]
+  },
+  {
+    "questionId": "q-092",
+    "source": {
+      "image": "1785934222240_8013660885024387896_8013660885024387896_156264b132a4dfbbe65d2bb930f20ae6.jpg",
+      "printedPage": 15,
+      "questionIndexOnPage": 4
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.913,
+    "groupCount": 4,
+    "circleCountOnPage": 5,
+    "blueScores": [
+      3.2,
+      2.7,
+      1.7,
+      3.0
+    ]
+  },
+  {
+    "questionId": "q-093",
+    "source": {
+      "image": "1785934222240_8013660885024387896_8013660885024387896_156264b132a4dfbbe65d2bb930f20ae6.jpg",
+      "printedPage": 15,
+      "questionIndexOnPage": 5
+    },
+    "predictedOptionIndex": 1,
+    "predictedOptionId": "B",
+    "markerType": "selection-circle",
+    "confidence": 0.874,
+    "groupCount": 4,
+    "circleCountOnPage": 5,
+    "blueScores": [
+      9.9,
+      3.5,
+      3.2,
+      8.4
+    ]
+  },
+  {
+    "questionId": "q-094",
+    "source": {
+      "image": "1785934222240_8013660885024387896_8013660885024387896_156264b132a4dfbbe65d2bb930f20ae6.jpg",
+      "printedPage": 15,
+      "questionIndexOnPage": 6
+    },
+    "predictedOptionIndex": null,
+    "predictedOptionId": null,
+    "markerType": "none",
+    "confidence": 0.0,
+    "groupCount": 2,
+    "circleCountOnPage": 5,
+    "blueScores": [
+      6.9,
+      11.8
+    ]
+  },
+  {
+    "questionId": "q-095",
+    "source": {
+      "image": "1785934222248_8013660885024387896_8013660885024387896_d6bd5c379376fa405a955302ccd42706.jpg",
+      "printedPage": 16,
+      "questionIndexOnPage": 1
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.888,
+    "groupCount": 2,
+    "circleCountOnPage": 10,
+    "blueScores": [
+      4.0,
+      2.9
+    ]
+  },
+  {
+    "questionId": "q-096",
+    "source": {
+      "image": "1785934222248_8013660885024387896_8013660885024387896_d6bd5c379376fa405a955302ccd42706.jpg",
+      "printedPage": 16,
+      "questionIndexOnPage": 2
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.882,
+    "groupCount": 3,
+    "circleCountOnPage": 10,
+    "blueScores": [
+      4.1,
+      3.9,
+      2.0
+    ]
+  },
+  {
+    "questionId": "q-097",
+    "source": {
+      "image": "1785934222248_8013660885024387896_8013660885024387896_d6bd5c379376fa405a955302ccd42706.jpg",
+      "printedPage": 16,
+      "questionIndexOnPage": 3
+    },
+    "predictedOptionIndex": 1,
+    "predictedOptionId": "B",
+    "markerType": "selection-circle",
+    "confidence": 0.855,
+    "groupCount": 3,
+    "circleCountOnPage": 10,
+    "blueScores": [
+      6.7,
+      3.7,
+      3.9
+    ]
+  },
+  {
+    "questionId": "q-098",
+    "source": {
+      "image": "1785934222248_8013660885024387896_8013660885024387896_d6bd5c379376fa405a955302ccd42706.jpg",
+      "printedPage": 16,
+      "questionIndexOnPage": 4
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.804,
+    "groupCount": 3,
+    "circleCountOnPage": 10,
+    "blueScores": [
+      3.3,
+      4.1,
+      3.3
+    ]
+  },
+  {
+    "questionId": "q-099",
+    "source": {
+      "image": "1785934222248_8013660885024387896_8013660885024387896_d6bd5c379376fa405a955302ccd42706.jpg",
+      "printedPage": 16,
+      "questionIndexOnPage": 5
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.795,
+    "groupCount": 3,
+    "circleCountOnPage": 10,
+    "blueScores": [
+      3.2,
+      3.9,
+      4.2
+    ]
+  },
+  {
+    "questionId": "q-100",
+    "source": {
+      "image": "1785934222248_8013660885024387896_8013660885024387896_d6bd5c379376fa405a955302ccd42706.jpg",
+      "printedPage": 16,
+      "questionIndexOnPage": 6
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.902,
+    "groupCount": 2,
+    "circleCountOnPage": 10,
+    "blueScores": [
+      3.8,
+      4.0
+    ]
+  },
+  {
+    "questionId": "q-101",
+    "source": {
+      "image": "1785934222248_8013660885024387896_8013660885024387896_d6bd5c379376fa405a955302ccd42706.jpg",
+      "printedPage": 16,
+      "questionIndexOnPage": 7
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.802,
+    "groupCount": 3,
+    "circleCountOnPage": 10,
+    "blueScores": [
+      4.6,
+      4.4,
+      4.5
+    ]
+  },
+  {
+    "questionId": "q-102",
+    "source": {
+      "image": "1785934222248_8013660885024387896_8013660885024387896_d6bd5c379376fa405a955302ccd42706.jpg",
+      "printedPage": 16,
+      "questionIndexOnPage": 8
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.763,
+    "groupCount": 3,
+    "circleCountOnPage": 10,
+    "blueScores": [
+      5.9,
+      6.5,
+      6.2
+    ]
+  },
+  {
+    "questionId": "q-103",
+    "source": {
+      "image": "1785934222248_8013660885024387896_8013660885024387896_d6bd5c379376fa405a955302ccd42706.jpg",
+      "printedPage": 16,
+      "questionIndexOnPage": 9
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.816,
+    "groupCount": 2,
+    "circleCountOnPage": 10,
+    "blueScores": [
+      10.8,
+      14.4
+    ]
+  },
+  {
+    "questionId": "q-104",
+    "source": {
+      "image": "1785934222256_8013660885024387896_8013660885024387896_32c3a196ef90089abdca8b0967de69bf.jpg",
+      "printedPage": 17,
+      "questionIndexOnPage": 1
+    },
+    "predictedOptionIndex": null,
+    "predictedOptionId": null,
+    "markerType": "none",
+    "confidence": 0.0,
+    "groupCount": 2,
+    "circleCountOnPage": 3,
+    "blueScores": [
+      6.0,
+      5.4
+    ]
+  },
+  {
+    "questionId": "q-105",
+    "source": {
+      "image": "1785934222256_8013660885024387896_8013660885024387896_32c3a196ef90089abdca8b0967de69bf.jpg",
+      "printedPage": 17,
+      "questionIndexOnPage": 2
+    },
+    "predictedOptionIndex": null,
+    "predictedOptionId": null,
+    "markerType": "none",
+    "confidence": 0.0,
+    "groupCount": 3,
+    "circleCountOnPage": 3,
+    "blueScores": [
+      0.9,
+      1.9,
+      1.4
+    ]
+  },
+  {
+    "questionId": "q-106",
+    "source": {
+      "image": "1785934222256_8013660885024387896_8013660885024387896_32c3a196ef90089abdca8b0967de69bf.jpg",
+      "printedPage": 17,
+      "questionIndexOnPage": 3
+    },
+    "predictedOptionIndex": null,
+    "predictedOptionId": null,
+    "markerType": "none",
+    "confidence": 0.0,
+    "groupCount": 3,
+    "circleCountOnPage": 3,
+    "blueScores": [
+      1.9,
+      1.8,
+      2.4
+    ]
+  },
+  {
+    "questionId": "q-107",
+    "source": {
+      "image": "1785934222256_8013660885024387896_8013660885024387896_32c3a196ef90089abdca8b0967de69bf.jpg",
+      "printedPage": 17,
+      "questionIndexOnPage": 4
+    },
+    "predictedOptionIndex": null,
+    "predictedOptionId": null,
+    "markerType": "none",
+    "confidence": 0.0,
+    "groupCount": 3,
+    "circleCountOnPage": 3,
+    "blueScores": [
+      2.2,
+      4.3,
+      2.8
+    ]
+  },
+  {
+    "questionId": "q-108",
+    "source": {
+      "image": "1785934222256_8013660885024387896_8013660885024387896_32c3a196ef90089abdca8b0967de69bf.jpg",
+      "printedPage": 17,
+      "questionIndexOnPage": 5
+    },
+    "predictedOptionIndex": null,
+    "predictedOptionId": null,
+    "markerType": "none",
+    "confidence": 0.0,
+    "groupCount": 2,
+    "circleCountOnPage": 3,
+    "blueScores": [
+      3.6,
+      3.4
+    ]
+  },
+  {
+    "questionId": "q-109",
+    "source": {
+      "image": "1785934222256_8013660885024387896_8013660885024387896_32c3a196ef90089abdca8b0967de69bf.jpg",
+      "printedPage": 17,
+      "questionIndexOnPage": 6
+    },
+    "predictedOptionIndex": null,
+    "predictedOptionId": null,
+    "markerType": "none",
+    "confidence": 0.0,
+    "groupCount": 3,
+    "circleCountOnPage": 3,
+    "blueScores": [
+      6.0,
+      6.4,
+      9.0
+    ]
+  },
+  {
+    "questionId": "q-110",
+    "source": {
+      "image": "1785934222256_8013660885024387896_8013660885024387896_32c3a196ef90089abdca8b0967de69bf.jpg",
+      "printedPage": 17,
+      "questionIndexOnPage": 7
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.73,
+    "groupCount": 2,
+    "circleCountOnPage": 3,
+    "blueScores": [
+      8.3,
+      10.8
+    ]
+  },
+  {
+    "questionId": "q-111",
+    "source": {
+      "image": "1785934222256_8013660885024387896_8013660885024387896_32c3a196ef90089abdca8b0967de69bf.jpg",
+      "printedPage": 17,
+      "questionIndexOnPage": 8
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.79,
+    "groupCount": 3,
+    "circleCountOnPage": 3,
+    "blueScores": [
+      15.7,
+      16.9,
+      18.7
+    ]
+  },
+  {
+    "questionId": "q-112",
+    "source": {
+      "image": "1785934222256_8013660885024387896_8013660885024387896_32c3a196ef90089abdca8b0967de69bf.jpg",
+      "printedPage": 17,
+      "questionIndexOnPage": 9
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.708,
+    "groupCount": 2,
+    "circleCountOnPage": 3,
+    "blueScores": [
+      12.2,
+      15.2
+    ]
+  },
+  {
+    "questionId": "q-113",
+    "source": {
+      "image": "1785934222265_8013660885024387896_8013660885024387896_1b25f945cf7f621ec7391da1b29d9291.jpg",
+      "printedPage": 18,
+      "questionIndexOnPage": 1
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.749,
+    "groupCount": 3,
+    "circleCountOnPage": 8,
+    "blueScores": [
+      0.9,
+      1.3,
+      1.0
+    ]
+  },
+  {
+    "questionId": "q-114",
+    "source": {
+      "image": "1785934222265_8013660885024387896_8013660885024387896_1b25f945cf7f621ec7391da1b29d9291.jpg",
+      "printedPage": 18,
+      "questionIndexOnPage": 2
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.883,
+    "groupCount": 3,
+    "circleCountOnPage": 8,
+    "blueScores": [
+      0.9,
+      1.9,
+      1.5
+    ]
+  },
+  {
+    "questionId": "q-115",
+    "source": {
+      "image": "1785934222265_8013660885024387896_8013660885024387896_1b25f945cf7f621ec7391da1b29d9291.jpg",
+      "printedPage": 18,
+      "questionIndexOnPage": 3
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.792,
+    "groupCount": 3,
+    "circleCountOnPage": 8,
+    "blueScores": [
+      1.4,
+      1.6,
+      3.2
+    ]
+  },
+  {
+    "questionId": "q-116",
+    "source": {
+      "image": "1785934222265_8013660885024387896_8013660885024387896_1b25f945cf7f621ec7391da1b29d9291.jpg",
+      "printedPage": 18,
+      "questionIndexOnPage": 4
+    },
+    "predictedOptionIndex": 2,
+    "predictedOptionId": "C",
+    "markerType": "selection-circle",
+    "confidence": 0.914,
+    "groupCount": 4,
+    "circleCountOnPage": 8,
+    "blueScores": [
+      2.3,
+      2.0,
+      2.2,
+      2.6
+    ]
+  },
+  {
+    "questionId": "q-117",
+    "source": {
+      "image": "1785934222265_8013660885024387896_8013660885024387896_1b25f945cf7f621ec7391da1b29d9291.jpg",
+      "printedPage": 18,
+      "questionIndexOnPage": 5
+    },
+    "predictedOptionIndex": 1,
+    "predictedOptionId": "B",
+    "markerType": "selection-circle",
+    "confidence": 0.909,
+    "groupCount": 4,
+    "circleCountOnPage": 8,
+    "blueScores": [
+      2.2,
+      3.1,
+      2.8,
+      3.0
+    ]
+  },
+  {
+    "questionId": "q-118",
+    "source": {
+      "image": "1785934222265_8013660885024387896_8013660885024387896_1b25f945cf7f621ec7391da1b29d9291.jpg",
+      "printedPage": 18,
+      "questionIndexOnPage": 6
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.785,
+    "groupCount": 3,
+    "circleCountOnPage": 8,
+    "blueScores": [
+      2.5,
+      2.8,
+      2.2
+    ]
+  },
+  {
+    "questionId": "q-119",
+    "source": {
+      "image": "1785934222265_8013660885024387896_8013660885024387896_1b25f945cf7f621ec7391da1b29d9291.jpg",
+      "printedPage": 18,
+      "questionIndexOnPage": 7
+    },
+    "predictedOptionIndex": 1,
+    "predictedOptionId": "B",
+    "markerType": "selection-circle",
+    "confidence": 0.777,
+    "groupCount": 4,
+    "circleCountOnPage": 8,
+    "blueScores": [
+      4.2,
+      1.7,
+      3.5,
+      4.7
+    ]
+  },
+  {
+    "questionId": "q-120",
+    "source": {
+      "image": "1785934222265_8013660885024387896_8013660885024387896_1b25f945cf7f621ec7391da1b29d9291.jpg",
+      "printedPage": 18,
+      "questionIndexOnPage": 8
+    },
+    "predictedOptionIndex": 2,
+    "predictedOptionId": "C",
+    "markerType": "selection-circle",
+    "confidence": 0.854,
+    "groupCount": 4,
+    "circleCountOnPage": 8,
+    "blueScores": [
+      4.8,
+      2.5,
+      3.5,
+      2.8
+    ]
+  },
+  {
+    "questionId": "q-121",
+    "source": {
+      "image": "1785934222273_8013660885024387896_8013660885024387896_10abff972d135b3a937992cf25a71834.jpg",
+      "printedPage": 18,
+      "questionIndexOnPage": 1
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.749,
+    "groupCount": 3,
+    "circleCountOnPage": 8,
+    "blueScores": [
+      0.9,
+      1.3,
+      1.0
+    ]
+  },
+  {
+    "questionId": "q-122",
+    "source": {
+      "image": "1785934222273_8013660885024387896_8013660885024387896_10abff972d135b3a937992cf25a71834.jpg",
+      "printedPage": 18,
+      "questionIndexOnPage": 2
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.883,
+    "groupCount": 3,
+    "circleCountOnPage": 8,
+    "blueScores": [
+      0.9,
+      1.9,
+      1.5
+    ]
+  },
+  {
+    "questionId": "q-123",
+    "source": {
+      "image": "1785934222273_8013660885024387896_8013660885024387896_10abff972d135b3a937992cf25a71834.jpg",
+      "printedPage": 18,
+      "questionIndexOnPage": 3
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.792,
+    "groupCount": 3,
+    "circleCountOnPage": 8,
+    "blueScores": [
+      1.4,
+      1.6,
+      3.2
+    ]
+  },
+  {
+    "questionId": "q-124",
+    "source": {
+      "image": "1785934222273_8013660885024387896_8013660885024387896_10abff972d135b3a937992cf25a71834.jpg",
+      "printedPage": 18,
+      "questionIndexOnPage": 4
+    },
+    "predictedOptionIndex": 2,
+    "predictedOptionId": "C",
+    "markerType": "selection-circle",
+    "confidence": 0.914,
+    "groupCount": 4,
+    "circleCountOnPage": 8,
+    "blueScores": [
+      2.3,
+      2.0,
+      2.2,
+      2.6
+    ]
+  },
+  {
+    "questionId": "q-125",
+    "source": {
+      "image": "1785934222273_8013660885024387896_8013660885024387896_10abff972d135b3a937992cf25a71834.jpg",
+      "printedPage": 18,
+      "questionIndexOnPage": 5
+    },
+    "predictedOptionIndex": 1,
+    "predictedOptionId": "B",
+    "markerType": "selection-circle",
+    "confidence": 0.909,
+    "groupCount": 4,
+    "circleCountOnPage": 8,
+    "blueScores": [
+      2.2,
+      3.1,
+      2.8,
+      3.0
+    ]
+  },
+  {
+    "questionId": "q-126",
+    "source": {
+      "image": "1785934222273_8013660885024387896_8013660885024387896_10abff972d135b3a937992cf25a71834.jpg",
+      "printedPage": 18,
+      "questionIndexOnPage": 6
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.785,
+    "groupCount": 3,
+    "circleCountOnPage": 8,
+    "blueScores": [
+      2.5,
+      2.8,
+      2.2
+    ]
+  },
+  {
+    "questionId": "q-127",
+    "source": {
+      "image": "1785934222273_8013660885024387896_8013660885024387896_10abff972d135b3a937992cf25a71834.jpg",
+      "printedPage": 18,
+      "questionIndexOnPage": 7
+    },
+    "predictedOptionIndex": 1,
+    "predictedOptionId": "B",
+    "markerType": "selection-circle",
+    "confidence": 0.777,
+    "groupCount": 4,
+    "circleCountOnPage": 8,
+    "blueScores": [
+      4.2,
+      1.7,
+      3.5,
+      4.7
+    ]
+  },
+  {
+    "questionId": "q-128",
+    "source": {
+      "image": "1785934222273_8013660885024387896_8013660885024387896_10abff972d135b3a937992cf25a71834.jpg",
+      "printedPage": 18,
+      "questionIndexOnPage": 8
+    },
+    "predictedOptionIndex": 2,
+    "predictedOptionId": "C",
+    "markerType": "selection-circle",
+    "confidence": 0.854,
+    "groupCount": 4,
+    "circleCountOnPage": 8,
+    "blueScores": [
+      4.8,
+      2.5,
+      3.5,
+      2.8
+    ]
+  },
+  {
+    "questionId": "q-129",
+    "source": {
+      "image": "1785934222281_8013660885024387896_8013660885024387896_48e330b9782bc5e7bac4fc1ee838b713.jpg",
+      "printedPage": 20,
+      "questionIndexOnPage": 1
+    },
+    "predictedOptionIndex": 2,
+    "predictedOptionId": "C",
+    "markerType": "selection-circle",
+    "confidence": 0.834,
+    "groupCount": 3,
+    "circleCountOnPage": 10,
+    "blueScores": [
+      0.0,
+      0.3,
+      0.4
+    ]
+  },
+  {
+    "questionId": "q-130",
+    "source": {
+      "image": "1785934222281_8013660885024387896_8013660885024387896_48e330b9782bc5e7bac4fc1ee838b713.jpg",
+      "printedPage": 20,
+      "questionIndexOnPage": 2
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.804,
+    "groupCount": 3,
+    "circleCountOnPage": 10,
+    "blueScores": [
+      0.4,
+      0.9,
+      0.4
+    ]
+  },
+  {
+    "questionId": "q-131",
+    "source": {
+      "image": "1785934222281_8013660885024387896_8013660885024387896_48e330b9782bc5e7bac4fc1ee838b713.jpg",
+      "printedPage": 20,
+      "questionIndexOnPage": 3
+    },
+    "predictedOptionIndex": 1,
+    "predictedOptionId": "B",
+    "markerType": "selection-circle",
+    "confidence": 0.845,
+    "groupCount": 3,
+    "circleCountOnPage": 10,
+    "blueScores": [
+      1.8,
+      1.3,
+      1.6
+    ]
+  },
+  {
+    "questionId": "q-132",
+    "source": {
+      "image": "1785934222281_8013660885024387896_8013660885024387896_48e330b9782bc5e7bac4fc1ee838b713.jpg",
+      "printedPage": 20,
+      "questionIndexOnPage": 4
+    },
+    "predictedOptionIndex": 2,
+    "predictedOptionId": "C",
+    "markerType": "selection-circle",
+    "confidence": 0.83,
+    "groupCount": 3,
+    "circleCountOnPage": 10,
+    "blueScores": [
+      1.9,
+      2.3,
+      2.4
+    ]
+  },
+  {
+    "questionId": "q-133",
+    "source": {
+      "image": "1785934222281_8013660885024387896_8013660885024387896_48e330b9782bc5e7bac4fc1ee838b713.jpg",
+      "printedPage": 20,
+      "questionIndexOnPage": 5
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.869,
+    "groupCount": 3,
+    "circleCountOnPage": 10,
+    "blueScores": [
+      2.9,
+      3.1,
+      3.2
+    ]
+  },
+  {
+    "questionId": "q-134",
+    "source": {
+      "image": "1785934222281_8013660885024387896_8013660885024387896_48e330b9782bc5e7bac4fc1ee838b713.jpg",
+      "printedPage": 20,
+      "questionIndexOnPage": 6
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.747,
+    "groupCount": 3,
+    "circleCountOnPage": 10,
+    "blueScores": [
+      5.4,
+      4.6,
+      5.5
+    ]
+  },
+  {
+    "questionId": "q-135",
+    "source": {
+      "image": "1785934222281_8013660885024387896_8013660885024387896_48e330b9782bc5e7bac4fc1ee838b713.jpg",
+      "printedPage": 20,
+      "questionIndexOnPage": 7
+    },
+    "predictedOptionIndex": 2,
+    "predictedOptionId": "C",
+    "markerType": "selection-circle",
+    "confidence": 0.842,
+    "groupCount": 3,
+    "circleCountOnPage": 10,
+    "blueScores": [
+      7.1,
+      7.1,
+      8.9
+    ]
+  },
+  {
+    "questionId": "q-136",
+    "source": {
+      "image": "1785934222281_8013660885024387896_8013660885024387896_48e330b9782bc5e7bac4fc1ee838b713.jpg",
+      "printedPage": 20,
+      "questionIndexOnPage": 8
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.762,
+    "groupCount": 3,
+    "circleCountOnPage": 10,
+    "blueScores": [
+      14.8,
+      16.2,
+      15.6
+    ]
+  },
+  {
+    "questionId": "q-137",
+    "source": {
+      "image": "1785934222281_8013660885024387896_8013660885024387896_48e330b9782bc5e7bac4fc1ee838b713.jpg",
+      "printedPage": 20,
+      "questionIndexOnPage": 9
+    },
+    "predictedOptionIndex": 2,
+    "predictedOptionId": "C",
+    "markerType": "selection-circle",
+    "confidence": 0.89,
+    "groupCount": 4,
+    "circleCountOnPage": 10,
+    "blueScores": [
+      9.2,
+      20.0,
+      15.7,
+      18.7
+    ]
+  },
+  {
+    "questionId": "q-138",
+    "source": {
+      "image": "1785934222290_8013660885024387896_8013660885024387896_270809bf1096385b406205549085ff9e.jpg",
+      "printedPage": 19,
+      "questionIndexOnPage": 1
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.783,
+    "groupCount": 3,
+    "circleCountOnPage": 8,
+    "blueScores": [
+      2.0,
+      2.7,
+      4.0
+    ]
+  },
+  {
+    "questionId": "q-139",
+    "source": {
+      "image": "1785934222290_8013660885024387896_8013660885024387896_270809bf1096385b406205549085ff9e.jpg",
+      "printedPage": 19,
+      "questionIndexOnPage": 2
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.725,
+    "groupCount": 1,
+    "circleCountOnPage": 8,
+    "blueScores": [
+      1.6
+    ]
+  },
+  {
+    "questionId": "q-140",
+    "source": {
+      "image": "1785934222290_8013660885024387896_8013660885024387896_270809bf1096385b406205549085ff9e.jpg",
+      "printedPage": 19,
+      "questionIndexOnPage": 3
+    },
+    "predictedOptionIndex": 2,
+    "predictedOptionId": "C",
+    "markerType": "selection-circle",
+    "confidence": 0.864,
+    "groupCount": 3,
+    "circleCountOnPage": 8,
+    "blueScores": [
+      1.4,
+      1.7,
+      1.4
+    ]
+  },
+  {
+    "questionId": "q-141",
+    "source": {
+      "image": "1785934222290_8013660885024387896_8013660885024387896_270809bf1096385b406205549085ff9e.jpg",
+      "printedPage": 19,
+      "questionIndexOnPage": 4
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.64,
+    "groupCount": 3,
+    "circleCountOnPage": 8,
+    "blueScores": [
+      2.4,
+      1.6,
+      2.8
+    ]
+  },
+  {
+    "questionId": "q-142",
+    "source": {
+      "image": "1785934222290_8013660885024387896_8013660885024387896_270809bf1096385b406205549085ff9e.jpg",
+      "printedPage": 19,
+      "questionIndexOnPage": 5
+    },
+    "predictedOptionIndex": 1,
+    "predictedOptionId": "B",
+    "markerType": "selection-circle",
+    "confidence": 0.906,
+    "groupCount": 4,
+    "circleCountOnPage": 8,
+    "blueScores": [
+      4.4,
+      2.6,
+      3.6,
+      2.6
+    ]
+  },
+  {
+    "questionId": "q-143",
+    "source": {
+      "image": "1785934222290_8013660885024387896_8013660885024387896_270809bf1096385b406205549085ff9e.jpg",
+      "printedPage": 19,
+      "questionIndexOnPage": 6
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.89,
+    "groupCount": 4,
+    "circleCountOnPage": 8,
+    "blueScores": [
+      1.5,
+      3.2,
+      3.4,
+      3.8
+    ]
+  },
+  {
+    "questionId": "q-144",
+    "source": {
+      "image": "1785934222290_8013660885024387896_8013660885024387896_270809bf1096385b406205549085ff9e.jpg",
+      "printedPage": 19,
+      "questionIndexOnPage": 7
+    },
+    "predictedOptionIndex": 2,
+    "predictedOptionId": "C",
+    "markerType": "selection-circle",
+    "confidence": 0.895,
+    "groupCount": 4,
+    "circleCountOnPage": 8,
+    "blueScores": [
+      6.5,
+      4.6,
+      4.6,
+      8.4
+    ]
+  },
+  {
+    "questionId": "q-145",
+    "source": {
+      "image": "1785934222290_8013660885024387896_8013660885024387896_270809bf1096385b406205549085ff9e.jpg",
+      "printedPage": 19,
+      "questionIndexOnPage": 8
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.734,
+    "groupCount": 2,
+    "circleCountOnPage": 8,
+    "blueScores": [
+      11.7,
+      11.3
+    ]
+  },
+  {
+    "questionId": "q-146",
+    "source": {
+      "image": "1785934222298_8013660885024387896_8013660885024387896_bfe5ec33a5fc273b51332e202edf9f37.jpg",
+      "printedPage": 21,
+      "questionIndexOnPage": 1
+    },
+    "predictedOptionIndex": 2,
+    "predictedOptionId": "C",
+    "markerType": "selection-circle",
+    "confidence": 0.778,
+    "groupCount": 3,
+    "circleCountOnPage": 3,
+    "blueScores": [
+      3.0,
+      1.5,
+      1.3
+    ]
+  },
+  {
+    "questionId": "q-147",
+    "source": {
+      "image": "1785934222298_8013660885024387896_8013660885024387896_bfe5ec33a5fc273b51332e202edf9f37.jpg",
+      "printedPage": 21,
+      "questionIndexOnPage": 2
+    },
+    "predictedOptionIndex": 0,
+    "predictedOptionId": "A",
+    "markerType": "selection-circle",
+    "confidence": 0.806,
+    "groupCount": 3,
+    "circleCountOnPage": 3,
+    "blueScores": [
+      1.4,
+      1.2,
+      1.1
+    ]
+  }
+]

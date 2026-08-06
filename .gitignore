@@ -1,0 +1,9 @@
+node_modules/
+dist/
+playwright-report/
+test-results/
+.playwright-mcp/
+.tmp-ocr/
+.DS_Store
+data/ocr-work/
+tmp/

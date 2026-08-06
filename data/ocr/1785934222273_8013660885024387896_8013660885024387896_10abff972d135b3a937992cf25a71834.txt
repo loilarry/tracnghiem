@@ -1,0 +1,51 @@
+18
+D, Phòng ngữn, ngân chận, tng pho, khắc phục hảu quả của cáo đột tần công mạng, khung t.
+mạng
+Câu hỏi: Một trong những biện pháo phỏng, chống vi pham pháp luật trên không gian mạng?
+Bồi dưỡng kỹ năng nhận diện các âm muu, thủ đoạn tấn công mạng và các hình thái phát sinh
+trên không gian mạng
+B) Mỗi người cần nắm chắc các thủ đoạn tấn công mạng như đánh sập các website
+C) Nâng cao ý thức phòng tránh, tự vệ khi tham gia mạng xã hội
+D) Tự trau dồi kỹ năng nhận diện âm mưu, thủ đoạn gây nguy cơ mất an ninh mạng
+Câu hỏi:
+Bộ luật Hình sự năm 2015, sửa đổi bổ sung năm 2017 quy định Tội phạm trong lĩnh vực
+công nghệ thông tin, mạng viễn thông tại chương mây?
+A) Chương XX
+Chương XXI
+C) Chương XXII!
+D) Chương XXI
+Câu hỏi: Nội dung của chương II - Luật An ninh mạng năm 2018 là gì?
++) Phòng ngừa, xử lý hành vi xâm phạm an ninh mạng
+B) Phòng chồng, ngăn ngừa hành vi xâm phạm an ninh mạng
+C) Bảo vệ an ninh mạng đối với hệ thống thông tin quan trọng về an ninh quốc gia
+D) Bảo đảm an toàn thông tin mạng
+Câu hỏi: Nội dung của chương II - Luật An ninh mạng năm 2018 là gì?
+A)/Quản lý nhà nước về an toàn thông tin mạng
+B) Phòng chông, ngăn ngừa hành vi xâm phạm an ninh mạng
+) Bảo vệ an ninh mạng đối với hệ thống thông tin quan trọng về an ninh quốc gia
+D) Tiêu chuẩn, quy chuẩn kỹ thuật an toàn thông tin mạng
+Câu hỏi: Nội dung của chương V - Luật An ninh mạng năm 2018 là gì?
+A) Phòng ngừa, xử lý hành vi xâm phạm an ninh mạng
+3) Bảo đảm hoạt động bảo vệ an ninh mạng
+C) Bảo vệ an ninh mạng, hệ thông thông tin quan trọng về an ninh quốc gia
+D) Phát triên nguôn nhân lực an toàn thông tin mạng
+Câu hỏi: Đâu là một trong những đặc điểm của an ninh phi truyền thống (ANPTT)?
+) Các mối đe dọa ANPTT gồm hai loại là có bạo lực và phi bạo lực
+B) Nhãc đên ANPTT không thê không nhắc đên môi đe dọa ANPTT
+C) Phạm vi tác động, ảnh hưởng mang tính xuyên quốc gia
+D) Mối đe dọa ANPTT có sự gắn kết với an ninh phi truyền thống, là các yếu tố xâm hại
+Câu hỏi: Đâu là một trong những đặc điểm của an ninh phi truyền thống (ANPTT)?
+ANPTT không đôi lập với an ninh truyền thông mà là mở rộng nội hàm của khái niệm an
+ninh truyền thông
+") Các mối đe dọa ANPTT đe dọa an ninh khu vực, an ninh quốc tế
+C)
+Sự phụ thuộc và tác động qua lại lẫn nhau của các nước trên các lĩnh vực như kinh tế, tài
+chính, tiền tệ
+D)
+Tội phạm có tổ chức xuyên quốc gia hoạt động phức tạp, khó đấu tranh, đặc biệt là tội phạm
+ma túy
+Câu hỏi: Đâu là một trong những đặc điểm của an ninh phi truyển thống (ANPTT)?
+A)
+Sự phụ thuộc và tác động qua lại lẫn nhau của các nước trên các lĩnh vực như kinh tê, tài
+chính, tiền tệ, mậu dịch, đâu tư, thông tin
+-) Các mối đe dọa ANPTT đa dạng về nguồn gốc, có quá trình tích lũy tiềm tàng

@@ -2,7 +2,7 @@
 
 > Tài liệu thực thi dành cho Codex/AI agents. Thực hiện tuần tự từ `TASK-000` đến `TASK-019`. Không đánh dấu `[x]` nếu chưa đủ bằng chứng trong mục **Definition of Done** của task.
 
-> Trạng thái thực thi 2026-08-05: app đã chạy với 138 câu `verified`; OCR có 147 marker, trong đó còn 1 câu thuộc ảnh nguồn chính (`q-026`) cần người dùng xác nhận, `q-007` đã được đối soát qua đoạn nối trang 4→5, và 8 marker của một ảnh trùng checksum đã được loại khỏi hàng đợi. GitHub Actions đã cấu hình nhưng chưa thể có Pages URL vì workspace chưa có remote/repository được người dùng duyệt.
+> Trạng thái thực thi 2026-08-06: app public tại [loilarry.github.io/tracnghiem](https://loilarry.github.io/tracnghiem/) với 138 câu `verified`; OCR có 147 marker, trong đó còn 1 câu thuộc ảnh nguồn chính (`q-026`) cần người dùng xác nhận, `q-007` đã được đối soát qua đoạn nối trang 4→5, và 8 marker của một ảnh trùng checksum đã được loại khỏi hàng đợi. GitHub Actions run `31061053646` xanh và Pages đã bật theo workflow.
 
 ## 1. Mục tiêu cuối cùng
 
@@ -539,7 +539,7 @@ tracnghiem:progress:v1
 
 - [x] Workflow YAML được kiểm tra syntax.
 - [x] Local production build chạy được dưới path mô phỏng repository.
-- [ ] Khi có remote hợp lệ, GitHub Actions xanh và trả về Pages URL.
+- [x] Khi có remote hợp lệ, GitHub Actions xanh và trả về Pages URL: `https://loilarry.github.io/tracnghiem/`.
 
 ---
 
@@ -547,7 +547,7 @@ tracnghiem:progress:v1
 
 **Dependencies:** Tất cả task trước.
 
-> Trạng thái: `partial` — local release gate đã xanh sau đợt data audit; chưa có remote GitHub/Pages URL và còn 1 câu canonical cần xác nhận.
+> Trạng thái: `partial` — public release đã xanh; còn 1 câu canonical (`q-026`) cần ảnh gốc/đáp án xác nhận.
 
 - [x] Chạy `npm run typecheck`.
 - [x] Chạy `npm run validate:data`.
@@ -559,13 +559,13 @@ tracnghiem:progress:v1
 - [x] Kiểm tra `git status` và xác nhận không có artifact tạm bị track.
 - [x] Xác nhận 138 câu production; báo cáo review còn 1 câu canonical (`q-026`) và ghi rõ 8 marker duplicate đã loại.
 - [x] Xác nhận realistic scenario streak cuối `14/14` (`64/64` cases).
-- [ ] Kiểm tra Pages URL trên desktop và mobile.
-- [ ] Xác nhận refresh trên Pages không trả về 404.
-- [ ] Tạo release summary: chức năng, test evidence, URL, giới hạn và câu chưa xác minh.
+- [x] Kiểm tra Pages URL trên desktop và mobile.
+- [x] Xác nhận refresh trên Pages không trả về 404.
+- [x] Tạo release summary: chức năng, test evidence, URL, giới hạn và câu chưa xác minh (`docs/release-summary.md`).
 
 **Definition of Done:**
 
-- [ ] Website hoạt động từ Pages URL mà không cần backend.
+- [x] Website hoạt động từ Pages URL mà không cần backend.
 - [x] Câu hỏi được render thành chữ và đáp án khớp dữ liệu đã xác minh.
 - [x] Reload không mất progress.
 - [x] Review loop chạy đến khi còn 0 câu cần ôn.
@@ -583,7 +583,7 @@ tracnghiem:progress:v1
 - [x] Refresh/đóng mở lại không mất progress.
 - [x] Mobile, desktop và keyboard flow đều pass.
 - [x] Data validation, unit, benchmark, build và E2E đều pass.
-- [ ] GitHub Pages URL truy cập công khai và chạy ổn định.
+- [x] GitHub Pages URL truy cập công khai và chạy ổn định.
 
 ## 8. Execution log
 
@@ -989,7 +989,18 @@ Agents thêm entry theo mẫu sau, không xóa log cũ:
 
 ## 9. Open decisions cần người dùng duyệt khi đến đúng task
 
-- [ ] GitHub repository/remote đích và tên repo dùng cho Pages.
+- [x] GitHub repository/remote đích và tên repo dùng cho Pages: `loilarry/tracnghiem`.
 - [ ] Câu còn mơ hồ sau `TASK-006`: người dùng xác nhận hoặc loại `q-026` khỏi V1.
-- [ ] Có công khai ảnh nguồn trên GitHub hay chỉ commit dữ liệu chữ; mặc định đề xuất không ship ảnh trong `dist/`.
+- [x] Công khai ảnh nguồn trong repo để audit; `dist/` không ship ảnh gốc.
 - [ ] Có cần xáo trộn thứ tự câu/options hay giữ đúng thứ tự tài liệu; mặc định giữ thứ tự để dễ đối soát.
+
+### 2026-08-06 08:02 - TASK-018/TASK-019 public release and smoke regression
+
+- Agent: Codex
+- Trạng thái: completed for public deployment; `q-026` remains partial by design.
+- Files changed: `.github/workflows/pages.yml` (no workflow logic change after first run), `tests/e2e/coverage.spec.ts`, `tests/benchmark/progress.bench.test.ts`, `README.md`, `docs/release-summary.md`, `IMPLEMENTATION_PLAN.md`.
+- Commands run: `gh repo create loilarry/tracnghiem --public`, `git push -u origin agent/publish-public-quiz`, `git push -u origin main`, `gh api --method POST repos/loilarry/tracnghiem/pages -f build_type=workflow`, `gh run rerun 31061053646 --failed`, `gh run watch 31061053646 --exit-status`, public Playwright smoke at `https://loilarry.github.io/tracnghiem/`.
+- Test evidence: initial workflow failed only because the new repo had Pages disabled; after enabling Pages, run `31061053646` passed build, data validation, typecheck, unit, benchmark, browser E2E, build guard and deploy. Public smoke had no 4xx responses; desktop/mobile reload passed after the locator contract was corrected. Release summary records 16/16 unit, 3/3 benchmark, 64/64 E2E and the public URL.
+- Failures/regressions added: first public smoke assertion incorrectly expected a brand heading and desktop sidebar names on mobile; the page itself returned no HTTP errors. Added scenario 15 with responsive locator selection and a shell-payload benchmark, then reran the corrected smoke checks successfully.
+- Open questions/blockers: `q-026` is still excluded from production because the source image ends at its heading; it needs the original continuation/options before promotion.
+- Next task: user provides the missing q-026 source/answer evidence; add it as a verified question, bump `datasetVersion`, and rerun the full release gate.

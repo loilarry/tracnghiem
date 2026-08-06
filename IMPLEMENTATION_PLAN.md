@@ -2,7 +2,7 @@
 
 > Tài liệu thực thi dành cho Codex/AI agents. Thực hiện tuần tự từ `TASK-000` đến `TASK-019`. Không đánh dấu `[x]` nếu chưa đủ bằng chứng trong mục **Definition of Done** của task.
 
-> Trạng thái thực thi 2026-08-06: app public tại [loilarry.github.io/tracnghiem](https://loilarry.github.io/tracnghiem/) với 138 câu `verified`; OCR có 147 marker, trong đó còn 1 câu thuộc ảnh nguồn chính (`q-026`) cần người dùng xác nhận, `q-007` đã được đối soát qua đoạn nối trang 4→5, và 8 marker của một ảnh trùng checksum đã được loại khỏi hàng đợi. GitHub Actions run `31061053646` xanh và Pages đã bật theo workflow.
+> Trạng thái thực thi 2026-08-06: app public tại [loilarry.github.io/tracnghiem](https://loilarry.github.io/tracnghiem/) với 138 câu `verified`; OCR có 147 marker, trong đó còn 1 câu thuộc ảnh nguồn chính (`q-026`) cần người dùng xác nhận, `q-007` đã được đối soát qua đoạn nối trang 4→5, và 8 marker của một ảnh trùng checksum đã được loại khỏi hàng đợi. GitHub Actions run `31061500608` xanh và Pages đã bật theo workflow.
 
 ## 1. Mục tiêu cuối cùng
 
@@ -1000,7 +1000,7 @@ Agents thêm entry theo mẫu sau, không xóa log cũ:
 - Trạng thái: completed for public deployment; `q-026` remains partial by design.
 - Files changed: `.github/workflows/pages.yml` (no workflow logic change after first run), `tests/e2e/coverage.spec.ts`, `tests/benchmark/progress.bench.test.ts`, `README.md`, `docs/release-summary.md`, `IMPLEMENTATION_PLAN.md`.
 - Commands run: `gh repo create loilarry/tracnghiem --public`, `git push -u origin agent/publish-public-quiz`, `git push -u origin main`, `gh api --method POST repos/loilarry/tracnghiem/pages -f build_type=workflow`, `gh run rerun 31061053646 --failed`, `gh run watch 31061053646 --exit-status`, public Playwright smoke at `https://loilarry.github.io/tracnghiem/`.
-- Test evidence: initial workflow failed only because the new repo had Pages disabled; after enabling Pages, run `31061053646` passed build, data validation, typecheck, unit, benchmark, browser E2E, build guard and deploy. Public smoke had no 4xx responses; desktop/mobile reload passed after the locator contract was corrected. Release summary records 16/16 unit, 3/3 benchmark, 64/64 E2E and the public URL.
+- Test evidence: initial workflow failed only because the new repo had Pages disabled; after enabling Pages, run `31061053646` passed the original release gate and final run `31061500608` passed build, data validation, typecheck, unit, benchmark, browser E2E, build guard and deploy. Public smoke had no 4xx responses; desktop/mobile reload passed after the locator contract was corrected. Release summary records 17/17 unit, 3/3 benchmark, 68/68 E2E and the public URL.
 - Failures/regressions added: first public smoke assertion incorrectly expected a brand heading and desktop sidebar names on mobile; the page itself returned no HTTP errors. Added scenario 15 with responsive locator selection and a shell-payload benchmark, then reran the corrected smoke checks successfully.
 - Open questions/blockers: `q-026` is still excluded from production because the source image ends at its heading; it needs the original continuation/options before promotion.
 - Next task: user provides the missing q-026 source/answer evidence; add it as a verified question, bump `datasetVersion`, and rerun the full release gate.

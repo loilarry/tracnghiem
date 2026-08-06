@@ -155,3 +155,17 @@ test("scenario 14: page-break question renders its verified continuation", async
   await page.getByRole("button", { name: "Trả lời" }).click();
   await expect(page.getByText("Câu trả lời đúng")).toBeVisible();
 });
+
+test("scenario 15: responsive shell exposes a stable public smoke-test contract", async ({ page }) => {
+  await page.goto("/");
+  await expect(page).toHaveTitle("Ôn thi — Trắc nghiệm");
+  await expect(page.getByRole("heading", { name: "Tất cả câu hỏi", level: 2 })).toBeVisible();
+
+  const desktopNav = page.locator(".mode-nav");
+  const mobileNav = page.locator(".mobile-mode-switch");
+  const visibleNav = (await desktopNav.isVisible()) ? desktopNav : mobileNav;
+
+  await expect(visibleNav.getByRole("button", { name: /Tất cả/ })).toContainText(String(questionCount));
+  await expect(visibleNav.getByRole("button", { name: /Câu cần ôn|Cần ôn/ })).toContainText("0");
+  await expect(page.getByText(`${questionCount} câu đã được đối chiếu trong bộ hiện tại`)).toBeVisible();
+});

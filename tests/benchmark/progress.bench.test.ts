@@ -1,6 +1,6 @@
 import { describe, expect, it } from "vitest";
 import { performance } from "node:perf_hooks";
-import { questions } from "../../src/data/questions";
+import { questions, verifiedQuestions } from "../../src/data/questions";
 import { createInitialProgress, reviewIdsFor, submitAnswer } from "../../src/features/progress/progressStore";
 
 describe("progress benchmark", () => {
@@ -28,5 +28,21 @@ describe("progress benchmark", () => {
     const queueElapsed = performance.now() - queueStarted;
     expect(reviewQueue).toHaveLength(1000);
     expect(queueElapsed).toBeLessThan(1000);
+  });
+
+  it("serializes the public shell payload within the release budget", () => {
+    const started = performance.now();
+    const payload = JSON.stringify({
+      allCount: verifiedQuestions.length,
+      reviewCount: 0,
+      sourceNotes: verifiedQuestions.map((question) => `${question.source.printedPage ?? "—"}:${question.source.questionIndexOnPage}`),
+    });
+    const parsed = JSON.parse(payload) as { allCount: number; reviewCount: number; sourceNotes: string[] };
+    const elapsed = performance.now() - started;
+    expect(parsed.allCount).toBe(questions.length);
+    expect(parsed.reviewCount).toBe(0);
+    expect(parsed.sourceNotes).toHaveLength(questions.length);
+    expect(payload.length).toBeLessThan(10_000);
+    expect(elapsed).toBeLessThan(500);
   });
 });

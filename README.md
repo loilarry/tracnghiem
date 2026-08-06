@@ -44,7 +44,7 @@ Nút **Xóa tiến độ** ở khu vực phụ chỉ xóa progress trên thiết
 
 ## Deploy GitHub Pages
 
-Push branch `main` lên một GitHub repository, vào Settings → Pages → Source → GitHub Actions. Workflow `.github/workflows/pages.yml` sẽ validate data, chạy test, build `dist/` và deploy static artifact.
+Website public: [https://loilarry.github.io/tracnghiem/](https://loilarry.github.io/tracnghiem/). Mã nguồn public: [github.com/loilarry/tracnghiem](https://github.com/loilarry/tracnghiem). Workflow `.github/workflows/pages.yml` sẽ validate data, chạy test, build `dist/` và deploy static artifact từ `main`.
 
 Sau khi đã duyệt tên repository, có thể tạo remote và push bằng GitHub CLI:
 
@@ -52,7 +52,7 @@ Sau khi đã duyệt tên repository, có thể tạo remote và push bằng Git
 gh repo create <owner>/<repo> --public --source . --remote origin --push
 ```
 
-Không chạy lệnh này nếu chưa xác nhận owner, tên repo và phạm vi công khai ảnh nguồn.
+Repo hiện đã được tạo ở chế độ public; thư mục `images/` được giữ lại để audit nguồn, nhưng `dist/` không chứa ảnh gốc.
 
 V1 không có backend và không đồng bộ progress giữa thiết bị; mỗi trình duyệt có progress riêng.
 
